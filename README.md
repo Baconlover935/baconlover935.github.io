@@ -1,0 +1,1013 @@
+<html><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/content/location/location.js" id="eppiocemhmnlbhjplcgkofciiegomcon"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/extend-native-history-api.js"></script><script src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/libs/requests.js"></script><head><script src="//archive.org/includes/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app223.us.archive.org';v.server_ms=323;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="/_static/js/bundle-playback.js?v=HxkREWBo" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.pingu.net:80/official_pingu_website_flag_page.htm","20100401175809","https://web.archive.org/","web","/_static/",
+	      "1270144689");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt">
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=3PDvdIFv">
+<!-- End Wayback Rewrite JS Include -->
+
+<title>The Official Pingu Website and Online Store!</title>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta name="TITLE" content="The Official Pingu Website">
+<meta name="AUTHOR" content="HIT Entertainment Limited">
+<meta name="revisit-after" content="30 days">
+<meta name="DESCRIPTION" content="PINGU is about the adventures of a young penguin and his daily experiences of his world.  And when the young penguin is Pingu and his world is the snowy, surprising South Pole, everyday life can become extraordinary and hilarious. More than one billion people have seen PINGU on 140 different TV stations.">
+<meta name="KEYWORDS" content="HIT, HIT, HIT Entertainment, Pingu, Pinga, Pingi, Punki, Pingo, Robby, news, gifts, school, ecards, wallpapers, south pole, gifts, toys, pingu, pingu game,pingu extreme, motto pingu,pingu video,pingu bouncy fun video,pingu net,pingu toy,pingu soft toy,pingu dvd,pingu, picturenasty, pingu, version, pingu, wedding, pingu, forever, bbc, pingu, pingu, com, smack, pingu, game, yeti, pingu, pingu, game, online, pingu, vhs, pingu, sport, pingu, stinky, vhs, cbeebies, pingu, eu, pingu, pingu, thomas, pingu, episode, extreme, pingu, scalda, friends, pingu, download, pingu, pingu, the, penguin, pingu, cartoon, pingu, and, fireman, sam, funny, pingu, game.co.uk, hit, pingu, .com, pingu, pingu, bouncy, pingu, film, doll, pingu, go, pingu, magazine, pingu, pingu, merchandise, mine, pingu, smack, pingu, theme, com, game, pingu, pingu, and, pinga, pinga, pingu, robbie, pingu, poster, pingu, software, pingu, toyshop, age, bbc, pingu, bag, pingu, official, pingu, pingu, penguin, buy, pingu, pingu, shop, penguin, shop, pingu, penguin, merchandise, Stinky, Pingu, -DVD, Stinky, Pingu, Pingu, the, Snowboarder, DVD, HIT Entertainment, Pingu, Pinga, Pingi, Punki, Pingo, Robby, Mother, Father, Grandpa, Aunt, Penguin, Igloo, fish-tennis, fish tennis, snowball, fishing, sledge, sledge race, avalanche accident, barrel of fun, cross country skier, sea lion, seagull, big fish, curling, mountaineer, camera, funfair, icicle, chef, musician, magnet, archer, colouring, print, games, fun, children, preschool, teens, Antarctic, South Pole, mischief, ice caves, mischievous, warm-hearted, cheeky, waa-waa, family, family-loyalty, skiing, ice hockey, nug, mawk">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="language" content="English">
+<meta name="rating" content="General">
+<meta name="copyright" content="© HIT Entertainment Limited">
+<meta name="distribution" content="Global">
+<meta name="doc-class" content="Completed">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" type="text/css" href="/web/20100401175809cs_/http://pingu.net/h.css">
+<script bis_use="true" type="text/javascript" charset="utf-8" data-bis-config="[&quot;facebook.com/&quot;,&quot;twitter.com/&quot;,&quot;youtube-nocookie.com/embed/&quot;,&quot;//vk.com/&quot;,&quot;//www.vk.com/&quot;,&quot;linkedin.com/&quot;,&quot;//www.linkedin.com/&quot;,&quot;//instagram.com/&quot;,&quot;//www.instagram.com/&quot;,&quot;//www.google.com/recaptcha/api2/&quot;,&quot;//hangouts.google.com/webchat/&quot;,&quot;//www.google.com/calendar/&quot;,&quot;//www.google.com/maps/embed&quot;,&quot;spotify.com/&quot;,&quot;soundcloud.com/&quot;,&quot;//player.vimeo.com/&quot;,&quot;//disqus.com/&quot;,&quot;//tgwidget.com/&quot;,&quot;//js.driftt.com/&quot;,&quot;friends2follow.com&quot;,&quot;/widget&quot;,&quot;login&quot;,&quot;//video.bigmir.net/&quot;,&quot;blogger.com&quot;,&quot;//smartlock.google.com/&quot;,&quot;//keep.google.com/&quot;,&quot;/web.tolstoycomments.com/&quot;,&quot;moz-extension://&quot;,&quot;chrome-extension://&quot;,&quot;/auth/&quot;,&quot;//analytics.google.com/&quot;,&quot;adclarity.com&quot;,&quot;paddle.com/checkout&quot;,&quot;hcaptcha.com&quot;,&quot;recaptcha.net&quot;,&quot;2captcha.com&quot;,&quot;accounts.google.com&quot;,&quot;www.google.com/shopping/customerreviews&quot;,&quot;buy.tinypass.com&quot;,&quot;gstatic.com&quot;,&quot;secureir.ebaystatic.com&quot;,&quot;docs.google.com&quot;,&quot;contacts.google.com&quot;,&quot;github.com&quot;,&quot;mail.google.com&quot;,&quot;chat.google.com&quot;,&quot;audio.xpleer.com&quot;,&quot;keepa.com&quot;,&quot;static.xx.fbcdn.net&quot;,&quot;sas.selleramp.com&quot;,&quot;1plus1.video&quot;,&quot;console.googletagservices.com&quot;,&quot;//lnkd.demdex.net/&quot;,&quot;//radar.cedexis.com/&quot;,&quot;//li.protechts.net/&quot;,&quot;challenges.cloudflare.com/&quot;,&quot;ogs.google.com&quot;]" src="chrome-extension://eppiocemhmnlbhjplcgkofciiegomcon/../executers/vi-tr.js"></script></head>
+
+<body bgcolor="#FFFFFF" __processed_90dad18f-8914-48de-a989-0f160b37fd48__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJkaXNhYmxlZCIsIkZBQ0VCT09LIjoiZGlzYWJsZWQiLCJUV0lUVEVSIjoiZGlzYWJsZWQiLCJSRURESVQiOiJkaXNhYmxlZCIsIlBJTlRFUkVTVCI6ImRpc2FibGVkIiwiSU5TVEFHUkFNIjoiZGlzYWJsZWQiLCJMSU5LRURJTiI6ImRpc2FibGVkIiwiQ09ORklHIjoiZGlzYWJsZWQifSwidmVyc2lvbiI6IjIuMC4xNyIsInNjb3JlIjoyMDAxN31d"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display: block; direction: ltr; height: 1px;" bis_skin_checked="1">
+</div><div id="wm-ipp-print" bis_skin_checked="1">The Wayback Machine - https://web.archive.org/web/20100401175809/http://www.pingu.net:80/official_pingu_website_flag_page.htm</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(750,27,25,2,"web","http://pingu.net/official_pingu_website_flag_page.htm","20100401175809",1996,"/_static/",["/_static/css/banner-styles.css?v=S1zqJCYt","/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+<div class="hcont" bis_skin_checked="1"><table width="680" height="77" border="1"> <tbody><tr> <td colspan="2"><h1><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/">Pingu, the worlds favourite Penguine Official Website and online store </a></h1></td> </tr> <tr> <td colspan="2"><h1><a href="https://web.archive.org/web/20100401175809/http://www.hitstoreusa.com/">Buy your Pingu Products and Merchandise at our online store</a> </h1></td> </tr> <tr> <td colspan="2"><h1><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/">The Official Pingu Website </a></h1></td> </tr> <tr> <td width="362"><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/uk/main.asp">Official Unites Kingdom Pingu Website</a> </td> <td width="302"><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/us/main.asp">Official United States Pingu website </a></td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/fr/main.asp">Official Pingu website- France</a></td> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/us/main.asp">Pingu US Website</a> </td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.hitstoreusa.com/">online US Pingu store</a> </td> <td><a href="https://web.archive.org/web/20100401175809/http://www.hitstoreuk.com/">online UK Pingu store </a></td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/">Pingu the penguin official Website</a></td> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/">Pingu.com</a></td> </tr> <tr> <td>Pingu the cartoon Website </td> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/us/main.asp">Pingu USA</a> </td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/uk/main.asp">Pingu UK</a> </td> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/us/fishRun.html">Pingu Fun and games</a> </td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.bobthebuilder.com/uk/sitemap.html">Bob the builder US website </a></td> <td><a href="https://web.archive.org/web/20100401175809/http://www.bobthebuilder.com/us/sitemap.html">Bob the builder UK </a></td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.thomasandfriends.com/usa/sitemap.html">Thomas the Tank Engine US website </a></td> <td><a href="https://web.archive.org/web/20100401175809/http://www.thomasandfriends.com/uk/sitemap.html">Thomas the Tank Engine UK website</a></td> </tr> <tr> <td><p><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/ch/main.asp">official Switzerland Pingu Website </a></p> </td> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/de/index.html">official Pingu Website For Germany</a> </td> </tr> </tbody></table></div>
+<iframe name="Pingu_the_penguin_official_website" align="center" src="/web/20100401175809if_/http://pingu.net/official_pingu_website_and_online_store_a.htm" frameborder="0" width="100%" scrolling="no" height="5" valign="top" data-ruffle-polyfilled=""><table width="680" height="77" border="1"> <tr> <td colspan="2"><h1><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/">Pingu, the worlds favourite Penguine Official Website and online store </a></h1></td> </tr> <tr> <td colspan="2"><h1><a href="https://web.archive.org/web/20100401175809/http://www.hitstoreusa.com/">Buy your Pingu Products and Merchandise at our online store</a> </h1></td> </tr> <tr> <td colspan="2"><h1><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/">The Official Pingu Website </a></h1></td> </tr> <tr> <td width="362"><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/uk/main.asp">Official United Kingdom Pingu Website</a> </td> 
+    <td width="302"><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/us/main.asp">Official United States Pingu website </a></td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/fr/main.asp">Official Pingu website- France</a></td> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/us/main.asp">Pingu US Website</a> </td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.hitstoreusa.com/">online US Pingu store</a> </td> <td><a href="https://web.archive.org/web/20100401175809/http://www.hitstoreuk.com/">online UK Pingu store </a></td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/">Pingu the penguin official Website</a></td> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/">Pingu.com</a></td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/pingu_uk_website_sitemap.htm">Pingu products and merchandise</a></td> 
+<td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/us/main.asp">Pingu USA</a> </td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/uk/main.asp">Pingu UK</a> </td> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/us/fishRun.html">Pingu Fun and games</a> </td> </tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.bobthebuilder.com/us/bob_the_builder_sitemap.htm">Bob the builder US website </a></td> 
+<td><a href="https://web.archive.org/web/20100401175809/http://www.bobthebuilder.com/uk/bob_the_builder_sitemap.htm">Bob the builder UK </a><a href="https://web.archive.org/web/20100401175809/http://www.bobthebuilder.com/us/bob_the_builder_sitemap.htm">Can he fix it? </a></td> 
+</tr> <tr> <td><a href="https://web.archive.org/web/20100401175809/http://www.thomasandfriends.com/us/official_thomas_the_tank_engine_sitemap.htm">Thomas the Tank Engine US website </a></td> <td><a href="https://web.archive.org/web/20100401175809/http://www.thomasandfriends.com/uk/official_thomas_the_tank_engine_sitemap.htm">Thomas the Tank Engine UK website</a></td> 
+</tr> <tr> <td><p><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/ch/main.asp">official Switzerland Pingu Website </a></p> </td> <td><a href="https://web.archive.org/web/20100401175809/http://www.pingu.net/de/index.html">official Pingu Website For Germany</a> </td> </tr> </table></iframe>
+
+
+
+<center>
+<!-- URL's used in the movie-->
+<!-- text used in the movie-->
+<!--N E S W terms and conditions --><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://web.archive.org/web/20100401175809oe_/http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="90%" height="90%">
+ <param name="movie" value="flagPage.swf"> <param name="quality" value="high"> <param name="bgcolor" value="#FFFFFF"> <ruffle-embed base="http://www.pingu.net/" src="https://web.archive.org/web/20100401175809mp_/http://pingu.net/flagPage.swf" quality="high" bgcolor="#FFFFFF" width="90%" height="90%" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></ruffle-embed>
+</object>
+</center>
+<script language="javascript" src="https://web.archive.org/web/20100401175809js_/http://www.hitentertainment.com/legal/pingu/index.js"></script><center><font size="1" face="Arial, sans serif, helvetica"><br>© 2009 The Pygos Group. All Rights Reserved.<br><a href="https://web.archive.org/web/20120501052701/http://www.hitentertainment.com/privacy.html" target="_blank">Privacy Policy</a><br><a href="https://web.archive.org/web/20120501052701/http://www.hitentertainment.com/terms.html" target="_blank">Terms and Conditions</a><br></font></center>
+<script language="Javascript">var s_account="hitpingu";</script>
+<script language="JavaScript" src="https://web.archive.org/web/20100401175809js_/http://www.hitentertainment.com/omniture/s_code.js"></script>
+<script language="JavaScript" src="https://web.archive.org/web/20100401175809js_/http://www.hitentertainment.com/omniture/pingu.js"></script>
+
+<!-- SiteCatalyst code version: H.13.
+Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript"><!--
+s.pageName="Flag Page"
+s.channel="Home"
+s.prop3="Home"
+s.prop5="landing"
+s.prop6="Flag Page"
+s.prop7="home"
+s.prop8="home"
+s.prop14="Pingu"
+s.prop15="Global"
+s.prop16="co-view"
+s.prop17="boys & girls, 6-9"
+s.hier1="flag page"
+/* Conversion Variables */
+s.events="event4"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.13. -->
+
+
+
+</body><style class="stylus">.ytp-settings-menu,
+.ytp-screen-mode-menu {
+  border-radius: 4px !important;
+}
+.ytp-swatch-color-white {
+  color: #f12b24 !important;
+}
+.html5-play-progress,
+.ytp-play-progress {
+  background: #f12b24 !important;
+}
+.ytp-settings-button.ytp-hd-quality-badge::after,
+.ytp-settings-button.ytp-4k-quality-badge::after,
+.ytp-settings-button.ytp-5k-quality-badge::after,
+.ytp-settings-button.ytp-8k-quality-badge::after,
+.ytp-settings-button.ytp-3d-badge::after {
+  background-color: #f12b24 !important;
+}
+.ytp-volume-slider-track,
+.ytp-volume-slider-handle:before {
+  background: #f12b24 !important;
+  z-index: -117;
+}
+.ytp-scrubber-button {
+  background: #f12b24 !important;
+}
+.ytp-ad-player-overlay-flyout-cta-rounded {
+  border-radius: 2px !important;
+}
+.ytp-flyout-cta .ytp-flyout-cta-action-button.ytp-flyout-cta-action-button-rounded {
+  font-family: Arial !important;
+  background: #167ac6 !important;
+  border: solid 1px transparent !important;
+  border-color: #167ac6 !important;
+  border-radius: 2px !important;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05) !important;
+  font-size: 11px !important;
+  font-weight: 500 !important;
+  height: 28px !important;
+  margin: 0 8px 0 0 !important;
+  max-width: 140px !important;
+  padding: 0 10px !important;
+}
+.ytp-ad-action-interstitial-action-button.ytp-ad-action-interstitial-action-button-rounded {
+  background-color: #167ac6 !important;
+  border: none !important;
+  border-radius: 2px;
+  font-family: Arial !important;
+  font-size: 23px !important;
+  height: 46px !important;
+  line-height: 46px !important;
+  min-width: 164px !important;
+  padding: 0 20px !important;
+}
+.ytp-share-panel {
+  font-weight: 400 !important;
+  font-size: 85% !important;
+}
+.ytp-sb-subscribe {
+  border-radius: 2px !important;
+  font-weight: 400 !important;
+  font-size: 13px !important;
+  background-color: #e62117 !important;
+  color: #fff !important;
+}
+.ytp-sb-unsubscribe {
+  border-radius: 2px !important;
+  font-weight: 400 !important;
+  font-size: 13px !important;
+  background-color: #eee !important;
+  color: #606060 !important;
+}
+.branding-context-container-inner.ytp-rounded-branding-context {
+  border-radius: 2px !important;
+}
+.ytp-tooltip.ytp-rounded-tooltip:not(.ytp-preview) .ytp-tooltip-text {
+  border-radius: 2px !important;
+}
+.ytp-ad-overlay-container.ytp-rounded-overlay-ad .ytp-ad-overlay-image img,
+.ytp-ad-overlay-container.ytp-rounded-overlay-ad .ytp-ad-text-overlay,
+.ytp-ad-overlay-container.ytp-rounded-overlay-ad .ytp-ad-enhanced-overlay {
+  border-radius: 0px !important;
+}
+.ytp-videowall-still-image {
+  border-radius: 0px !important;
+}
+div.iv-card.iv-card-video.ytp-rounded-info {
+  border-radius: 0px !important;
+}
+div.iv-card.iv-card-playlist.ytp-rounded-info {
+  border-radius: 0px !important;
+}
+div.iv-card.iv-card-channel.ytp-rounded-info {
+  border-radius: 0px !important;
+}
+div.iv-card.ytp-rounded-info {
+  border-radius: 0px !important;
+}
+.ytp-tooltip.ytp-rounded-tooltip.ytp-text-detail.ytp-preview,
+.ytp-tooltip.ytp-rounded-tooltip.ytp-text-detail.ytp-preview .ytp-tooltip-bg {
+  border-radius: 2px !important;
+}
+.ytp-ce-video.ytp-ce-medium-round,
+.ytp-ce-playlist.ytp-ce-medium-round,
+.ytp-ce-medium-round .ytp-ce-expanding-overlay-background {
+  border-radius: 0px !important;
+}
+div.ytp-autonav-endscreen-upnext-thumbnail.rounded-thumbnail {
+  border-radius: 0px !important;
+}
+button.ytp-autonav-endscreen-upnext-button.ytp-autonav-endscreen-upnext-cancel-button.ytp-autonav-endscreen-upnext-button-rounded {
+  border-radius: 2px !important;
+  font-weight: 400 !important;
+  text-transform: none !important;
+}
+a.ytp-autonav-endscreen-upnext-button.ytp-autonav-endscreen-upnext-play-button.ytp-autonav-endscreen-upnext-button-rounded {
+  border-radius: 2px !important;
+  font-weight: 400 !important;
+  text-transform: none !important;
+}
+.ytp-time-display {
+  font-size: 85% !important;
+}
+.ytp-tooltip {
+  font-weight: 400 !important;
+}
+.ytp-tooltip-text {
+  font-size: 85% !important;
+}
+.ytp-fine-scrubbing-exp .ytp-preview:not(.ytp-text-detail) .ytp-tooltip-edu {
+  display: none !important;
+}
+.ytp-doubletap-ui-legacy.ytp-time-seeking {
+  display: none !important;
+}
+.ytp-autonav-endscreen-upnext-thumbnail {
+  border-radius: 0px !important;
+}
+.iv-card {
+  border-radius: 0 !important;
+}
+.iv-branding .branding-context-container-inner {
+  border-radius: 2px !important;
+}
+@font-face {
+  font-family: no-parens;
+  src: url("data:application/x-font-woff;base64,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");
+  unicode-range: U+0028, U+0029;
+}
+span.ytp-menu-label-secondary {
+  font-family: "no-parens", "Roboto", sans-serif;
+}
+.iv-card {
+  border-radius: 0 !important;
+}
+.iv-branding .branding-context-container-inner {
+  border-radius: 2px !important;
+}
+.ytp-offline-slate-bar {
+  border-radius: 2px !important;
+}
+.ytp-offline-slate-button {
+  border-radius: 2px !important;
+}
+.ytp-ce-video.ytp-ce-large-round,
+.ytp-ce-playlist.ytp-ce-large-round,
+.ytp-ce-large-round .ytp-ce-expanding-overlay-background {
+  border-radius: 0 !important;
+}
+.ytp-flyout-cta .ytp-flyout-cta-icon.ytp-flyout-cta-icon-rounded {
+  border-radius: 0 !important;
+}
+/* play */
+[d*="M 12,26 18.5,22 18.5,14 12,10 z M 18.5,22 25,18 25,18 18.5,14 z"] {
+  d: path("M11,10 L18,13.74 18,22.28 11,26 Z M18,13.74 L26,18 26,18 18,22.28 Z");
+}
+/* pause */
+[d*="M 12,26 16,26 16,10 12,10 z M 21,26 25,26 25,10 21,10 z"] {
+  d: path("M11,10 L17,10 17,26 11,26 Z M20,10 L26,10 26,26 20,26 Z");
+}
+/* mute icon */
+[d*="m 21.48,17.98 c 0,-1.77 -1.02,-3.29 -2.5,-4.03 v 2.21 l 2.45,2.45 c .03,-0.2 .05,-0.41 .05,-0.63 z m 2.5,0 c 0,.94 -0.2,1.82 -0.54,2.64 l 1.51,1.51 c .66,-1.24 1.03,-2.65 1.03,-4.15 0,-4.28 -2.99,-7.86 -7,-8.76 v 2.05 c 2.89,.86 5,3.54 5,6.71 z M 9.25,8.98 l -1.27,1.26 4.72,4.73 H 7.98 v 6 H 11.98 l 5,5 v -6.73 l 4.25,4.25 c -0.67,.52 -1.42,.93 -2.25,1.18 v 2.06 c 1.38,-0.31 2.63,-0.95 3.69,-1.81 l 2.04,2.05 1.27,-1.27 -9,-9 -7.72,-7.72 z m 7.72,.99 -2.09,2.08 2.09,2.09 V 9.98 z"] {
+  d: path("M 12.39 15.54 L 10 15.54 L 10 20.44 L 12.4 20.44 L 17 25.5 L 17 10.48 L 12.39 15.54 Z M19.63,15.92 L20.68,14.93 L22.81,16.94 L24.94,14.93 L26,15.92 L23.86,17.93 L26,19.93 L24.94,20.92 L22.81,18.92 L20.68,20.92 L19.63,19.93 L21.76,17.93 L19.63,15.92 Z");
+}
+/* volume-1 */
+[d*="M8,21 L12,21 L17,26 L17,10 L12,15 L8,15 L8,21 Z M19,14 L19,22 C20.48,21.32 21.5,19.77 21.5,18 C21.5,16.26 20.48,14.74 19,14 Z"] {
+  d: path("M12.39,15.54 L10,15.54 L10,20.44 L12.4,20.44 L17,25.50 L17,10.48 L12.39,15.54 Z M22,17.99 C22,16.4 20.74,15.05 19,14.54 L19,21.44 C20.74,20.93 22,19.59 22,17.99 Z");
+}
+/* volume-2 */
+[d*="M8,21 L12,21 L17,26 L17,10 L12,15 L8,15 L8,21 Z M19,14 L19,22 C20.48,21.32 21.5,19.77 21.5,18 C21.5,16.26 20.48,14.74 19,14 ZM19,11.29 C21.89,12.15 24,14.83 24,18 C24,21.17 21.89,23.85 19,24.71 L19,26.77 C23.01,25.86 26,22.28 26,18 C26,13.72 23.01,10.14 19,9.23 L19,11.29 Z"] {
+  d: path("M12.39,15.54 L10,15.54 L10,20.44 L12.4,20.44 L17,25.50 L17,10.48 L12.39,15.54 Z M22,17.99 C22,16.4 20.74,15.05 19,14.54 L19,21.44 C20.74,20.93 22,19.59 22,17.99 Z M19,24.31 L19,26 C22.99,25.24 26,21.94 26,18 C26,14.05 22.99,10.75 19,10 L19,11.68 C22.01,12.41 24.24,14.84 24.24,18 C24.24,21.15 22.01,23.58 19,24.31 Z");
+}
+/* settings */
+[d*="m 23.94,18.78 c .03,-0.25 .05,-0.51 .05,-0.78 0,-0.27 -0.02,-0.52 -0.05,-0.78 l 1.68,-1.32 c .15,-0.12 .19,-0.33 .09,-0.51 l -1.6,-2.76 c -0.09,-0.17 -0.31,-0.24 -0.48,-0.17 l -1.99,.8 c -0.41,-0.32 -0.86,-0.58 -1.35,-0.78 l -0.30,-2.12 c -0.02,-0.19 -0.19,-0.33 -0.39,-0.33 l -3.2,0 c -0.2,0 -0.36,.14 -0.39,.33 l -0.30,2.12 c -0.48,.2 -0.93,.47 -1.35,.78 l -1.99,-0.8 c -0.18,-0.07 -0.39,0 -0.48,.17 l -1.6,2.76 c -0.10,.17 -0.05,.39 .09,.51 l 1.68,1.32 c -0.03,.25 -0.05,.52 -0.05,.78 0,.26 .02,.52 .05,.78 l -1.68,1.32 c -0.15,.12 -0.19,.33 -0.09,.51 l 1.6,2.76 c .09,.17 .31,.24 .48,.17 l 1.99,-0.8 c .41,.32 .86,.58 1.35,.78 l .30,2.12 c .02,.19 .19,.33 .39,.33 l 3.2,0 c .2,0 .36,-0.14 .39,-0.33 l .30,-2.12 c .48,-0.2 .93,-0.47 1.35,-0.78 l 1.99,.8 c .18,.07 .39,0 .48,-0.17 l 1.6,-2.76 c .09,-0.17 .05,-0.39 -0.09,-0.51 l -1.68,-1.32 0,0 z m -5.94,2.01 c -1.54,0 -2.8,-1.25 -2.8,-2.8 0,-1.54 1.25,-2.8 2.8,-2.8 1.54,0 2.8,1.25 2.8,2.8 0,1.54 -1.25,2.8 -2.8,2.8 l 0,0 z"] {
+  d: path("M 27 19.35 L 27 16.65 L 24.61 16.65 C 24.44 15.79 24.1 14.99 23.63 14.28 L 25.31 12.6 L 23.4 10.69 L 21.72 12.37 C 21.01 11.9 20.21 11.56 19.35 11.38 L 19.35 9 L 16.65 9 L 16.65 11.38 C 15.78 11.56 14.98 11.9 14.27 12.37 L 12.59 10.69 L 10.68 12.6 L 12.36 14.28 C 11.89 14.99 11.55 15.79 11.38 16.65 L 9 16.65 L 9 19.35 L 11.38 19.35 C 11.56 20.21 11.9 21.01 12.37 21.72 L 10.68 23.41 L 12.59 25.32 L 14.28 23.63 C 14.99 24.1 15.79 24.44 16.65 24.61 L 16.65 27 L 19.35 27 L 19.35 24.61 C 20.21 24.44 21 24.1 21.71 23.63 L 23.4 25.32 L 25.31 23.41 L 23.62 21.72 C 24.09 21.01 24.43 20.21 24.61 19.35 L 27 19.35 Z M 18 22.05 C 15.76 22.05 13.95 20.23 13.95 18 C 13.95 15.76 15.76 13.95 18 13.95 C 20.23 13.95 22.05 15.76 22.05 18 C 22.05 20.23 20.23 22.05 18 22.05 L 18 22.05 Z");
+}
+/* cinema */
+[d*="m 28,11 0,14 -20,0 0,-14 z m -18,2 16,0 0,10 -16,0 0,-10 z"] {
+  d: path("M 8 11 L 28 11 L 28 25 L 8 25 L 8 11 Z M 11 14 L 11 22 L 25 22 L 25 14 L 11 14 Z");
+  fill: #ffffff;
+  fill-rule: nonzero;
+}
+/* exit cinema */
+[d*="m 26,13 0,10 -16,0 0,-10 z m -14,2 12,0 0,6 -12,0 0,-6 z"] {
+  d: path("M10,13 L26,13 26,23 10,23 10,13 Z M13,16 L13,20 23,20 23,16 13,16 Z");
+  fill: #ffffff;
+  fill-rule: nonzero;
+}
+/* fullscreen */
+[d*="m 10,16 2,0 0,-4 4,0 0,-2 L 10,10 l 0,6 0,0 z"] {
+  d: path("M 7 16 L 10 16 L 10 13 L 13 13 L 13 10 L 7 10 L 7 16 Z");
+}
+[d*="m 20,10 0,2 4,0 0,4 2,0 L 26,10 l -6,0 0,0 z"] {
+  d: path("M 23 10 L 23 13 L 26 13 L 26 16 L 29 16 L 29 10 L 23 10 Z");
+}
+[d*="m 24,24 -4,0 0,2 L 26,26 l 0,-6 -2,0 0,4 0,0 z"] {
+  d: path("M 23 23 L 23 26 L 29 26 L 29 20 L 26 20 L 26 23 L 23 23 Z");
+}
+[d*="M 12,20 10,20 10,26 l 6,0 0,-2 -4,0 0,-4 0,0 z"] {
+  d: path("M 10 20 L 7 20 L 7 26 L 13 26 L 13 23 L 10 23 L 10 20 Z");
+}
+/* exit fullscreen */
+[d*="m 14,14 -4,0 0,2 6,0 0,-6 -2,0 0,4 0,0 z"] {
+  d: path("M13,10 L10,10 L10,13 L7,13 L7,16 L13,16 L13,10 Z");
+}
+[d*="m 22,14 0,-4 -2,0 0,6 6,0 0,-2 -4,0 0,0 z"] {
+  d: path("M29,16 L29,13 L26,13 L26,10 L23,10 L23,16 L29,16 Z");
+}
+[d*="m 20,26 2,0 0,-4 4,0 0,-2 -6,0 0,6 0,0 z"] {
+  d: path("M29,23 L29,20 L23,20 L23,26 L26,26 L26,23 L29,23 Z");
+}
+[d*="m 10,22 4,0 0,4 2,0 0,-6 -6,0 0,2 0,0 z"] {
+  d: path("M10,26 L13,26 L13,20 L7,20 L7,23 L10,23 L10,26 Z");
+}
+/* subtitles */
+[d*="M11,11 C9.9,11 9,11.9 9,13 L9,23 C9,24.1 9.9,25 11,25 L25,25 C26.1,25 27,24.1 27,23 L27,13 C27,11.9 26.1,11 25,11 L11,11 Z M11,17 L14,17 L14,19 L11,19 L11,17 L11,17 Z M20,23 L11,23 L11,21 L20,21 L20,23 L20,23 Z M25,23 L22,23 L22,21 L25,21 L25,23 L25,23 Z M25,19 L16,19 L16,17 L25,17 L25,19 L25,19 Z"] {
+  d: path("m9 12h18v12h-18zm2 7h14v-1h-14zm1 3h12v-1h-12z");
+}
+/* cc */
+[d*="M11,11 C9.89,11 9,11.9 9,13 L9,23 C9,24.1 9.89,25 11,25 L25,25 C26.1,25 27,24.1 27,23 L27,13 C27,11.9 26.1,11 25,11 L11,11 Z M17,17 L15.5,17 L15.5,16.5 L13.5,16.5 L13.5,19.5 L15.5,19.5 L15.5,19 L17,19 L17,20 C17,20.55 16.55,21 16,21 L13,21 C12.45,21 12,20.55 12,20 L12,16 C12,15.45 12.45,15 13,15 L16,15 C16.55,15 17,15.45 17,16 L17,17 L17,17 Z M24,17 L22.5,17 L22.5,16.5 L20.5,16.5 L20.5,19.5 L22.5,19.5 L22.5,19 L24,19 L24,20 C24,20.55 23.55,21 23,21 L20,21 C19.45,21 19,20.55 19,20 L19,16 C19,15.45 19.45,15 20,15 L23,15 C23.55,15 24,15.45 24,16 L24,17 L24,17 Z"] {
+  d: path("M9,24 L27,24 L27,12 L9,12 L9,24 Z M17.05,19.50 C16.91,19.79 16.72,20.04 16.49,20.24 C16.26,20.44 15.99,20.60 15.69,20.70 C15.38,20.81 15.04,20.86 14.67,20.86 C14.21,20.86 13.79,20.79 13.43,20.64 C13.06,20.48 12.75,20.27 12.5,20.01 C12.24,19.74 12.05,19.42 11.91,19.06 C11.78,18.70 11.71,18.31 11.71,17.89 C11.71,17.47 11.78,17.07 11.91,16.70 C12.05,16.34 12.24,16.02 12.5,15.74 C12.75,15.47 13.06,15.26 13.43,15.10 C13.79,14.95 14.21,14.87 14.67,14.87 C15.00,14.87 15.31,14.91 15.61,15.01 C15.90,15.10 16.16,15.23 16.40,15.40 C16.63,15.58 16.82,15.79 16.97,16.05 C17.13,16.31 17.22,16.60 17.26,16.93 L15.98,16.93 C15.96,16.79 15.91,16.66 15.83,16.54 C15.75,16.41 15.65,16.31 15.53,16.22 C15.42,16.13 15.28,16.06 15.14,16.01 C14.98,15.95 14.83,15.93 14.67,15.93 C14.37,15.93 14.12,15.98 13.91,16.09 C13.70,16.20 13.53,16.35 13.40,16.54 C13.27,16.72 13.18,16.93 13.12,17.17 C13.06,17.40 13.03,17.64 13.03,17.89 C13.03,18.14 13.06,18.37 13.12,18.60 C13.18,18.82 13.27,19.03 13.40,19.21 C13.53,19.39 13.70,19.54 13.91,19.65 C14.12,19.76 14.37,19.81 14.67,19.81 C15.07,19.81 15.39,19.70 15.61,19.46 C15.84,19.22 15.98,18.91 16.03,18.53 L17.31,18.53 C17.28,18.89 17.19,19.21 17.05,19.50 L17.05,19.50 Z M24.04,19.51 C23.90,19.80 23.72,20.04 23.49,20.24 C23.26,20.45 22.99,20.60 22.68,20.71 C22.37,20.82 22.03,20.87 21.66,20.87 C21.20,20.87 20.79,20.80 20.42,20.64 C20.05,20.49 19.74,20.28 19.49,20.01 C19.24,19.75 19.04,19.43 18.91,19.07 C18.77,18.71 18.70,18.32 18.70,17.90 C18.70,17.47 18.77,17.08 18.91,16.71 C19.04,16.34 19.24,16.02 19.49,15.75 C19.74,15.48 20.05,15.26 20.42,15.11 C20.79,14.95 21.20,14.88 21.66,14.88 C21.99,14.88 22.30,14.92 22.60,15.01 C22.89,15.10 23.16,15.24 23.39,15.41 C23.62,15.58 23.82,15.80 23.97,16.06 C24.12,16.31 24.21,16.61 24.25,16.94 L22.97,16.94 C22.95,16.79 22.90,16.66 22.82,16.54 C22.74,16.42 22.65,16.32 22.53,16.22 C22.41,16.13 22.27,16.06 22.13,16.01 C21.98,15.96 21.82,15.94 21.66,15.94 C21.36,15.94 21.11,15.99 20.90,16.10 C20.7,16.21 20.53,16.36 20.40,16.54 C20.27,16.73 20.17,16.94 20.11,17.17 C20.06,17.41 20.03,17.65 20.03,17.90 C20.03,18.14 20.06,18.38 20.11,18.60 C20.17,18.83 20.27,19.04 20.40,19.22 C20.53,19.40 20.7,19.55 20.90,19.66 C21.11,19.76 21.36,19.82 21.66,19.82 C22.06,19.82 22.38,19.70 22.61,19.47 C22.84,19.23 22.97,18.92 23.02,18.54 L24.30,18.54 C24.27,18.89 24.18,19.22 24.04,19.51 L24.04,19.51 Z");
+}
+/* remote */
+[d*="M27,9 L9,9 C7.9,9 7,9.9 7,11 L7,14 L9,14 L9,11 L27,11 L27,25 L20,25 L20,27 L27,27 C28.1,27 29,26.1 29,25 L29,11 C29,9.9 28.1,9 27,9 L27,9 Z M7,24 L7,27 L10,27 C10,25.34 8.66,24 7,24 L7,24 Z M7,20 L7,22 C9.76,22 12,24.24 12,27 L14,27 C14,23.13 10.87,20 7,20 L7,20 Z M7,16 L7,18 C11.97,18 16,22.03 16,27 L18,27 C18,20.92 13.07,16 7,16 L7,16 Z"] {
+  d: path("M16.81,26 L15.09,26 C14.69,22.23 11.73,19.24 8,18.84 L8,17.11 C12.68,17.52 16.40,21.28 16.81,26 L16.81,26 Z M13.62,26 L11.91,26 C11.55,23.99 9.99,22.41 8,22.05 L8,20.32 C10.93,20.71 13.24,23.03 13.62,26 L13.62,26 Z M10.45,26 L8,26 L8,23.52 C9.20,23.84 10.13,24.78 10.45,26 L10.45,26 Z M18.12,25 C17.94,23.94 17.62,22.93 17.17,22 L25,22 L25,14 L12,14 L12,16.76 C11.06,16.30 10.05,15.97 9,15.79 L9,11 L28,11 L28,25 L18.12,25 Z");
+}
+/* next */
+[d*="M 12,24 20.5,18 12,12 V 24 z M 22,12 v 12 h 2 V 12 h -2 z"] {
+  d: path("M 16.2 12.5 L 16.2 16.49 L 9 12.5 L 9 23.5 L 16.2 19.5 L 16.2 23.5 L 24.5 19.1 L 24.5 23.5 L 27 23.5 L 27 12.5 L 24.5 12.5 L 24.5 17.45 L 16.2 12.5 Z");
+}
+/* previous */
+[d*="m 12,12 h 2 v 12 h -2 z m 3.5,6 8.5,6 V 12 z"] {
+  d: path("M19.8,12.5 L19.8,16.49 L27,12.5 L27,23.5 L19.8,19.50 L19.8,23.5 L11.5,19.1 L11.5,23.5 L9,23.5 L9,12.5 L11.5,12.5 L11.5,17.45 L19.8,12.5 Z");
+}
+/* miniplayer */
+[d*="M25,17 L17,17 L17,23 L25,23 L25,17 L25,17 Z M29,25 L29,10.98 C29,9.88 28.1,9 27,9 L9,9 C7.9,9 7,9.88 7,10.98 L7,25 C7,26.1 7.9,27 9,27 L27,27 C28.1,27 29,26.1 29,25 L29,25 Z M27,25.02 L9,25.02 L9,10.97 L27,10.97 L27,25.02 L27,25.02 Z"] {
+  d: path("m7 9h22v18h-22zm3 15h16v-12h-16zm7-7h8v6h-8z");
+}
+/* replay */
+[d*="M 18,11 V 7 l -5,5 5,5 v -4 c 3.3,0 6,2.7 6,6 0,3.3 -2.7,6 -6,6 -3.3,0 -6,-2.7 -6,-6 h -2 c 0,4.4 3.6,8 8,8 4.4,0 8,-3.6 8,-8 0,-4.4 -3.6,-8 -8,-8 z"] {
+  d: path("M26.466,21.04 L30.966,16 L27.8,16 C26.873,11.435 22.841,8 18.001,8 C12.474,8 8,12.477 8,18 C8,23.523 12.474,28 18.001,28 C21.181,28 24.009,26.511 25.841,24.197 L24.005,22.361 C22.652,24.217 20.471,25.427 18.001,25.427 C13.899,25.427 10.569,22.101 10.569,18 C10.569,13.898 13.899,10.572 18.001,10.572 C21.407,10.572 24.268,12.871 25.142,16 L21.966,16 L26.466,21.04");
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Onderskrifte is nie beskikbaar nie"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Altyazılar var"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Subtitel/teks tertutup tidak tersedia"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Sari kata tidak tersedia"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Titlovi nisu dostupni"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Els subtítols no estan disponibles"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Titulky nejsou dostupné"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Undertekster er ikke tilgængelige"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Untertitel nicht verfügbar"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Subtiitreid pole"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Subtitles/closed captions unavailable"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Subtítulos no disponibles"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Ez dago azpititulurik erabilgarri"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Hindi available ang mga subtitle/closed caption"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Sous-titres non disponibles"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Sous-titres/sous-titres codés non offerts"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Os subtítulos non están dispoñibles"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Imibhalo engezansi/amagama-ncazo awatholakali"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Skjátextar ekki í boði"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Sottotitoli/sottotitoli codificati non disponibili"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Manukuu hayapatikani"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Subtitri nav pieejami"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Subtitrų nėra"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Felirat nem áll rendelkezésre"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Ondertiteling niet beschikbaar"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Teksting er ikke tilgjengelig"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Taglavhalar mavjud emas"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Napisy niedostępne"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Não há legendas/closed captions disponíveis"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Subtitrările nu sunt disponibile"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Titrat/teksti shpjegues nuk ofrohen"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Tekstityksiä ei saatavilla"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Undertexter/textning inte tillgängligt"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Không có phụ đề"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Altyazılar kullanılamıyor"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Субцітры недаступныя"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Субтитрите/надписите не са налице"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Коштомо жазуулар жок"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Субтитр қолжетімді емес"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Титловите/затворените титлови не се достапни"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Хадмал/хаалттай тайлбар боломжгүй байна"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Субтитры недоступны"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Титлови нису доступни"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Субтитри недоступні"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Οι υπότιτλοι δεν είναι διαθέσιμοι"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="Ենթագրերը հասանելի չեն"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="אין כתוביות זמינות"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="سب ٹائٹلز دستیاب نہیں ہے"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="مقاطع الترجمة والشرح غير متاحة."] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="زیرنویس/ زیرنویس ناشنوایان دردسترس نیست"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="सबटाइटल/क्लोज्ड क्याप्सन उपलब्ध छैन"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="सबटायटल उपलब्ध नाहीत"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="सबटाइटल उपलब्ध नहीं हैं"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="সাবটাইটেল/ক্লোজড ক্যাপশন উপলভ্য নেই"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="ਉਪਸਿਰਲੇਖ/ਬੰਦ ਸੁਰਖੀਆਂ ਉਪਲਬਧ ਨਹੀਂ ਹਨ"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="સબટાઇટલ/ઉપશીર્ષક અનુપલબ્ધ"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="ସବଟାଇଟେଲ/କ୍ଲୋଜ୍ଡ କ୍ୟାପ୍ସନ ଉପଲବ୍ଧ ନାହିଁ"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="சப்டைட்டில்கள்/விவரிப்பு சப்டைட்டில்கள் இல்லை"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="సబ్‌టైటిల్స్/క్యాప్షన్‌లు అందుబాటులో లేవు"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="ಸಬ್‌ಟೈಟಲ್‌ಗಳು/ಕ್ಲೋಸ್ಡ್ ಕ್ಯಾಪ್ಶನ್‌ಗಳು ಲಭ್ಯವಿಲ್ಲ"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="സബ്ടൈറ്റിലുകൾ/CC ലഭ്യമല്ല"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="උපසිරැසි/වැසූ සිරස්තල නොමැත"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="คำบรรยาย/คำบรรยายแทนเสียงไม่พร้อมใช้งาน"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="ບໍ່ມີຄຳແປ/ຄຳບັນຍາຍ"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="სუბტიტრები მიუწვდომელია"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="የግርጌ ጽሑፎች/ዝግ መግለጫ ፅሁፎች አይገኙም"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="មិនមានផ្ដល់ជូនអក្សររត់ទេ"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="无法显示字幕"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="未提供字幕/隱藏式輔助字幕"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="沒有字幕"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="字幕を利用できません"] {
+  display: none !important;
+}
+.ytp-subtitles-button.ytp-button[data-title-no-tooltip="자막 사용 불가"] {
+  display: none !important;
+}
+.ytp-menuitem-icon:empty {
+  display: none !important;
+}
+.ytp-popup,
+.ytp-embed:not(.ytp-big-mode) .ytp-popup {
+  outline: 0 !important;
+}
+.ytp-chrome-bottom,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-bottom {
+  height: 36px;
+}
+.ytp-progress-bar-container,
+.ytp-embed:not(.ytp-big-mode) .ytp-progress-bar-container {
+  bottom: 35px;
+}
+.ytp-chrome-controls,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls {
+  height: 36px;
+  line-height: 36px;
+}
+.ytp-chrome-controls .ytp-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-button,
+.ytp-chrome-controls .ytp-replay-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-replay-button {
+  width: 36px;
+  padding: 0;
+}
+.ytp-chrome-controls .ytp-button.ytp-chapter-title,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-button.ytp-chapter-title,
+.ytp-chrome-controls .ytp-replay-button.ytp-chapter-title,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-replay-button.ytp-chapter-title {
+  width: 100%;
+}
+.ytp-chrome-controls .ytp-button.ytp-mute-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-button.ytp-mute-button,
+.ytp-chrome-controls .ytp-replay-button.ytp-mute-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-replay-button.ytp-mute-button,
+.ytp-chrome-controls .ytp-button.ytp-next-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-button.ytp-next-button,
+.ytp-chrome-controls .ytp-replay-button.ytp-next-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-replay-button.ytp-next-button,
+.ytp-chrome-controls .ytp-button.ytp-miniplayer-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-button.ytp-miniplayer-button,
+.ytp-chrome-controls .ytp-replay-button.ytp-miniplayer-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-replay-button.ytp-miniplayer-button,
+.ytp-chrome-controls .ytp-button.ytp-remote-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-button.ytp-remote-button,
+.ytp-chrome-controls .ytp-replay-button.ytp-remote-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-replay-button.ytp-remote-button {
+  padding: 0;
+}
+.ytp-chrome-controls .ytp-button[aria-pressed="true"]::after,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-button[aria-pressed="true"]::after,
+.ytp-chrome-controls .ytp-replay-button[aria-pressed="true"]::after,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-replay-button[aria-pressed="true"]::after {
+  width: 18px;
+  left: 9px;
+  bottom: 6px;
+  height: 2px;
+  border-radius: 2px;
+}
+.ytp-chrome-controls .ytp-youtube-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-youtube-button {
+  width: 67px;
+}
+.ytp-chrome-controls .ytp-play-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-chrome-controls .ytp-play-button {
+  width: 46px;
+}
+.ytp-time-display,
+.ytp-embed:not(.ytp-big-mode) .ytp-time-display,
+.ytp-chapter-container,
+.ytp-embed:not(.ytp-big-mode) .ytp-chapter-container {
+  line-height: 35px;
+}
+.ytp-player-content,
+.ytp-embed:not(.ytp-big-mode) .ytp-player-content {
+  bottom: 53px;
+}
+.ytp-player-content:not(.ytp-upnext):not(.html5-endscreen),
+.ytp-embed:not(.ytp-big-mode) .ytp-player-content:not(.ytp-upnext):not(.html5-endscreen) {
+  top: 60px;
+}
+.ytp-gradient-bottom,
+.ytp-embed:not(.ytp-big-mode) .ytp-gradient-bottom {
+  height: 49px;
+  padding-top: 49px;
+}
+.ytp-settings-menu,
+.ytp-embed:not(.ytp-big-mode) .ytp-settings-menu {
+  bottom: 49px;
+  right: 12px;
+}
+.ytp-tooltip.ytp-bottom:not(.ytp-tooltip-opaque),
+.ytp-embed:not(.ytp-big-mode) .ytp-tooltip.ytp-bottom:not(.ytp-tooltip-opaque),
+.ytp-tooltip.ytp-preview.ytp-text-detail,
+.ytp-embed:not(.ytp-big-mode) .ytp-tooltip.ytp-preview.ytp-text-detail {
+  top: unset !important;
+  bottom: 50px !important;
+}
+.ytp-big-mode .ytp-tooltip.ytp-bottom:not(.ytp-tooltip-opaque),
+.ytp-big-mode .ytp-embed:not(.ytp-big-mode) .ytp-tooltip.ytp-bottom:not(.ytp-tooltip-opaque),
+.ytp-big-mode .ytp-tooltip.ytp-preview.ytp-text-detail,
+.ytp-big-mode .ytp-embed:not(.ytp-big-mode) .ytp-tooltip.ytp-preview.ytp-text-detail {
+  bottom: 75px !important;
+}
+.ytp-skip-intro-button,
+.ytp-embed:not(.ytp-big-mode) .ytp-skip-intro-button {
+  bottom: 50px;
+  height: 40px;
+}
+.ytp-webgl-spherical-control,
+.ytp-embed:not(.ytp-big-mode) .ytp-webgl-spherical-control {
+  top: 60px;
+}
+.ytp-title-text,
+.ytp-embed:not(.ytp-big-mode) .ytp-title-text {
+  padding-top: 21px;
+}
+.html5-video-player:not(.ytp-autohide) .caption-window.ytp-caption-window-bottom {
+  margin-bottom: 49px;
+}
+.html5-video-player:not(.ytp-autohide) .caption-window.ytp-caption-window-bottom svg,
+.html5-video-player:not(.ytp-autohide) .caption-window.ytp-caption-window-bottom .ytp-icon {
+  width: 40px;
+  height: 40px;
+}
+.ytp-menuitem-icon {
+  display: none !important;
+}
+.ytp-heat-map-container {
+  display: none !important;
+}
+.ytp-tooltip-title {
+  display: none !important;
+}
+.ytp-tooltip.ytp-preview:not(.ytp-text-detail) {
+  background: #1c1c1ce6;
+}
+.ytp-tooltip.ytp-preview:not(.ytp-text-detail) .ytp-tooltip-text {
+  background: #1c1c1ce6;
+  top: 0;
+}
+.ytp-tooltip-title {
+  display: none !important;
+}
+.ytp-gradient-bottom,
+.ytp-gradient-top {
+  height: 50px !important;
+  padding: 0;
+}
+.ytp-gradient-bottom {
+  background: linear-gradient(to top, #0009, #0000) !important;
+}
+.ytp-gradient-top {
+  background: linear-gradient(to bottom, #0009, #0000) !important;
+}
+.ytp-big-mode .ytp-gradient-top,
+.ytp-big-mode .ytp-gradient-bottom {
+  height: 75px !important;
+}
+.ytp-quality-menu .ytp-menuitem-label {
+  padding-right: 5px !important;
+}
+.ytp-speedslider {
+  margin: 0 10px;
+}
+.ytp-speedslider-text {
+  color: #b8b8b8;
+  font-size: 11px;
+}
+.ytp-speedslider-component {
+  height: unset !important;
+  padding-bottom: 7px;
+}
+.ytp-slider-handle {
+  width: 4px;
+  height: 13px;
+  border-radius: 0;
+  transform: translateX(8px) translate3D(0, 0, 0);
+  z-index: 1;
+}
+.ytp-slider-handle::before {
+  background: #f12b24;
+  z-index: -1;
+}
+.ytp-slider-handle::before,
+.ytp-slider-handle::after {
+  width: 168px;
+  height: 3px;
+  transform: translateX(-8px) translate3D(0, 0, 0);
+}
+.ytp-swatch-color {
+  color: #f12b24;
+}
+.ytp-contextmenu a {
+  color: #bbb;
+}
+.ytp-contextmenu .ytp-menuitem[aria-checked="true"] .ytp-menuitem-toggle-checkbox {
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTAwJSIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxMDAlIj48cGF0aCBkPSJNNi45OSw5IEwxMi42NiwzIEwxNC42Niw1LjAzIEw3LjEyLDEzLjAwIEwxLjMzLDcuNzMgTDMuMzQsNS42NCBMNi45OSw5IFoiIGZpbGw9IiNmZmYiIC8+PC9zdmc+);
+}
+.ytp-contextmenu .ytp-menuitem .ytp-menuitem-toggle-checkbox {
+  width: 15px;
+  height: 15px;
+}
+.ytp-popup {
+  background: #1c1c1ccc;
+  border-radius: 4px;
+}
+.ytp-panel {
+  min-width: 0 !important;
+}
+.ytp-panel-menu {
+  padding: 0;
+}
+.ytp-panel-header {
+  padding: 0;
+  height: 25px;
+  border-color: #444;
+}
+.ytp-panel-options {
+  color: #b8b8b8;
+  font-size: 11px;
+}
+.ytp-panel-footer {
+  padding: 7px 0;
+  color: #b8b8b8;
+  font-size: 11px;
+  font-weight: 400;
+}
+.ytp-panel-footer a {
+  color: #b8b8b8;
+  text-decoration: underline;
+}
+.ytp-panel-back-button-container {
+  display: none;
+}
+.ytp-panel-title {
+  height: 100%;
+  line-height: 25px;
+  font-size: 11px;
+  color: #b8b8b8;
+  font-weight: 400;
+  padding-left: 30px;
+  width: calc(100% - 30px);
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTAwJSIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIxMDAlIj48cGF0aCBkPSJNMjEuMzMsMjIgTDE1LjMzLDE2IEwyMS4zMywxMCBMMTkuMzMsOCBMMTEuMjksMTYgTDE5LjMzLDI0IEwyMS4zMywyMiBaIiBmaWxsPSIjNjY2IiAvPjwvc3ZnPg==);
+  background-position: left 8px center;
+  background-size: 14px 14px;
+  background-repeat: no-repeat;
+}
+.ytp-settings-menu .ytp-menuitem-toggle-checkbox {
+  width: 40px;
+  height: 15px;
+  overflow: hidden;
+  transition: all 0.2s cubic-bezier(0.4, 0, 1, 1);
+}
+.ytp-settings-menu .ytp-menuitem-toggle-checkbox::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translateX(-22px);
+  width: 15px;
+  height: 15px;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTAwJSIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxMDAlIj48cGF0aCBkPSJNNi45OSw5IEwxMi42NiwzIEwxNC42Niw1LjAzIEw3LjEyLDEzLjAwIEwxLjMzLDcuNzMgTDMuMzQsNS42NCBMNi45OSw5IFoiIGZpbGw9IiNmZmYiIC8+PC9zdmc+);
+  background-repeat: no-repeat;
+  background-size: 15px 15px;
+  background-position: center;
+  transition: all 0.2s cubic-bezier(0.4, 0, 1, 1);
+}
+.ytp-settings-menu .ytp-menuitem-toggle-checkbox::after {
+  width: 15px;
+  height: 15px;
+  box-shadow: none;
+  left: 0;
+  top: 0;
+  margin-top: 0;
+  background: #fff;
+  transition: all 0.2s cubic-bezier(0.4, 0, 1, 1);
+}
+.ytp-settings-menu .ytp-menuitem[aria-checked="true"] .ytp-menuitem-toggle-checkbox {
+  background: #f12b24;
+}
+.ytp-settings-menu .ytp-menuitem[aria-checked="true"] .ytp-menuitem-toggle-checkbox::before {
+  transform: translateX(6px);
+}
+.ytp-settings-menu .ytp-menuitem[aria-checked="true"] .ytp-menuitem-toggle-checkbox::after {
+  transform: translateX(25px);
+}
+.ytp-menu-label-secondary {
+  font-size: 100%;
+  color: #b8b8b8;
+}
+.ytp-menuitem {
+  height: 27px;
+  line-height: 1.1;
+  color: #bbb;
+  font-weight: 400;
+}
+.ytp-menuitem:hover {
+  background: #1c1c1c;
+}
+.ytp-menuitem path:not([fill="none"]) {
+  fill: #bbb;
+}
+.ytp-menuitem-icon {
+  width: 20px;
+  padding: 0 5px;
+}
+.ytp-menuitem-icon svg {
+  width: 20px;
+  height: 20px;
+}
+.ytp-menuitem-label {
+  text-shadow: 0 0 2px #00000080;
+  font-size: 11px;
+  font-weight: 400;
+  padding-right: 0;
+  padding-left: 10px;
+}
+.ytp-menuitem[role="menuitemradio"] .ytp-menuitem-label {
+  padding-left: 30px;
+  padding-right: 0;
+}
+.ytp-menuitem[role="menuitemradio"][aria-checked="true"] .ytp-menuitem-label {
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMTYgMTYiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI%2BPHBhdGggZD0iTTYuOTk4NjY2NjcsOSBMMTIuNjY1MzMzMywzIEwxNC42NjY2NjY3LDUuMDM3MzMzMzMgTDcuMTI0LDEzLjAwNiBMMS4zMzMzMzMzMyw3LjczNzMzMzMzIEwzLjM0MDY2NjY3LDUuNjQyIEw2Ljk5ODY2NjY3LDkgWiIgZmlsbD0iI2ZmZiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D);
+  background-size: 10px 10px;
+  background-position: left 10px center;
+}
+.ytp-menuitem[aria-haspopup="true"] .ytp-menuitem-content {
+  padding-right: 25px;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTAwJSIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIxMDAlIj48cGF0aCBkPSJNMTYuOTgsMTYgTDEwLjk4LDEwIEwxMi45OCw4IEwyMS4wMSwxNiBMMTIuOTgsMjQgTDEwLjk4LDIyIEwxNi45OCwxNiBaIiBmaWxsPSIjNjY2IiAvPjwvc3ZnPg==);
+  background-size: 14px 14px;
+  background-position: right 5px center;
+}
+.ytp-menuitem-content {
+  padding: 0 10px;
+  padding-left: 0;
+  max-width: 150px;
+  font-size: 11px;
+  color: #fff;
+}
+.ytp-menuitem:not(:last-child) .ytp-menuitem-icon,
+.ytp-menuitem:not(:last-child) .ytp-menuitem-label,
+.ytp-menuitem:not(:last-child) .ytp-menuitem-content {
+  border-bottom: 1px solid #444;
+}
+.ytp-big-mode .ytp-menuitem-toggle-checkbox {
+  width: 60px;
+  height: 23px;
+}
+.ytp-big-mode .ytp-contextmenu .ytp-menuitem-toggle-checkbox {
+  width: 23px;
+  height: 23px;
+}
+.ytp-big-mode .ytp-quality-menu .ytp-menuitem-label {
+  padding-right: 20px !important;
+}
+.ytp-big-mode .ytp-speedslider {
+  margin: 0 15px;
+}
+.ytp-big-mode .ytp-speedslider-text {
+  font-size: 17px;
+}
+.ytp-big-mode .ytp-speedslider-component {
+  padding-bottom: 11px;
+}
+.ytp-big-mode .ytp-slider-handle {
+  width: 6px;
+  height: 20px;
+  transform: translateX(2px) translate3D(0, 0, 0);
+}
+.ytp-big-mode .ytp-slider-handle::before,
+.ytp-big-mode .ytp-slider-handle::after {
+  width: 170px;
+  height: 5px;
+  transform: translateX(-7px) translate3D(0, 0, 0);
+}
+.ytp-big-mode .ytp-slider-handle::before {
+  width: 167px;
+}
+.ytp-big-mode .ytp-panel-header {
+  height: 38px;
+}
+.ytp-big-mode .ytp-panel-title {
+  font-size: 17px;
+  line-height: 38px;
+  padding-left: 45px;
+  background-position: 12px center;
+  background-size: 21px 21px;
+}
+.ytp-big-mode .ytp-panel-options,
+.ytp-big-mode .ytp-panel-footer {
+  font-size: 17px;
+}
+.ytp-big-mode .ytp-panel-footer {
+  padding: 11px 0;
+}
+.ytp-big-mode .ytp-menuitem {
+  height: 40px;
+}
+.ytp-big-mode .ytp-menuitem-label,
+.ytp-big-mode .ytp-menuitem-content {
+  font-size: 17px;
+}
+.ytp-big-mode .ytp-menuitem-label {
+  padding-left: 15px;
+}
+.ytp-menuitem-icon:not(:empty) + .ytp-big-mode .ytp-menuitem-label {
+  padding-left: 0;
+}
+.ytp-big-mode .ytp-menuitem-icon {
+  padding: 0 8px;
+  width: 30px;
+}
+.ytp-big-mode .ytp-menuitem-icon svg {
+  width: 30px;
+  height: 30px;
+}
+.ytp-big-mode .ytp-menuitem[aria-haspopup="true"] .ytp-menuitem-content {
+  padding-right: 38px;
+  background-size: 21px 21px;
+  background-position: right 8px center;
+}
+.ytp-big-mode .ytp-menuitem-toggle-checkbox::before {
+  width: 23px;
+  height: 23px;
+  transform: translateX(-34px);
+  background-size: 23px 23px;
+}
+.ytp-big-mode .ytp-menuitem-toggle-checkbox::after {
+  width: 23px;
+  height: 23px;
+}
+.ytp-big-mode .ytp-menuitem[aria-checked="true"] .ytp-menuitem-toggle-checkbox::before {
+  transform: translateX(11px);
+}
+.ytp-big-mode .ytp-menuitem[aria-checked="true"] .ytp-menuitem-toggle-checkbox::after {
+  transform: translateX(37px);
+}
+.ytp-big-mode .ytp-menuitem[role="menuitemradio"] .ytp-menuitem-label {
+  padding-left: 45px;
+}
+.ytp-big-mode .ytp-menuitem[role="menuitemradio"][aria-checked="true"] .ytp-menuitem-label {
+  background-size: 15px 15px;
+  background-position: left 15px center;
+}</style></html>
