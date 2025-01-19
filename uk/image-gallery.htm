@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>Photo Gallery</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+<link rel="stylesheet" href="c/pingu.css" type="text/css" media="screen" charset="utf-8" />
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+</head>
+<body>
+<table width="100%" height="85%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" style="vertical-align:middle;"> 
+    <div id="container"> 
+<script>
+    window.RufflePlayer = window.RufflePlayer || {};
+window.RufflePlayer.config = {
+"autoplay": "auto",
+"quality": "high",
+allowScriptAccess: true,
+"upgradeToHttps": window.location.protocol === "https:",
+};
+</script>
+        <script>
+    window.addEventListener("load", (event) => {
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        const container = document.getElementById("container");
+        container.appendChild(player);
+        player.load({
+url: "https://Baconlover930.github.io/uk/m/image_gallery.swf",
+parameters: "",
+allowScriptAccess: true,
+});
+        player.style.width = "755px";
+        player.style.height = "474px";
+    });
+</script>
+</div>
+</center>
+</body>
+</html>
