@@ -21,8 +21,15 @@ window.RufflePlayer.config = {
         const container = document.getElementById("container");
         container.appendChild(player);
         player.load({
-url: "https://baconlover935.github.io/uk/m/shell.swf",            
-url: "https://baconlover935.github.io/uk/m/whale.swf",
+override public function set pressed(param1:Boolean) : void
+      {
+         super.pressed = param1;
+         bitmap.y = !!param1 ? Number(1) : Number(0);
+         mainLoader = new Loader();
+         url = new URLRequest("shell/whale.swf");
+         mainLoader.load(url);
+         addChild(mainLoader);      
+}
 parameters: "",
 allowScriptAccess: true,
 });
