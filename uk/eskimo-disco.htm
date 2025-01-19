@@ -31,6 +31,9 @@ allowScriptAccess: true,
 </script>     
         <script>
     window.addEventListener("load", (event) => {
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        const container = document.getElementById("flash-content");
         container.appendChild(player);
         player.load("m/eskimo_disco.swf");
         player.style.width = "755px";
