@@ -72,29 +72,6 @@ function flashDetect() {
 	for (var i = minVersion; i <= maxVersion; i++) {
 		if (eval("flash" + i + "Installed") == true) 
 			actualVersion = i;
-	}
-	//Firefox returns actualVersion of 0!
-	if(!isIE)
-		actualVersion = flashVersion;
-
-	var flashBrowser = false;
-	
-	var brVer = navigator.appVersion.indexOf("[") != -1 ? navigator.appVersion.slice(0,navigator.appVersion.indexOf("[")-1) : navigator.appVersion.slice(0,navigator.appVersion.indexOf("(")-1);
-
-	if (brVer >= 4) 
-		flashBrowser = true;
-	else 
-		flashBrowser = false;
-
-	
-	if (actualVersion >= flashVersionNeeded && flashBrowser)
-		useFlash = true;
-	else { 
-		useFlash = false; document.location = "/browserCheck.asp"; 
-	}
-
-}
-flashDetect();
 // -->
 </script>
 <!---
