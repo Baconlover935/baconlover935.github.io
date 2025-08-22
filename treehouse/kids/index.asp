@@ -134,7 +134,7 @@ function VideoPlayerPopUp(URL)
 
     <script type="text/javascript">
 			promoLayer2 = document.getElementById("A"); 
-			var fo = new FlashObject('/common/swf/Kids.Home.swf', 'A', '760', '550', '7', '#3267c2'); 
+			var fo = new FlashObject('web.archive.org/web/20061024030303/treehousetv.com/common/swf/Kids.Home.swf', 'A', '760', '550', '7', '#3267c2'); 
 			fo.addParam("wmode", "transparent");
 fo.write(promoLayer2); 
     </script>
