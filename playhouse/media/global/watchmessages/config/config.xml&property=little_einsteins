@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <item property="little_einsteins">
+		<text size="20"><![CDATA[Pat-pat-pat with the Little Einsteins weekday mornings at 4/3c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
