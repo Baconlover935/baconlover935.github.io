@@ -10,90 +10,85 @@
 	<main>
 		<item>
 			<property>mickey_mouse_clubhouse</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/mickeymouseclubhouse/index.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/mickeymouseclubhouse/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_mmch.mp3</sound>
 		</item>
 		<item>
-			<property>handy_manny</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/handymanny/index.html]]></link>
+			<property>my_friends_tigger_and_pooh</property>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/myfriendstiggerandpooh/index.html]]></link>
+			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_tiggerandpooh.mp3</sound>
+		</item>
+		<item>
+			<property>handy_mannys</property>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/handymanny/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_hm.mp3</sound>
 		</item>
 		<item>
 			<property>imagination_movers</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/imaginationmovers/index.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/imaginationmovers/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_imaginationmovers.mp3</sound>
 		</item>
 		<item>
-			<property>agent_oso</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/specialagentoso/index.html]]></link>
-			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_oso.mp3</sound>
-		</item>
-		<item>
-			<property>jungle_junction</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/junglejunction/index.html]]></link>
-			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_junglejunction.mp3</sound>
+			<property>bunnytown</property>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/bunnytown/index.html]]></link>
+			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_bunnytown.mp3</sound>
 		</item>
 		<item>
 			<property>little_einsteins</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/littleeinsteins/index.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/littleeinsteins/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_le.mp3</sound>
 		</item>
 		<item>
 			<property>ooh_and_ah</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/oohaahandyou/index.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/oohaahandyou/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_oohandaah.mp3</sound>
 		</item>
 		<item>
-			<property>chuggington</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/chuggington/index.html]]></link>
-			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_chuggington.mp3</sound>
+			<property>higglytown</property>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/higglytown/index.html]]></link>
+			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_higglytown.mp3</sound>
 		</item>
 		<item>
 			<property>all_shows</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/allshows/index.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/allshows/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_allshows.mp3</sound>
 		</item>
 	</main>
 	
 	<sub>
 		<item>
-			<property>video</property>
-			<link><![CDATA[http://disney.go.com/preschool/videos/nc/?int_cmp=phd_GrpsPg_phd_tv_link]]></link>
-			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_video.mp3</sound>
-		</item>
-		<item>
 			<property>games</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/games/index.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/games/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_games.mp3</sound>
 		</item>
 		<item>
 			<property>print_color</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/printables/index.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/printables/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_print.mp3</sound>
 		</item>
 		<item>
 			<property>music</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/music/index.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/music/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_music.mp3</sound>
 		</item>
 		<item>
 			<property>stories</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/stories/index.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/stories/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_stories.mp3</sound>
 		</item>
 		<item>
 			<property>tv_schedule</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/grown-ups/tvschedule.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/grown-ups/tvschedule.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_whatson.mp3</sound>
 		</item>
 		<item>
 			<property>for_grown_ups</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/grown-ups/index.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/grown-ups/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_grownups.mp3</sound>
 		</item>
 		<item>
 			<property>celebration_center</property>
-			<link><![CDATA[http://atv.disney.go.com/playhouse/grown-ups/celebrationcenter/index.html]]></link>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/grown-ups/celebrationcenter/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_cc.mp3</sound>
 		</item>
 		<item>
