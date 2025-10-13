@@ -19,7 +19,7 @@
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_tiggerandpooh.mp3</sound>
 		</item>
 		<item>
-			<property>handy_mannys</property>
+			<property>handy_manny</property>
 			<link><![CDATA[https://baconlover935.github.io/playhouse/handymanny/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_hm.mp3</sound>
 		</item>
