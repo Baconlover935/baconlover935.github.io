@@ -35,6 +35,11 @@
 		<background>true</background>	
 	</item>
 
+	<item property="go_baby">
+		<text size="20"><![CDATA[Watch Go, Baby! on Playhouse Disney!]]></text>
+		<background>true</background>	
+	</item>
+
 	<item property="handy_manny">
 		<text size="20"><![CDATA[Fix it right with Manny and the Tools weekday mornings at 7:30/6:30c on Playhouse Disney!]]></text>
 		<background>true</background>
