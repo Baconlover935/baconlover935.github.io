@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<item property="timmytime">
+		<text size="19"><![CDATA[Watch Timmy Time weekday mornings at 7/6c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="bunnytown">
+		<text size="20"><![CDATA[Watch full-length episodes of Bunnytown on Disney.com!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="can_you_teach_my_alligator_manners">
+		<text size="20"><![CDATA[Watch Can You Teach My Alligator Manners? on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="charlie_and_lola">
+		<text size="19"><![CDATA[Watch Charlie and Lola weekend mornings at 4/3c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="dancealotrobot">
+		<text size="19"><![CDATA[Watch Dance-a-Lot Robot on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="choo_choo_soul">
+		<text size="20"><![CDATA[Watch Choo-Choo Soul on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="chuggington">
+		<text size="20"><![CDATA[Chug along with Chuggington weekday mornings at 6/5c on Playhouse Disney!]]></text>
+		<background>true</background>	
+	</item>
+
+	<item property="handy_manny">
+		<text size="20"><![CDATA[Fix it right with Manny and the Tools weekday mornings at 7:30/6:30c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="happy_monster_band">
+		<text size="20"><![CDATA[Watch Happy Monster Band on Playhouse Disney!]]></text>
+		<background>true</background>
+		<vanity size="16"/>
+	</item>
+
+	<item property="imagination_movers">
+		<text size="20"><![CDATA[Watch the Imagination Movers weekday afternoons at 1/12c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="jungle_junction">
+		<text size="20"><![CDATA[Zip along with the Jungle Junction wheelers weekday mornings at 5/4c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="letsplaymusic">
+		<text size="20"><![CDATA[Tune in to Playhouse Disney every morning at 6/5c!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="little_einsteins">
+		<text size="20"><![CDATA[Pat-pat-pat with the Little Einsteins weekday mornings at 4/3c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="lou_and_lou_safety_patrol">
+		<text size="20"><![CDATA[Watch Lou and Lou: Safety Patrol on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="mickey_mouse_clubhouse">
+		<text size="20"><![CDATA[It's fun inside the Mickey Mouse Clubhouse weekday mornings at 8/7c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<!--
+	<item property="my_friends_tigger_and_pooh">
+		<text size="20"><![CDATA[Watch My Friends Tigger & Pooh weekday mornings at 11/10c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+	-->
+	
+	<item property="ooh_and_aah">
+		<text size="20"><![CDATA[Watch Ooh & Aah on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="special_agent_oso">
+		<text size="20"><![CDATA[Watch Special Agent Oso weekday mornings at 6:30/5:30c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="zefronk">
+		<text size="18"><![CDATA[Watch Tasty Time with ZeFronk on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	
+	
+<!--GENERIC WATCH MESSAGE-->	
+	<item property="playhouse_disney">
+		<text size="20"><![CDATA[]]></text>
+		<background>false</background>
+	</item>
+
+
+	
+<!--SEASONAL-->
+	
+	
+	<item property="SAO-digimedal_painter">
+		<text size="20"><![CDATA[Watch Special Agent Oso Digi-Medal Week, mornings April 5-9 at 8/7c.]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="IM-march_to_the_music">
+		<text size="14"><![CDATA[Watch March to the Music Week beginning Monday morning, March 22 through Friday, March 26 at 9:30/8:30c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="handy_manny_bigrace">
+		<text size="18"><![CDATA[Watch Handy Manny Big Race on Saturday night, March 20 at 7/6c on Disney Channel!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="halloween_stunt">
+		<text size="16"><![CDATA[Tune in to Playhouse Disney's Big Halloween Party MONDAY October 25 and FRIDAY, October 29 starting at 7am/6c!]]></text>
+		<background>true</background>
+		<vanity size="16" />
+	</item>
+
+	<item property="snow_day_saturday">
+		<text size="20"><![CDATA[Tune in to Snow Day Saturday on December 22 at 6/5c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="happy_holidays">
+		<text size="20"><![CDATA[Watch Playhouse Disney every morning at 6/5c!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="v-day">
+		<text size="18"><![CDATA[Celebrate Valentine's Day and friendship starting Saturday, February 14 at 6a/5c on Playhouse Disney.]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="holiday_stunt">
+		<text size="18"><![CDATA[Watch Holiday Mondays every Monday morning in December starting at 7/6c.]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="im_stunt">
+		<text size="15"><![CDATA[Watch the Imagination Mover's Where Is Warehouse Mouse? Week starting Monday, Jan. 26 through Saturday, Jan. 31 at 10am/9c.]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="handymanny_summerstunt">
+		<text size="18"><![CDATA[Watch all-new episodes of Handy Manny every Saturday morning at 8:30/7:30c on Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+	
+	<item property="handy_manny_motorcycle">
+		<text size="20"><![CDATA[Watch Handy Manny Motorcycle Adventure Sunday night, October 4 at 7/6c on Disney Channel!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="mmch_choochooexpress">
+		<text size="18"><![CDATA[Watch Mickey Mouse Clubhouse Choo-Choo Express Sunday night, October 25 at 7/6c on Disney Channel!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="earthday_stunt">
+		<text size="18"><![CDATA[Watch Playhouse Disney's Hooray for Earth Day on Saturday morning, April 17 starting at 6/5c.]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="mind_your_manners_week">
+		<text size="20"><![CDATA[Watch Playhouse Disney's Mind Your Manners Week Starting Monday, May 10 at 8:25/7:25c!]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="birthday_stunt">
+		<text size="18"><![CDATA[Watch Playhouse Disney's Big Birthday Celebration on Monday Morning, January 10 starting at 6/5c.]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="fix_it_with_dad">
+		<text size="18"><![CDATA[Watch Handy Manny Fit It with Dad Weekend Saturday, June 19 and Sunday, June 20 starting at 7am/6c.]]></text>
+		<background>true</background>
+	</item>
+
+	<item property="mmch_roadrally">
+		<text size="19"><![CDATA[Watch Mickey Mouse Clubhouse Road Rally on Tuesday night, September 7 at 7/6c on Disney Channel!]]></text>
+		<background>true</background>
+	</item>
+</config>
