@@ -1,26 +1,26 @@
 <gamelist>
-  <featured thumb="/playhouse/media/games/images/oohahh_inspector_196x100.jpg" header="Activity of the Week" title="Inspector Ooh" desc="Find the hidden objects!" link="http://atv.disney.go.com/playhouse/oohaahandyou/games/inspectorOoh/index.html"/>
+  <featured thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/oohahh_inspector_196x100.jpg" header="Activity of the Week" title="Inspector Ooh" desc="Find the hidden objects!" link="http://atv.disney.go.com/playhouse/oohaahandyou/games/inspectorOoh/index.html"/>
   <allgames>
 		
 		
 		
 		
-	<brand id="oohahh" thumb="/playhouse/media/games/images/oohaah.png" header="/playhouse/media/games/images/oohaahtitle.png" watchmsg="Watch Ooh &amp; Aah every day only on Playhouse Disney! ">
-    		<printable link="http://atv.disney.go.com/playhouse/oohaahandyou/games/coconuttyBowling/index.html" thumb="/playhouse/media/games/images/oohahh_coconuts196x100.jpg" desc="Coco-nutty Bowling"/>
-    		<printable link="http://atv.disney.go.com/playhouse/oohaahandyou/games/inspectorOoh/index.html" thumb="/playhouse/media/games/images/oohahh_inspector_196x100.jpg" desc="The Great Monkey Detective"/>
-    		<printable link="http://atv.disney.go.com/playhouse/oohaahandyou/activities/fetchfruit/index.html" thumb="/playhouse/media/games/images/oohahh_fetchfruit_196x100.jpg" desc="Ooh &amp; Aah's Fetch -a- Fruit"/>
-		<printable link="http://atv.disney.go.com/playhouse/oohaahandyou/music/goingBananas/index.html" thumb="/playhouse/media/games/images/oohahh_goinbananas.jpg" desc="Going Bananas"/>
-		<printable link="http://atv.disney.go.com/playhouse/oohaahandyou/activities/video/index.html" thumb="/playhouse/media/games/images/oohahh_video.jpg" desc="Watch a Video"/>
+	<brand id="oohahh" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/oohaah.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/oohaahtitle.png" watchmsg="Watch Ooh &amp; Aah every day only on Playhouse Disney! ">
+    		<printable link="http://atv.disney.go.com/playhouse/oohaahandyou/games/coconuttyBowling/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/oohahh_coconuts196x100.jpg" desc="Coco-nutty Bowling"/>
+    		<printable link="http://atv.disney.go.com/playhouse/oohaahandyou/games/inspectorOoh/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/oohahh_inspector_196x100.jpg" desc="The Great Monkey Detective"/>
+    		<printable link="http://atv.disney.go.com/playhouse/oohaahandyou/activities/fetchfruit/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/oohahh_fetchfruit_196x100.jpg" desc="Ooh &amp; Aah's Fetch -a- Fruit"/>
+		<printable link="http://atv.disney.go.com/playhouse/oohaahandyou/music/goingBananas/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/oohahh_goinbananas.jpg" desc="Going Bananas"/>
+		<printable link="http://atv.disney.go.com/playhouse/oohaahandyou/activities/video/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/oohahh_video.jpg" desc="Watch a Video"/>
     	</brand>
 		
 		
 		
 		
-		<brand id="mickey" thumb="/playhouse/media/games/images/mickey.png" header="/playhouse/media/games/images/mickeytitle.png" watchmsg="Tune in to Mickey Mouse Clubhouse weekdays at 8:30am/7:30c inside Playhouse Disney!">
-    			<printable link="http://atv.disney.go.com/playhouse/mmch/activities/animalvideo.html" thumb="/playhouse/media/games/images/animalvideo_196x100.jpg" desc="Mickey's Animal Video Parade"/>
-				<printable link="http://atv.disney.go.com/playhouse/mmch/stories/beanstalk/index.html" thumb="/playhouse/media/games/images/mmch_beanstalk196x100.jpg" desc="Donald and the Beanstalk"/>
-				<printable link="http://atv.disney.go.com/playhouse/mmch/activities/sillyslide.html" thumb="/playhouse/media/games/images/mmch_sillyslide_196x100.jpg" desc="Goofy's Silly Slide"/>
-				<printable link="http://atv.disney.go.com/playhouse/mmch/games/mousekespotter.html" thumb="/playhouse/media/games/images/mmch_mousekespotter_196x100.jpg" desc="Mousekespotter"/>
+		<brand id="mickey" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/mickey.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/mickeytitle.png" watchmsg="Tune in to Mickey Mouse Clubhouse weekdays at 8:30am/7:30c inside Playhouse Disney!">
+    			<printable link="http://atv.disney.go.com/playhouse/mmch/activities/animalvideo.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/animalvideo_196x100.jpg" desc="Mickey's Animal Video Parade"/>
+				<printable link="http://atv.disney.go.com/playhouse/mmch/stories/beanstalk/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/mmch_beanstalk196x100.jpg" desc="Donald and the Beanstalk"/>
+				<printable link="http://atv.disney.go.com/playhouse/mmch/activities/sillyslide.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/mmch_sillyslide_196x100.jpg" desc="Goofy's Silly Slide"/>
+				<printable link="http://atv.disney.go.com/playhouse/mmch/games/mousekespotter.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/mmch_mousekespotter_196x100.jpg" desc="Mousekespotter"/>
 				
 				<!--<PRINTABLE link="http://disney.go.com/disneychannel/playhouse/mmch/games/countup.html" thumb="/playhouse/media/games/images/mmch_countup_196x100.jpg"  desc="Mystery Picture Count Up"/>-->
 
@@ -29,119 +29,119 @@
     	
     	
     	
-		<brand id="le" thumb="/playhouse/media/games/images/le.png" header="/playhouse/media/games/images/letitle.png" watchmsg="Pat-pat-pat with the Little Einsteins everyday at 8am/7c inside Playhouse Disney!">
-    			<printable link="http://atv.disney.go.com/playhouse/littleeinsteins/games/sky.html" thumb="/playhouse/media/games/images/le_skyrace_196x100.jpg" desc="The Great Sky Race"/>
-				<printable link="http://atv.disney.go.com/playhouse/littleeinsteins/games/ocean.html" thumb="/playhouse/media/games/images/le_ocean_196x100.jpg" desc="Orchestra Ocean Treasure Hunt"/>
-				<printable link="http://atv.disney.go.com/playhouse/littleeinsteins/music/silly.html" thumb="/playhouse/media/games/images/le_sillysong_196x100.jpg" desc="Silly Song Machine"/>
-				<printable link="http://atv.disney.go.com/playhouse/littleeinsteins/music/barnyard.html" thumb="/playhouse/media/games/images/le_barnyard_196x100.jpg" desc="Leo's Barnyard Baton"/>
-				<printable link="http://atv.disney.go.com/playhouse/littleeinsteins/activities/paint.html" thumb="/playhouse/media/games/images/le_paint_196x100.jpg" desc="My Masterpiece"/>
+		<brand id="le" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/le.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/letitle.png" watchmsg="Pat-pat-pat with the Little Einsteins everyday at 8am/7c inside Playhouse Disney!">
+    			<printable link="http://atv.disney.go.com/playhouse/littleeinsteins/games/sky.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/le_skyrace_196x100.jpg" desc="The Great Sky Race"/>
+				<printable link="http://atv.disney.go.com/playhouse/littleeinsteins/games/ocean.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/le_ocean_196x100.jpg" desc="Orchestra Ocean Treasure Hunt"/>
+				<printable link="http://atv.disney.go.com/playhouse/littleeinsteins/music/silly.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/le_sillysong_196x100.jpg" desc="Silly Song Machine"/>
+				<printable link="http://atv.disney.go.com/playhouse/littleeinsteins/music/barnyard.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/le_barnyard_196x100.jpg" desc="Leo's Barnyard Baton"/>
+				<printable link="http://atv.disney.go.com/playhouse/littleeinsteins/activities/paint.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/le_paint_196x100.jpg" desc="My Masterpiece"/>
     	</brand>
     
     
     
     
-    	<brand id="manny" thumb="/playhouse/media/games/images/manny.png" header="/playhouse/media/games/images/mannytitle.png" watchmsg="Make it work with Manny and the tools weekdays at 9am/8c inside Playhouse Disney!"> 
+    	<brand id="manny" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/manny.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/mannytitle.png" watchmsg="Make it work with Manny and the tools weekdays at 9am/8c inside Playhouse Disney!"> 
     	
-    	<printable link="http://atv.disney.go.com/playhouse/handymanny/games/watchout/index.html" thumb="/playhouse/media/games/images/hm_mrlopart_96x100.JPG" desc="Watch Out, Mr. Lopart!"/>
+    	<printable link="http://atv.disney.go.com/playhouse/handymanny/games/watchout/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/hm_mrlopart_96x100.JPG" desc="Watch Out, Mr. Lopart!"/>
     	<printable link="http://atv.disney.go.com/playhouse/handymanny/activities/dayatthepark/index.html" thumb="/playhouse/media/games/images/hm_dayatthepark_196x100.JPG" desc="Rusty &amp; Stretch: A Day at the Park "/>
     	
-    			<printable link="http://atv.disney.go.com/playhouse/handymanny/games/hopup/index.html" thumb="/playhouse/media/games/images/hm_hopup.jpg" desc="Hop Up, Jump In!"/>
-				<printable link="http://atv.disney.go.com/playhouse/handymanny/games/fixitfetch/index.html" thumb="/playhouse/media/games/images/hm_fixitfetch.jpg" desc="Fix-It Fetch"/>
-				<printable link="http://atv.disney.go.com/playhouse/handymanny/activities/toyfactory/index.html" thumb="/playhouse/media/games/images/hm_toyfactory.jpg" desc="Toy Factory"/>
-				<printable link="http://atv.disney.go.com/playhouse/handymanny/music/clang/index.html" thumb="/playhouse/media/games/images/hm_clang.jpg" desc="Clang"/>
+    			<printable link="http://atv.disney.go.com/playhouse/handymanny/games/hopup/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/hm_hopup.jpg" desc="Hop Up, Jump In!"/>
+				<printable link="http://atv.disney.go.com/playhouse/handymanny/games/fixitfetch/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/hm_fixitfetch.jpg" desc="Fix-It Fetch"/>
+				<printable link="http://atv.disney.go.com/playhouse/handymanny/activities/toyfactory/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/hm_toyfactory.jpg" desc="Toy Factory"/>
+				<printable link="http://atv.disney.go.com/playhouse/handymanny/music/clang/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/hm_clang.jpg" desc="Clang"/>
 
     	</brand>
     
     
     
     
-		<brand id="johnny" thumb="/playhouse/media/games/images/johnny.png" header="/playhouse/media/games/images/johnnytitle.png" watchmsg="Have a magical time with Johnny and the Sprites weekends at 10am|9c inside Playhouse Disney!"> 
-    			 <printable link="http://atv.disney.go.com/playhouse/johnny/games/spofflesprinkle/index.html" thumb="/playhouse/media/games/images/jats_spofflesprinkle.jpg" desc="Ginger's Spoffle Sprinkle"/>
-<printable link="http://atv.disney.go.com/playhouse/johnny/music/spritetag/index.html" thumb="/playhouse/media/games/images/jats_spritetag.jpg" desc="Sprite Tag Songbook"/>
-<printable link="http://atv.disney.go.com/playhouse/johnny/activities/paintmagic/index.html" thumb="/playhouse/media/games/images/jats_paintmagic.jpg" desc="Lily's Paint Magic"/>
-<printable link="http://atv.disney.go.com/playhouse/johnny/activities/gallery/index.html" thumb="/playhouse/media/games/images/jats_grottosgrove.jpg" desc="Grotto's Grove Gallery"/>
-<printable link="http://atv.disney.go.com/playhouse/johnny/activities/spriteroom/index.html" thumb="/playhouse/media/games/images/jats_spriteroom.jpg" desc="A Sprite Room of my Own"/>
-<printable link="http://atv.disney.go.com/playhouse/johnny/stories/sage/index.html" thumb="/playhouse/media/games/images/jats_sagefables.jpg" desc="Sage's Fables"/>
+		<brand id="johnny" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/johnny.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/johnnytitle.png" watchmsg="Have a magical time with Johnny and the Sprites weekends at 10am|9c inside Playhouse Disney!"> 
+    			 <printable link="http://atv.disney.go.com/playhouse/johnny/games/spofflesprinkle/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jats_spofflesprinkle.jpg" desc="Ginger's Spoffle Sprinkle"/>
+<printable link="http://atv.disney.go.com/playhouse/johnny/music/spritetag/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jats_spritetag.jpg" desc="Sprite Tag Songbook"/>
+<printable link="http://atv.disney.go.com/playhouse/johnny/activities/paintmagic/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jats_paintmagic.jpg" desc="Lily's Paint Magic"/>
+<printable link="http://atv.disney.go.com/playhouse/johnny/activities/gallery/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jats_grottosgrove.jpg" desc="Grotto's Grove Gallery"/>
+<printable link="http://atv.disney.go.com/playhouse/johnny/activities/spriteroom/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jats_spriteroom.jpg" desc="A Sprite Room of my Own"/>
+<printable link="http://atv.disney.go.com/playhouse/johnny/stories/sage/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jats_sagefables.jpg" desc="Sage's Fables"/>
 
     	</brand>
     
     
     
     
-		<brand id="higgly" thumb="/playhouse/media/games/images/higgly.png" header="/playhouse/media/games/images/higglytitle.png" watchmsg="Watch Higglytown Heroes everyday at 7:30am/6:30c inside Playhouse Disney!">
-    			<printable link="http://atv.disney.go.com/playhouse/higglytown/activities/halloffame.html" thumb="/playhouse/media/games/images/higgly_halloffame_196x100.jpg" desc="Hero Hall of Fame"/>
-				<printable link="http://atv.disney.go.com/playhouse/higglytown/activities/makeahero.html" thumb="/playhouse/media/games/images/higgly_heroes_196x100.jpg" desc="Make a Hero"/>
-				<printable link="http://atv.disney.go.com/playhouse/higglytown/games/grocery.html" thumb="/playhouse/media/games/images/higgly_grocery_196x100.jpg" desc="Higglytown Grocery-A-Go-Go"/>
-				<printable link="http://atv.disney.go.com/playhouse/higglytown/games/hopandpop.html" thumb="/playhouse/media/games/images/higgly_hoppop_196x100.jpg" desc="Higglytown Hero Hop and Pop"/>
-				<printable link="http://atv.disney.go.com/playhouse/higglytown/games/higglyball.html" thumb="/playhouse/media/games/images/higgly_higglyball_196x100.jpg" desc="Higglyball"/>
-				<printable link="http://atv.disney.go.com/playhouse/higglytown/music/namehero.html" thumb="/playhouse/media/games/images/higgly_namehero_196x100.jpg" desc="Name That Hero!"/>
-				<printable link="http://atv.disney.go.com/playhouse/higglytown/stories/beach.html" thumb="/playhouse/media/games/images/higgly_beach_196x100.jpg" desc="Higgly Beach or Bust!"/>
+		<brand id="higgly" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/higgly.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/higglytitle.png" watchmsg="Watch Higglytown Heroes everyday at 7:30am/6:30c inside Playhouse Disney!">
+    			<printable link="http://atv.disney.go.com/playhouse/higglytown/activities/halloffame.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/higgly_halloffame_196x100.jpg" desc="Hero Hall of Fame"/>
+				<printable link="http://atv.disney.go.com/playhouse/higglytown/activities/makeahero.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/higgly_heroes_196x100.jpg" desc="Make a Hero"/>
+				<printable link="http://atv.disney.go.com/playhouse/higglytown/games/grocery.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/higgly_grocery_196x100.jpg" desc="Higglytown Grocery-A-Go-Go"/>
+				<printable link="http://atv.disney.go.com/playhouse/higglytown/games/hopandpop.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/higgly_hoppop_196x100.jpg" desc="Higglytown Hero Hop and Pop"/>
+				<printable link="http://atv.disney.go.com/playhouse/higglytown/games/higglyball.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/higgly_higglyball_196x100.jpg" desc="Higglyball"/>
+				<printable link="http://atv.disney.go.com/playhouse/higglytown/music/namehero.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/higgly_namehero_196x100.jpg" desc="Name That Hero!"/>
+				<printable link="http://atv.disney.go.com/playhouse/higglytown/stories/beach.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/higgly_beach_196x100.jpg" desc="Higgly Beach or Bust!"/>
 
     	</brand>
     
  
-		<brand id="loulou" thumb="/playhouse/media/games/images/loulou.png" header="/playhouse/media/games/images/louloutitle.png" watchmsg="Watch Lou and Lou: Safety Patrol everyday only inside Playhouse Disney!">
-    		<printable link="http://atv.disney.go.com/playhouse/safetypatrol/lnl_safety.html" thumb="/playhouse/media/games/images/loulouandyou_safetypatrol.jpg" desc="Lou and Lou and You!"/>
-			<printable link="http://atv.disney.go.com/playhouse/safetypatrol/lnl_video.html" thumb="/playhouse/media/games/images/loulouandyou_video.jpg" desc="Lou and Lou Safety Patrol Videos"/>
+		<brand id="loulou" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/loulou.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/louloutitle.png" watchmsg="Watch Lou and Lou: Safety Patrol everyday only inside Playhouse Disney!">
+    		<printable link="http://atv.disney.go.com/playhouse/safetypatrol/lnl_safety.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/loulouandyou_safetypatrol.jpg" desc="Lou and Lou and You!"/>
+			<printable link="http://atv.disney.go.com/playhouse/safetypatrol/lnl_video.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/loulouandyou_video.jpg" desc="Lou and Lou Safety Patrol Videos"/>
     	</brand>
     
     
     
     
-		<brand id="choochoo" thumb="/playhouse/media/games/images/choochoo.png" header="/playhouse/media/games/images/choochootitle.png" watchmsg="Watch Choo-Choo Soul everyday only inside Playhouse Disney!">
-    			 <printable link="http://atv.disney.go.com/playhouse/choochoosoul/ccs_video.html" thumb="/playhouse/media/games/images/choochoosoull_video.jpg" desc="Choo-Choo Soul Videos"/>
+		<brand id="choochoo" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/choochoo.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/choochootitle.png" watchmsg="Watch Choo-Choo Soul everyday only inside Playhouse Disney!">
+    			 <printable link="http://atv.disney.go.com/playhouse/choochoosoul/ccs_video.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/choochoosoull_video.jpg" desc="Choo-Choo Soul Videos"/>
 
     	</brand>
     
     
     
     
-		<brand id="zanes" thumb="/playhouse/media/games/images/zanes.png" header="/playhouse/media/games/images/zanestitle.png" watchmsg="Watch Dan Zanes House Party everyday only inside Playhouse Disney!">
-    			 <printable link="http://atv.disney.go.com/playhouse/danzanes/dz_video.html" thumb="/playhouse/media/games/images/danzanes_video.jpg" desc="Dan Zanes Video"/>
+		<brand id="zanes" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/zanes.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/zanestitle.png" watchmsg="Watch Dan Zanes House Party everyday only inside Playhouse Disney!">
+    			 <printable link="http://atv.disney.go.com/playhouse/danzanes/dz_video.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/danzanes_video.jpg" desc="Dan Zanes Video"/>
     	</brand>
     
     
     
     
-		<brand id="jojo" thumb="/playhouse/media/games/images/jojo.png" header="/playhouse/media/games/images/jojotitle.png" watchmsg="Get up and go with JoJo's Circus everyday at 6:30am/5:30c inside Playhouse Disney!">
-    			<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/circustrain.html" thumb="/playhouse/media/games/images/jojos_circustrain_196x10.jpg" desc="JoJo's Circus Train"/>
-    			<printable link="http://atv.disney.go.com/playhouse/jojoscircus/activities/wedding.html" thumb="/playhouse/media/games/images/jojos_wedding_196x100.jpg" desc="JoJo's A Circus Town Wedding"/>
-				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/activities/findgomeet.html" thumb="/playhouse/media/games/images/jojos_findgomeet_196x100.jpg" desc="JoJo's Big Top Find and Go-Meet"/>
-				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/jump.html" thumb="/playhouse/media/games/images/jojos_jump_196x100.jpg" desc="Jumpin' JoJo"/>
-				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/lettersounddash.html" thumb="/playhouse/media/games/images/jojos_lettersounddash.jpg" desc="JoJo's Letter Sound Dash"/>
-				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/jugglingjumble.html" thumb="/playhouse/media/games/images/jojos_jugglingjumble.jpg" desc="JoJo's Juggling Jumble"/>
-				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/bigtophop.html" thumb="/playhouse/media/games/images/jojos_bigtophop.jpg" desc="JoJo's Big Top Snack Hop"/>
-				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/circustrain.html" thumb="/playhouse/media/games/images/jojos_circustrain.jpg" desc="JoJo's Circus Train"/>
-				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/getspongy.html" thumb="/playhouse/media/games/images/jojos_getspongy.jpg" desc="Getting Spongy Game"/>
-				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/funnyfarm.html" thumb="/playhouse/media/games/images/jojos_funnyfarm.jpg" desc="JoJo's Funny Farm Parade"/>
-				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/music/jukebox.html" thumb="/playhouse/media/games/images/jojos_jukebox.jpg" desc="JoJo's Jukebox"/>
+		<brand id="jojo" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojo.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojotitle.png" watchmsg="Get up and go with JoJo's Circus everyday at 6:30am/5:30c inside Playhouse Disney!">
+    			<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/circustrain.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojos_circustrain_196x10.jpg" desc="JoJo's Circus Train"/>
+    			<printable link="http://atv.disney.go.com/playhouse/jojoscircus/activities/wedding.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojos_wedding_196x100.jpg" desc="JoJo's A Circus Town Wedding"/>
+				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/activities/findgomeet.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojos_findgomeet_196x100.jpg" desc="JoJo's Big Top Find and Go-Meet"/>
+				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/jump.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojos_jump_196x100.jpg" desc="Jumpin' JoJo"/>
+				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/lettersounddash.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojos_lettersounddash.jpg" desc="JoJo's Letter Sound Dash"/>
+				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/jugglingjumble.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojos_jugglingjumble.jpg" desc="JoJo's Juggling Jumble"/>
+				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/bigtophop.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojos_bigtophop.jpg" desc="JoJo's Big Top Snack Hop"/>
+				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/circustrain.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojos_circustrain.jpg" desc="JoJo's Circus Train"/>
+				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/getspongy.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojos_getspongy.jpg" desc="Getting Spongy Game"/>
+				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/games/funnyfarm.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojos_funnyfarm.jpg" desc="JoJo's Funny Farm Parade"/>
+				<printable link="http://atv.disney.go.com/playhouse/jojoscircus/music/jukebox.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/jojos_jukebox.jpg" desc="JoJo's Jukebox"/>
 				
     	</brand>
     
     
     
     
-		<brand id="lola" thumb="/playhouse/media/games/images/lola.png" header="/playhouse/media/games/images/lolatitle.png" watchmsg="Watch Charlie and Lola weekdays at 10am/9c inside Playhouse Disney!">
-    			 <printable link="http://atv.disney.go.com/playhouse/charlieandlola/games/fashionFlurry/index.html" thumb="/playhouse/media/games/images/charlielola_fashionflurry.jpg" desc="Lola's Fashion Flurry"/>
-<printable link="http://atv.disney.go.com/playhouse/charlieandlola/stories/lunch/index.html" thumb="/playhouse/media/games/images/chalielola_lunch.jpg" desc="I Will Not Ever Never Eat That Lunch"/>
+		<brand id="lola" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/lola.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/lolatitle.png" watchmsg="Watch Charlie and Lola weekdays at 10am/9c inside Playhouse Disney!">
+    			 <printable link="http://atv.disney.go.com/playhouse/charlieandlola/games/fashionFlurry/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/charlielola_fashionflurry.jpg" desc="Lola's Fashion Flurry"/>
+<printable link="http://atv.disney.go.com/playhouse/charlieandlola/stories/lunch/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/chalielola_lunch.jpg" desc="I Will Not Ever Never Eat That Lunch"/>
 
     </brand>
     
     
     
     
-		<!--<BRAND id="wiggles" thumb="/playhouse/media/games/images/wiggles.png" header="/playhouse/media/games/images/wigglestitle.png" watchmsg="Watch message from XML goes here.">
-    			 <PRINTABLE link="http://gameurlhere.com" thumb="/playhouse/media/games/images/XXXXXX.jpg"  desc="Wiggles 1 Title"/>
+		<!--<BRAND id="wiggles" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/wiggles.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/wigglestitle.png" watchmsg="Watch message from XML goes here.">
+    			 <PRINTABLE link="http://gameurlhere.com" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/XXXXXX.jpg"  desc="Wiggles 1 Title"/>
     </BRAND>-->
     
     
     
     
-		<brand id="doodle" thumb="/playhouse/media/games/images/doodlebops.png" header="/playhouse/media/games/images/doodlebopstitle.png" watchmsg="Watch Doodlebops everyday only inside Playhouse Disney!">
-    			 <printable link="http://atv.disney.go.com/playhouse/doodlebops/game_getonbus.html" thumb="/playhouse/media/games/images/doodlebops_bus.jpg" desc="Get on the Bus!"/>
-<printable link="http://atv.disney.go.com/playhouse/doodlebops/game_whereareddb.html" thumb="/playhouse/media/games/images/doodlebops_where.jpg" desc="Where are the Doodlebops?"/>
-<printable link="http://atv.disney.go.com/playhouse/doodlebops/activities_stageashow.html" thumb="/playhouse/media/games/images/doodlebops_stageshow.jpg" desc="Stage a Show"/>
-<printable link="http://atv.disney.go.com/playhouse/doodlebops/singalong.html" thumb="/playhouse/media/games/images/doodlebops_singalong.jpg" desc="Sing Along"/>
+		<brand id="doodle" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/doodlebops.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/doodlebopstitle.png" watchmsg="Watch Doodlebops everyday only inside Playhouse Disney!">
+    			 <printable link="http://atv.disney.go.com/playhouse/doodlebops/game_getonbus.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/doodlebops_bus.jpg" desc="Get on the Bus!"/>
+<printable link="http://atv.disney.go.com/playhouse/doodlebops/game_whereareddb.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/doodlebops_where.jpg" desc="Where are the Doodlebops?"/>
+<printable link="http://atv.disney.go.com/playhouse/doodlebops/activities_stageashow.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/doodlebops_stageshow.jpg" desc="Stage a Show"/>
+<printable link="http://atv.disney.go.com/playhouse/doodlebops/singalong.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/doodlebops_singalong.jpg" desc="Sing Along"/>
     	</brand>
     	
     	
@@ -161,58 +161,58 @@
     
     
     
-		<brand id="stanley" thumb="/playhouse/media/games/images/stanley.png" header="/playhouse/media/games/images/stanleytitle.png" watchmsg="Watch Stanley and his animal friends weekdays at 6am/5c inside Playhouse Disney!">
+		<brand id="stanley" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/stanley.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/stanleytitle.png" watchmsg="Watch Stanley and his animal friends weekdays at 6am/5c inside Playhouse Disney!">
     			 <printable link="http://atv.disney.go.com/playhouse/stanley/games_seaweed.html" thumb="/playhouse/media/games/images/stanley_seaweed.jpg" desc="Seaweed Safari"/>
-<printable link="http://atv.disney.go.com/playhouse/stanley/nightlight_content.html" thumb="/playhouse/media/games/images/stanley_nightlight.jpg" desc="Nightlight Explorer"/>
-<printable link="http://atv.disney.go.com/playhouse/stanley/cloud.html" thumb="/playhouse/media/games/images/stanley_cloud.jpg" desc="Stanley and the Cloud Critters"/>
-<printable link="http://atv.disney.go.com/playhouse/stanley/charades.html" thumb="/playhouse/media/games/images/stanley_charades.jpg" desc="Stanley Charades"/>
-<printable link="http://atv.disney.go.com/playhouse/stanley/alphabet_game_content.html" thumb="/playhouse/media/games/images/stanley_alphabet.jpg" desc="Stanley's Alphabet Adventure"/>
-<printable link="http://atv.disney.go.com/playhouse/stanley/media/alphabet_chart_assets/alphabet_chart_content.html" thumb="/playhouse/media/games/images/stanley_alpahbetchart.jpg" desc="Stanley's Animal Alphabet Chart"/>
+<printable link="http://atv.disney.go.com/playhouse/stanley/nightlight_content.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/stanley_nightlight.jpg" desc="Nightlight Explorer"/>
+<printable link="http://atv.disney.go.com/playhouse/stanley/cloud.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/stanley_cloud.jpg" desc="Stanley and the Cloud Critters"/>
+<printable link="http://atv.disney.go.com/playhouse/stanley/charades.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/stanley_charades.jpg" desc="Stanley Charades"/>
+<printable link="http://atv.disney.go.com/playhouse/stanley/alphabet_game_content.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/stanley_alphabet.jpg" desc="Stanley's Alphabet Adventure"/>
+<printable link="http://atv.disney.go.com/playhouse/stanley/media/alphabet_chart_assets/alphabet_chart_content.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/stanley_alpahbetchart.jpg" desc="Stanley's Animal Alphabet Chart"/>
 
-<printable link="http://atv.disney.go.com/playhouse/stanley/activities.html?off" thumb="/playhouse/media/games/images/stanley_bigbookact.jpg" desc="The Great Big Book of Everything"/>
+<printable link="http://atv.disney.go.com/playhouse/stanley/activities.html?off" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/stanley_bigbookact.jpg" desc="The Great Big Book of Everything"/>
 
-<printable link="http://atv.disney.go.com/playhouse/stanley/rocknroar.html" thumb="/playhouse/media/games/images/stanley_rocknroar.jpg" desc="Rock'n Roar"/>
-<printable link="http://atv.disney.go.com/playhouse/stanley/farm.html" thumb="/playhouse/media/games/images/stanley_farmfresh.jpg" desc="Farm Fresh Stanley"/>
-<printable link="http://atv.disney.go.com/playhouse/stanley/storytime_main.html" thumb="/playhouse/media/games/images/stanley_storytime.jpg" desc="Stanley's Great Big Story Time Adventure"/>
+<printable link="http://atv.disney.go.com/playhouse/stanley/rocknroar.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/stanley_rocknroar.jpg" desc="Rock'n Roar"/>
+<printable link="http://atv.disney.go.com/playhouse/stanley/farm.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/stanley_farmfresh.jpg" desc="Farm Fresh Stanley"/>
+<printable link="http://atv.disney.go.com/playhouse/stanley/storytime_main.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/stanley_storytime.jpg" desc="Stanley's Great Big Story Time Adventure"/>
     	</brand>
     
     
     
     
-		<brand id="gobaby" thumb="/playhouse/media/games/images/gobaby.png" header="/playhouse/media/games/images/gobabytitle.png" watchmsg="Watch Go Baby! everyday only inside Playhouse Disney!">
-    			 <printable link="http://atv.disney.go.com/playhouse/gobaby/helper.html" thumb="/playhouse/media/games/images/gobaby_helper.jpg" desc="Baby's Big Helper"/>
-<printable link="http://atv.disney.go.com/playhouse/gobaby/showandtell.html" thumb="/playhouse/media/games/images/gobaby_video.jpg" desc="Go, Baby! Video Gallery"/>
-
-    	</brand>
-    
-		<brand id="shanna" thumb="/playhouse/media/games/images/shanna.png" header="/playhouse/media/games/images/shannatitle.png" watchmsg="Watch Shanna's Show everyday only inside Playhouse Disney!">
-    			 <printable link="http://atv.disney.go.com/playhouse/shanna/game/shannagame.html" thumb="/playhouse/media/games/images/shanna_shannagame.jpg" desc="Shanna's Show ''Who Am I?'' Game"/>
-<printable link="http://atv.disney.go.com/playhouse/shanna/game/rhymetime.html" thumb="/playhouse/media/games/images/shanna_rhymetime.jpg" desc="Shanna's Show Rhyme Time Game"/>
+		<brand id="gobaby" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/gobaby.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/gobabytitle.png" watchmsg="Watch Go Baby! everyday only inside Playhouse Disney!">
+    			 <printable link="http://atv.disney.go.com/playhouse/gobaby/helper.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/gobaby_helper.jpg" desc="Baby's Big Helper"/>
+<printable link="http://atv.disney.go.com/playhouse/gobaby/showandtell.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/gobaby_video.jpg" desc="Go, Baby! Video Gallery"/>
 
     	</brand>
-    	
-    	
-    	
-    	
-		<brand id="shane" thumb="/playhouse/media/games/images/shane.png" header="/playhouse/media/games/images/shanetitle.png" watchmsg="Watch Shane's Kindergarten Countdown everyday only inside Playhouse Disney!">
-    			 <printable link="http://disney.go.com/disneychannel/playhouse/shane/kindergartencountdown/index.html" thumb="/playhouse/media/games/images/shane_countdown.jpg" desc="Shane's Kindergarten Countdown Game"/>
+    
+		<brand id="shanna" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/shanna.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/shannatitle.png" watchmsg="Watch Shanna's Show everyday only inside Playhouse Disney!">
+    			 <printable link="http://atv.disney.go.com/playhouse/shanna/game/shannagame.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/shanna_shannagame.jpg" desc="Shanna's Show ''Who Am I?'' Game"/>
+<printable link="http://atv.disney.go.com/playhouse/shanna/game/rhymetime.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/shanna_rhymetime.jpg" desc="Shanna's Show Rhyme Time Game"/>
+
     	</brand>
     	
     	
     	
     	
-		<brand id="koalabros" thumb="/playhouse/media/games/images/koalabros.png" header="/playhouse/media/games/images/koalabrostitle.png" watchmsg="The Koala Brothers are here to help weekdays at 10:30am/9:30c inside Playhouse Disney!">
-    			 <printable link="http://atv.disney.go.com/playhouse/koalabrothers/activities/scrapbook.html" thumb="/playhouse/media/games/images/koalaros_stickerbook.jpg" desc="''Say Cheese!'' Stickerbook"/>
-<printable link="http://atv.disney.go.com/playhouse/koalabrothers/games/planegame.html" thumb="/playhouse/media/games/images/koalabros_airmail.jpg" desc="Outback Airmail Game"/>
-<printable link="http://atv.disney.go.com/playhouse/koalabrothers/stories/newtooth.html" thumb="/playhouse/media/games/images/koalabros_newtooth.jpg" desc="Archie's New Tooth Storybook"/>
-<printable link="http://atv.disney.go.com/playhouse/koalabrothers/music/railroad.html" thumb="/playhouse/media/games/images/koalabros_railroad.jpg" desc="Rhythm Railroad"/>
+		<brand id="shane" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/shane.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/shanetitle.png" watchmsg="Watch Shane's Kindergarten Countdown everyday only inside Playhouse Disney!">
+    			 <printable link="http://disney.go.com/disneychannel/playhouse/shane/kindergartencountdown/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/shane_countdown.jpg" desc="Shane's Kindergarten Countdown Game"/>
     	</brand>
     	
     	
     	
     	
-		<brand id="carlos" thumb="/playhouse/media/games/images/carlos.png" header="/playhouse/media/games/images/carlostitle.png" watchmsg="Watch Captain Carlos everyday only inside Playhouse Disney!">
-    			 <printable link="http://atv.disney.go.com/playhouse/captaincarlos/" thumb="/playhouse/media/games/images/captaincarlos_snackpower.jpg" desc="Snack Power Game"/>
+		<brand id="koalabros" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/koalabros.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/koalabrostitle.png" watchmsg="The Koala Brothers are here to help weekdays at 10:30am/9:30c inside Playhouse Disney!">
+    			 <printable link="http://atv.disney.go.com/playhouse/koalabrothers/activities/scrapbook.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/koalaros_stickerbook.jpg" desc="''Say Cheese!'' Stickerbook"/>
+<printable link="http://atv.disney.go.com/playhouse/koalabrothers/games/planegame.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/koalabros_airmail.jpg" desc="Outback Airmail Game"/>
+<printable link="http://atv.disney.go.com/playhouse/koalabrothers/stories/newtooth.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/koalabros_newtooth.jpg" desc="Archie's New Tooth Storybook"/>
+<printable link="http://atv.disney.go.com/playhouse/koalabrothers/music/railroad.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/koalabros_railroad.jpg" desc="Rhythm Railroad"/>
+    	</brand>
+    	
+    	
+    	
+    	
+		<brand id="carlos" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/carlos.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/carlostitle.png" watchmsg="Watch Captain Carlos everyday only inside Playhouse Disney!">
+    			 <printable link="http://atv.disney.go.com/playhouse/captaincarlos/" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/captaincarlos_snackpower.jpg" desc="Snack Power Game"/>
     	</brand>
     	
     	
@@ -221,12 +221,12 @@
     	
     	
     <!--	
-		<BRAND id="felix" thumb="/playhouse/media/games/images/felix.png" header="/playhouse/media/games/images/felixtitle.png" watchmsg="Watch Felix and The Flying Machine everyday only inside Playhouse Disney!">
-    			 <PRINTABLE link="http://disney.go.com/disneychannel/playhouse/felix/index.html" thumb="/playhouse/media/games/images/felix_mixup.jpg"  desc="The Animal Mix-Up Game"/>
+		<BRAND id="felix" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/felix.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/felixtitle.png" watchmsg="Watch Felix and The Flying Machine everyday only inside Playhouse Disney!">
+    			 <PRINTABLE link="http://disney.go.com/disneychannel/playhouse/felix/index.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/felix_mixup.jpg"  desc="The Animal Mix-Up Game"/>
     	</BRAND>
 
-    	<BRAND id="max" thumb="/playhouse/media/games/images/max.png" header="/playhouse/media/games/images/maxtitle.png" watchmsg="Watch Good Manners With Max everyday only inside Playhouse Disney!">
-    			 <PRINTABLE link="http://disney.go.com/disneychannel/playhouse/clay/learn/mannersmax.html" thumb="/playhouse/media/games/images/goodmanners_mannersmax.jpg"  desc="Good Manners with Max Game"/>
+    	<BRAND id="max" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/max.png" header="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/maxtitle.png" watchmsg="Watch Good Manners With Max everyday only inside Playhouse Disney!">
+    			 <PRINTABLE link="http://disney.go.com/disneychannel/playhouse/clay/learn/mannersmax.html" thumb="https://web.archive.org/web/20081012030303/atv.disney.go.com/playhouse/media/games/images/goodmanners_mannersmax.jpg"  desc="Good Manners with Max Game"/>
     	</BRAND>-->
 
 		
