@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root>/DisneyChannel/playhouse/</root>
+
+<allShows>
+	
+		<button name="mickey">friends/mmch</button>
+		<button name="tigger">friends/tiggerandpooh</button>
+		<button name="manny">friends/handymanny</button>
+		<button name="imagination_movers">friends/imaginationmovers</button>
+		<button name="bunny">friends/bunnytown</button>
+		<button name="einsteins">friends/littleeinsteins</button>
+		<button name="ooh_and_aah">friends/oohaahandyou</button>
+		<button name="higgly">friends/higglytown</button>
+		<button name="johnny">friends/johnny</button>
+		<button name="jojo">friends/jojoscircus</button>
+		<button name="charlie_and_lola">friends/charlieandlola</button>
+		<button name="cytmam">friends/canyouteachmyalligatormanners</button>
+		<button name="safety_patrol">friends/safetypatrol</button>
+		<button name="happymonsterband">friends/happymonsterband</button>
+		<button name="shanna">friends/shanna</button>
+		<button name="koalabros">friends/koalabrothers</button>
+		<button name="max">/friends/max</button>
+		<button name="roadrally">friends/mmch/roadrally</button>
+		<button name="bigrace">friends/handymanny/bigrace</button>
+		<button name="bigjob">friends/handymanny/bigconstructionjob</button>
+
+
+		
+</allShows>
