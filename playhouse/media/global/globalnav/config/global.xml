@@ -29,14 +29,14 @@
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_imaginationmovers.mp3</sound>
 		</item>
 		<item>
-			<property>bunnytown</property>
-			<link><![CDATA[https://baconlover935.github.io/playhouse/bunnytown/index.html]]></link>
-			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_bunnytown.mp3</sound>
-		</item>
-		<item>
 			<property>little_einsteins</property>
 			<link><![CDATA[https://baconlover935.github.io/playhouse/littleeinsteins/index.html]]></link>
 			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_le.mp3</sound>
+		</item>
+		<item>
+			<property>bunnytown</property>
+			<link><![CDATA[https://baconlover935.github.io/playhouse/bunnytown/index.html]]></link>
+			<sound>http://atv.disney.go.com/playhouse/media/global/globalnav/audio/vo_bunnytown.mp3</sound>
 		</item>
 		<item>
 			<property>ooh_and_ah</property>
