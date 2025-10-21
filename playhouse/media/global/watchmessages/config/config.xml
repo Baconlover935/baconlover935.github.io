@@ -51,6 +51,12 @@
 		<vanity size="16"/>
 	</item>
 
+	<item property="higgly_town_heroes">
+		<text size="20"><![CDATA[Watch Higglytown Heroes everyday at 7:30am/6:30c inside Playhouse Disney!]]></text>
+		<background>true</background>
+		<vanity size="16"/>
+	</item>
+
 	<item property="imagination_movers">
 		<text size="20"><![CDATA[Watch the Imagination Movers weekday afternoons at 1/12c on Playhouse Disney!]]></text>
 		<background>true</background>
