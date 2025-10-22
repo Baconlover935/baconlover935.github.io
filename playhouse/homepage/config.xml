@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<homePage>
+	<video>home/videos/video.flv</video>
+	<menuItems>
+		<menu name="topLeft">higglytown/games/higglyball.html</menu>
+		<menu name="mainFeature">/imaginationmovers/index.html</menu>
+		<menu name="topRight">/johnny/music/spritetag/index.html</menu>
+		<menu name="bottomLeft">/littleeinsteins/music/silly.html</menu>
+		<menu name="bottomCenter">/tiggerandpooh/stories/index.html</menu>
+		<menu name="bottomRight">/handymanny/activities/toyfactory/index.html</menu>
+	</menuItems>
+</homePage>
