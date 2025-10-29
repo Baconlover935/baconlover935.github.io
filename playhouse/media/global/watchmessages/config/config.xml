@@ -62,6 +62,11 @@
 		<background>true</background>
 	</item>
 
+	<item property="jojos_circus">
+		<text size="20"><![CDATA[Get up and go with JoJo's Circus everyday at 6:30am/5:30c inside Playhouse Disney!]]></text>
+		<background>true</background>
+	</item>
+
 	<item property="jungle_junction">
 		<text size="20"><![CDATA[Zip along with the Jungle Junction wheelers weekday mornings at 5/4c on Playhouse Disney!]]></text>
 		<background>true</background>
