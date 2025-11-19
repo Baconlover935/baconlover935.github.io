@@ -27,11 +27,11 @@
 
 	<files>
 		
-		<file src="http://www.disney.go.com/disneychannel/dc_layout.swf" priority="required" target="layout_mc"/>
-		<file src="http://www.disney.go.com/disneychannel/global/loader.swf" priority="required" target="loader_mc"/>
-		<file src="http://www.disney.go.com/disneychannel/global/fonts.swf?v=2" priority="required" target="fonts_mc"/>
-		<file src="http://www.disney.go.com/disneychannel/global/background.swf" priority="required" target="bgDark_mc"/>
-		<file src="http://www.disney.go.com/disneychannel/global/schedule.swf" priority="required" target="schedule_mc" feed="http://psc.disney.go.com/disneychannel/schedule/today_disneychannel.xml" header_style="scheduleHeader_style" body_style="schedule_style" link_style="link_style" synopsis_style="scheduleSynopsis_style" disableLinks="false" link="http://disney.go.com/disneychannel/ProgramGuide/zap/" link_copy="Complete Schedule"/>
+		<file src="https://baconlover935.github.io/disneychannel/dc_layout.swf" priority="required" target="layout_mc"/>
+		<file src="https://baconlover935.github.io/disneychannel/global/loader.swf" priority="required" target="loader_mc"/>
+		<file src="https://baconlover935.github.io/disneychannel/global/fonts.swf?v=2" priority="required" target="fonts_mc"/>
+		<file src="https://baconlover935.github.io/disneychannel/global/background.swf" priority="required" target="bgDark_mc"/>
+		<file src="https://baconlover935.github.io/disneychannel/global/schedule.swf" priority="required" target="schedule_mc" feed="https://baconlover935.github.io/disneychannel/schedule/today_disneychannel.xml" header_style="scheduleHeader_style" body_style="schedule_style" link_style="link_style" synopsis_style="scheduleSynopsis_style" disableLinks="false" link="http://disney.go.com/disneychannel/ProgramGuide/zap/" link_copy="Complete Schedule"/>
 		
 		<!-- START MAIN PROMO URL -->
 			<!--REPLACE ALL &'s with &amp;-->
