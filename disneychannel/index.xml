@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<site>
+	<!-- Style Definitions -->
+
+	<styles>
+		<style name="globalStyleFormat" textFont="Placard WEB Cn Bd Alt" embedFonts="true" textSize="9" textBold="false" textColor="#FFFFFF" textSelected="#FFFFFF" face="#CCFFFF" selection="#035BB2" selectionUnfocused="#035BB2"/>
+
+		<!-- Start Generic Link Styles -->
+		<style name="link_style" textSize="13" textSelected="#CCFF00" textLeftMargin="20" textLeading="0" />
+
+		<!-- Start Schedule Styles -->
+		<style name="schedule_style" textSize="12" textColor="#CCFF00" textLeftMargin="20" textLeading="2" textTimeColor="#FFFFFF" timeDivider=" { " timeAm="[" timePm="]" timeCentral="\" unavailable="Listings currently unavailable. %0DSee complete schedule below."/>
+		<style name="scheduleHeader_style" textSize="15" textSizeDate="13" textSizePlayhouse="13" textLeading="4" textLeftMargin="20" />
+		<style name="scheduleSynopsis_style" textFont="Verdana" embedFonts="false" textBold="true" textSize="9"	textLeftMargin="7" textRightMargin="3"  />
+
+		<!-- Start Poll Styles -->
+		<style name="pollHeader_style" textSize="13" textColor="#FFFFFF"/>
+		<style name="pollBody_style" textFont="Verdana" embedFonts="false" textBold="true" textLeading="4" textSize="10" textColor="#FFFFFF" background="#69BE57" highlight3D="#BDE4B4" highlight="#BDE4B4" shadow="425622" darkShadow="425622" radioDot="#06129D" textLeftMargin="5" textSelected="#00FF00" />
+	</styles>
+
+	<!--
+		Files to load
+		Load order is determined by
+		- priority
+		- order listed
+	-->
+
+	<files>
+		
+		<file src="http://www.disney.go.com/disneychannel/dc_layout.swf" priority="required" target="layout_mc"/>
+		<file src="http://www.disney.go.com/disneychannel/global/loader.swf" priority="required" target="loader_mc"/>
+		<file src="http://www.disney.go.com/disneychannel/global/fonts.swf?v=2" priority="required" target="fonts_mc"/>
+		<file src="http://www.disney.go.com/disneychannel/global/background.swf" priority="required" target="bgDark_mc"/>
+		<file src="http://www.disney.go.com/disneychannel/global/schedule.swf" priority="required" target="schedule_mc" feed="http://psc.disney.go.com/disneychannel/schedule/today_disneychannel.xml" header_style="scheduleHeader_style" body_style="schedule_style" link_style="link_style" synopsis_style="scheduleSynopsis_style" disableLinks="false" link="http://disney.go.com/disneychannel/ProgramGuide/zap/" link_copy="Complete Schedule"/>
+		
+		<!-- START MAIN PROMO URL -->
+			<!--REPLACE ALL &'s with &amp;-->
+			<file src="http://www.disney.go.com/disneychannel/promos.swf" priority="required" target="promos_mc"/>
+			
+					<file src="http://apsc.disney.go.com/disneychannel/promos_main/main_nye_dylancole.swf" priority="required" target="promos_mc.promo0" link="http://psc.disney.go.com/disneychannel/newyearseve/index.html" />
+				
+			
+					<file src="http://apsc.disney.go.com/disneychannel/promos_main/main_kp_rufussnowride.swf" priority="required" target="promos_mc.promo1" link="http://psc.disney.go.com/disneychannel/kimpossible/games/rufussnowride/index.html" />
+				
+			
+					<file src="http://apsc.disney.go.com/disneychannel/promos_main/main_phil_chaos.swf" priority="required" target="promos_mc.promo2" link="http://psc.disney.go.com/disneychannel/philofthefuture/games/cafeteria/index.html" />
+				
+			
+		<!-- END MAIN PROMO -->
+
+		
+		<!-- START SYNERGY PROMO URL -->
+		<file src="http://www.disney.go.com/disneychannel/global/synergyHolder.swf" priority="required" target="synergyHolder_mc" feed="http://psc.disney.go.com/disneychannel/global/synergy.xml"/>
+		<!-- END SYNERGY PROMO URL -->	
+		
+
+		
+		
+		
+		<!-- CHECK IT OUT -->
+			<file src="http://psc.disney.go.com/disneychannel/dc_checkitout.swf" priority="required" target="checkItOut_mc" feed="http://psc.disney.go.com/disneychannel/dc_checkitout.xml" />
+		<!-- END CHECK IT OUT -->
+		
+
+		
+
+
+		
+		<!-- ON AIR PROMO -->
+			<file src="http://www.disney.go.com/disneychannel/global/onAirHolder.swf" priority="3" target="onAirHolder_mc" feed="http://psc.disney.go.com/disneychannel/global/oap.xml"  />
+		<!-- END ON AIR PROMO -->
+		
+	</files>
+</site>
