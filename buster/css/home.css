@@ -2,7 +2,7 @@
 
 /* HOME PAGE */
 body.home {
-background-image:url(../images/home/background_pattern.gif);
+background-image:url(https://baconlover935.github.io/buster/images/home/background_pattern.gif);
 }
 
 
@@ -21,12 +21,12 @@ background:transparent;
 }
 
 div.bodypart {
-background-image:url(../images/home/spacer_lines.gif);
+background-image:url(https://baconlover935.github.io/buster/images/home/spacer_lines.gif);
 border-bottom: 3px solid #369;
 }
 
 div.backline {
-background-image:url(../images/home/spacer_top.gif);
+background-image:url(https://baconlover935.github.io/buster/images/home/spacer_top.gif);
 background-repeat:repeat-x;
 }
 
@@ -54,7 +54,7 @@ vertical-align:top;
 }
 
 div.blogblurb {
-background-image:url(../images/home/blog_spacer.gif);
+background-image:url(https://baconlover935.github.io/buster/images/home/blog_spacer.gif);
 background-repeat:repeat-y;
 padding:0px 4px 8px 12px;
 color:#fff;
