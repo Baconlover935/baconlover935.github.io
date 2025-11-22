@@ -1,0 +1,284 @@
+<title>Postcards from Buster | PBS Kids GO!</title>
+<link rel="stylesheet" type="text/css" href="css/base.css"/>
+<link rel="stylesheet" type="text/css" href="css/home.css"/>
+<style type="text/css">
+@import "/web/20160923101858cs_/http://pbskids.org/buster/css/newpaths.css";
+</style>
+<script type="text/javascript" src="js/nav.js" language="javascript1.1"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="/includes/javascript/bridge.urls.js"></script>
+<script type="text/javascript" src="/includes/javascript/bridge.js"></script></head>
+
+<body class="home" onload="preloadhome();">
+                
+  
+    <!-- Google Tag Manager --> 
+<noscript>
+  <iframe src="http://www.googletagmanager.com/ns.html?id=GTM-MR8JHB" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript> 
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});
+   var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='http://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); 
+})(window,document,'script','dataLayer','GTM-MR8JHB');
+</script> 
+<!-- End Google Tag Manager -->
+
+
+
+<script type="text/javascript">
+  (function() {
+    var getCookie = function(c_name) {
+      if (document.cookie.length > 0) {
+        c_start = document.cookie.indexOf(c_name + "=");
+        if (c_start != -1) {
+          c_start = c_start + c_name.length + 1;
+          c_end = document.cookie.indexOf(";", c_start);
+          if (c_end == -1)
+            c_end = document.cookie.length;
+          return unescape(document.cookie.substring(c_start, c_end));
+        }
+      }
+      return "";
+    };
+
+    //Determines if user is logged in
+    var pbskids_username = getCookie('pbskids.username');
+    //Determines if account is new
+    var returning = getCookie('pbskids.returning');
+
+    GA_customvar = {};
+
+    var ua_codes = 'UA-4005001-1,UA-3966576-1,UA-3999991-1,ET-3999991-2';
+    var ua_codes_list = ua_codes.split(',');
+
+    var login_info;
+    //Setup log in info custom variable string
+    if (pbskids_username) {
+      login_info = "l=1";
+      if (returning) {
+        login_info += "&r=1";
+      } else {
+        login_info += "&r=0";
+      }
+    } else {
+      login_info = "l=0&r=0";
+    }
+
+    for ( i = 0; i < ua_codes_list.length; i++) {
+      var cv_array = [["GO login tracking", login_info, 2]];
+      GA_customvar[ua_codes_list[i]] = cv_array;
+    }
+
+  })();
+</script>
+
+
+
+
+  <script type="text/javascript">
+var GA_env = { ua_list: 'UA-4005001-1,UA-3966576-1,UA-3999991-1,ET-3999991-2' };
+
+GA_env.vars = { localized: 0 };
+
+var GA_jshost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + GA_jshost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script src="/js/ga-current.js" type="text/javascript"></script>
+
+  <!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "3005420" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3005420&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
+
+
+
+
+
+
+
+
+
+
+
+       
+
+
+  <link rel="stylesheet" type="text/css" href="http://web.archive.org/web/20160923101858cs_/http://www-tc.pbskids.org/shell/styles/css/producer-headband.css"/>
+
+  <div id="headband-container" class="producer-headband  ">
+    <div class="headband-nav">
+      <div id="headband-user-block" class="logged-out">
+        <div class="header">
+          <a href="" class="avatar" rel="user" title="Visit Your Profile">
+            <h3>Visit Your Profile</h3>
+            <img alt="Your Avatar" src="/web/20160923101858im_/http://pbskids.org/buster/"/>
+          </a>
+          <h2 class="user-name">
+            
+            <a href="/web/20160923101858/http://pbskids.org/profile/" target="_self"><em>Not Logged In</em></a>
+            
+            <a class="log-out" data-action="pbskids-login-sign-out">logout</a>
+          </h2>
+        </div>
+
+        <a class="sign-in" data-action="pbskids-login-sign-in"><em>Sign In</em> To PBS KIDS</a>
+      </div>
+
+      <div id="parents-message-bar">
+        <div class="wrap">
+          <div id="parents-messages"></div>
+        </div>
+        <div class="parents-bar-tooltips"></div>
+        <button id="squished-headband-toggle"><span class="hidden">Toggle message bar</span></button>
+      </div>
+
+      <ul>
+          <li class="nav-item apps"><a href="http://web.archive.org/web/20160923101858/http://pbskids.org/apps/">Apps</a></li>
+          <li class="nav-item shop"><a href="http://web.archive.org/web/20160923101858/http://shop.pbskids.org/?utm_source=PBS_kids&amp;utm_medium=brandsite&amp;utm_content=ShopButton&amp;utm_campaign=homepage_091914">Shop</a></li>
+
+          <li class="nav-item station" style="display:none;">
+          </li>
+
+          <li class="nav-item parents"><a href="https://baconlover935.github.io/parents/">Parents</a></li>
+
+          <li class="nav-item tv-times"><a href="https://baconlover935.github.io/tv-times/">TV Times</a></li>
+          <li class="nav-item settings">
+            <button data-action="settings-trigger">Settings</button>
+          </li>
+      </ul>
+    </div>
+
+  </div> <!-- End Headband -->
+
+
+    <script type="text/javascript" src="/js/loader/lib/PBS.KIDS.require.js" data-main="https://baconlover935.github.io/js/loader/loaders/producers.require.config.js"></script>
+
+  
+
+
+
+<div class="page">
+<div class="main">
+<a name="content"></a>
+<div align="center">
+<div class="testit">
+<table border="0" width="740" cellpadding="0" cellspacing="0">
+<tr>
+<td rowspan="2" valign="top"><a href="https://baconlover935.github.io/pbskidsgo/"><img src="images/home/pbskids_boy.gif" alt="PBSkids GO!" width="109" height="63" border="0"/></a></td>
+<td colspan="3" valign="top"><img src="images/home/top.gif" alt="" width="648" height="46" border="0"/></td>
+</tr>
+
+<tr>
+<td rowspan="2" valign="top"><img src="images/home/frame01.gif" alt="" width="19" height="29" border="0"/></td>
+
+
+
+<td valign="top" align="left"><img src="images/home/postcards/it_venice_t.jpg" alt="" width="376" height="29" border="0"/></td>
+<td valign="top"><img src="images/home/busterlogo.gif" alt="" width="253" height="29" border="0"/></td>
+</tr>
+</table><div class="bodypart"><div class="backline"><table border="0" cellpadding="0" cellspacing="0" width="740" class="body">
+<tr>
+<td><img src="images/singpix.gif" width="109" height="1" alt=""/></td>
+<td valign="top"><img src="images/home/frame02.gif" alt="" width="19" height="57" border="0"/></td>
+<td valign="top"><img src="images/home/postcards/it_venice_l.jpg" alt="" width="27" height="57" border="0"/></td>
+<td valign="top" rowspan="2"><a href="blog/it_venice_bl.html"><img src="images/home/postcards/it_venice.jpg" alt="Hello from Venice, Italy" width="349" height="195" border="0"/></a><br/><img src="/web/20160923101858im_/http://pbskids.org/buster/images/home/postcard_frame_bottom.gif" alt="" width="349" height="28" border="0"/></td>
+<td valign="top"><img src="images/home/Busterlogo2.gif" alt="Postcards from Buster" width="253" height="57" border="0"/></td>
+</tr>
+
+<tr>
+<td colspan="3" rowspan="2" align="right" valign="top"><table cellpadding="0" cellspacing="0" border="0" width="139" align="right">
+
+<tr><td><img src="images/home/blog_top.gif" alt="This Week's Blog" width="139" height="68" border="0"/></td></tr>
+
+<tr><td class="blog"><div class="blogblurb">Italy was great! We visited the ancient city of  Venice....</div></td></tr>
+
+<tr><td valign="top"><a href="blog/it_venice_bl.html" onmouseover="rolihome('blogmore')" onmouseout="rolohome('blogmore')"><img src="images/home/blogmore_out.gif" alt="More" width="139" height="48" border="0" id="blogmore" name="blogmore"/></a></td></tr>
+</table>
+</td>
+
+
+
+
+<td valign="top" rowspan="1">
+
+
+<a href="recipes/in_chennai_rec.html"><img src="images/home/highlights/highlight_chivda.jpg" alt="Make Chivda" width="253" height="166" border="0"/></a>
+</td></tr>
+
+<tr>
+
+<td colspan="2" rowspan="2" valign="top"><div class="homenav"><a href="./blog/index.html" onmouseover="rolihome('myblog')" onmouseout="rolohome('myblog')"><img src="images/home/myblog_out.gif" alt="My Blog" width="90" height="100" border="0" name="myblog" id="myblog"/></a><a href="./games/index.html" onmouseover="rolihome('games')" onmouseout="rolohome('games')"><img src="/web/20160923101858im_/http://pbskids.org/buster/images/home/games_out.gif" alt="Games" width="90" height="100" border="0" name="games" id="games"/></a><a href="./songs/index.html" onmouseover="rolihome('songs')" onmouseout="rolohome('songs')"><img src="/web/20160923101858im_/http://pbskids.org/buster/images/home/songs_out.gif" alt="Songs" width="90" height="100" border="0" name="songs" id="songs"/></a><a href="./videos/index.html" onmouseover="rolihome('video')" onmouseout="rolohome('video')"><img src="/web/20160923101858im_/http://pbskids.org/buster/images/home/video_out.gif" alt="Video Clips" width="90" height="100" border="0" name="video" id="video"/></a><a href="./recipes/index.html" onmouseover="rolihome('recipes')" onmouseout="rolohome('recipes')"><img src="/web/20160923101858im_/http://pbskids.org/buster/images/home/recipes_out.gif" alt="Recipes" width="90" height="100" border="0" name="recipes" id="recipes"/></a><a href="./pfy/index.html" onmouseover="rolihome('postcards')" onmouseout="rolohome('postcards')"><img src="/web/20160923101858im_/http://pbskids.org/buster/images/home/postcards_out.gif" alt="Postcards From You" width="90" height="110" border="0" name="postcards" id="postcards"/></a></div></td></tr>
+
+<tr><td align="right" valign="top" colspan="3"></td></tr>
+</table></div></div></div><table width="750" cellpadding="0" cellspacing="0" border="0" class="parents">
+<tr><td colspan="3"><div class="whenon">Find out when Postcards From Buster is on <a href="https://baconlover935.github.io/tvschedules/localizer.html?dest=/buster/index.html&amp;nola=PBUS">in your town.</a>
+
+<!-- FIND ANOTHER STATION LINK -->
+</div></td>
+<td colspan="2" valign="top" align="right"><a href="./parentsteachers/index.html" onmouseover="rolihome('parents')" onmouseout="rolohome('parents')"><img src="images/home/parents_out.gif" alt="Parents and Teachers" width="140" height="28" border="0" id="parents" name="parents"/></a></td></tr>
+</table>
+</div>
+</div>
+
+<!--footer -->
+<!-- #bbinclude "footer.incl" -->
+<br/>
+<div class="centfoot"><div class="foot1 gfoot1"><img src="images/singpix.gif" height="16" width="16" alt=""/></div><div class="foot"><div class="navbar"><a href="./index.html">Home</a> |
+<a href="./blog/index.html">My Blog</a> |
+<a href="./games/index.html">Games</a> |
+<a href="./songs/index.html">Songs</a> |
+<a href="./videos/index.html">Video Clips</a> |
+<a href="./recipes/index.html">Recipes</a> |
+<a href="./pfy/index.html">Postcards From You</a>
+<br/>
+<a href="./help/search.html">Search</a> |
+<a href="./parentsteachers/index.html">Parents &amp; Teachers</a> |
+<a href="./parentsteachers/help.html">Help</a> | <a href="http://pbskids.org/privacy/">PBS Kids Privacy Policy</a>
+<br/><br/>
+<a href="http://pbskids.org/arthur/">Visit the Arthur Web Site</a>
+</div><div class="copyright"><br/>All animated characters and underlying materials (including artwork) &copy; Marc Brown.<br/>Buster and the other Marc Brown characters are trademarks of Marc Brown.<br/>
+<a href="./parentsteachers/copyright.html">&copy;2012 WGBH</a></div></div><div class="foot2 gfoot2"><img src="images/singpix.gif" height="16" width="16" alt=""/></div></div>
+<br/>
+<!-- end bbinclude -->
+
+
+<!--funders -->
+<!-- #bbinclude "funders.incl" -->
+<div class="centfund"><div class="fund1"></div>
+<div class="fund">
+
+
+
+<table width="628" id="fund" cellpadding="0" cellspacing="0" border="0">
+
+<tr>
+<td width="300" valign="middle"><a href="http://www.wgbh.org/" title="WGBH"><img src="images/nav/wgbh.gif" alt="WGBH" width="86" height="31" border="0" align="middle"/></a><a href="http://marcbrownstudios.com/" title="Marc Brown Studios"><img src="images/nav/markbrownstudios.gif" alt="Marc Brown Studios" width="120" height="31" border="0" align="middle"/></a></td>
+<td width="20" rowspan="2"><img src="images/singpix.gif" alt="" width="20" height="40"/></td>
+<td valign="middle" width="300"><a href="http://www.neh.gov/"><img src="images/nav/neh_funder.gif" alt="National Endowment for the Humanities" width="183" height="45"/></a></td>
+</tr>
+<tr>
+<td valign="top" align="left"><div class="funder">POSTCARDS FROM BUSTER is produced by WGBH Boston in association with Marc Brown Studios.</div></td>
+<td valign="top" align="left"><div class="funder">Funding is provided by The National Endowment for the Humanities and the Weezie Foundation. Any views, findings, conclusions, or recommendations expressed in this Web site do not necessarily represent those of the National Endowment for the Humanities.</div></td>
+</tr>
+
+
+</table>
+</div>
+<div class="fund2"></div>
+</div>
+<!-- end bbinclude -->
+<br/>
+</div>
+</body>
+</html>
