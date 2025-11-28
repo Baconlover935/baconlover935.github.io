@@ -1,0 +1,223 @@
+/******************* GENERAL TAGS *******************/
+
+html, body {
+  height:100%;
+}
+
+img {
+  border: 0;
+}
+
+a {
+  color: #000000;
+}
+
+/******************* CONTENT *******************/
+
+div#content {
+  position:relative;
+  width: 956px;
+  margin: 0 auto;
+  text-align:left;  
+}
+
+div#content_pos_swf {
+  display:inline;
+}
+
+div#content_wide_pos
+{
+  position: relative;
+  left: 5px;
+  height: 450px;
+  margin: 0px;
+  padding: 0px; 
+}
+
+div#content_wide_pos_spc
+{
+  position: relative;
+  left: 5px;
+  height: 470px;
+  margin: 0px;
+  padding: 0px; 
+}
+
+div#content_pos_nav
+{
+  vertical-align: top;
+  margin: 0px 0px 0px 175px;
+  left: 10px;
+}
+
+div#content_wide_nav_container_spc {
+  height:470px;
+}
+
+div#content_wide_nav_container {
+  height:450px;
+}
+
+div#bob_title {
+	position:absolute;
+	top: 200px;
+	left: 341px;
+	z-index: 2;
+}
+
+#frame_tarrow {
+	position:absolute;
+	top: 232px;
+	left: 685px;
+	z-index: 1;
+}
+
+#frame_barrow {
+	position:absolute;
+	top: 612px;
+	left: 685px;
+	z-index: 1;
+}
+
+div#bob_parents_title {
+	position:absolute;
+  top: 210px;	
+	left: 279px;
+	z-index: 2;
+}
+
+div#parents_content {
+	position:absolute;
+	top: 232px;
+	left: 185px;
+	z-index: 1;
+	width: 538px;
+	height: 394px;
+}
+
+#parents_frame {
+  left: 0px;
+  width: 495px;
+  height: 413px;
+  padding: 0;
+  margin: 0;
+  border: none;
+}   
+
+
+/******************* TOP NAV *******************/
+
+div#top_nav_pos {  
+  z-index:1;
+  height:200px;
+}
+
+div#top_nav_swf {
+  position:absolute;
+  top:100px;
+}
+
+/******************* SIDE NAV *******************/
+
+div#side_nav_pos {
+  float: left;
+  left: 5px;
+  width: 160px;
+  height: 450px;
+}
+
+div#side_nav_pos2 {
+  position: absolute;
+  top: 0px;
+  left: 5px;
+  width: 160px;
+  height: 640px;
+}
+
+div#side_nav_swf {
+  display:inline;
+}
+
+/******************* FEATURES *******************/
+
+div#features_pos {
+  position: relative;
+  left: 5px;   
+  height: 200px;
+}
+
+div#small_features_pos {
+  position: relative;
+  left: 175px;   
+  height: 162px;
+}
+
+/******************* BOTTOM *******************/
+
+div#bottom_nav_pos
+{
+  position: relative;
+  left: 5px;  
+  width: 728px;
+  height: 25px;
+}
+
+.abs {
+  position:absolute;
+}
+
+#parents_over {
+  position:absolute;
+  left:-15px;
+}
+
+.top {
+  font-family:Tahoma;
+  margin: 0px 10px 0px 10px;
+}
+
+.bot {
+  font-family:Tahoma;
+  margin: 0px 10px 0px 10px;
+  padding: 0px;
+  z-index: -2;
+}
+
+#up {
+  z-index: 2;
+}
+
+#dn {
+  z-index: 1;
+}
+
+div#can_we_fix_pos {
+  position:relative;
+  top:40px;
+  width:728px;
+  height:105px;
+}
+
+div#can_we_fix_swf {
+  display:inline;
+}
+
+
+
+/******************* AD TAGS *******************/
+
+DIV#top_ad {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 2; LEFT: 15px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: 5px; width:728px; height:90px;
+}
+DIV#right_ad {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 2; LEFT: 790px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: 2px; width:160; height:600;
+}
+DIV#bot_left_ad {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 2; LEFT: 5px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: 926px
+}
+DIV#bot_right_ad {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 2; LEFT: 750px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: relative; TOP: 0px
+}
+DIV#ad_text {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 160px; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
