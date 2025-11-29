@@ -1,0 +1,11 @@
+/******************* GENERAL TAGS *******************/
+
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0; 
+  background-color: #ffffff;
+  background-image: url(images/backgrounds/orange.jpg);
+  background-repeat: repeat-x; 
+  background-position: top center;      
+}
