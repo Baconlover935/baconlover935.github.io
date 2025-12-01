@@ -1,0 +1,994 @@
+@charset "UTF-8";
+
+body {
+	font-family: "Helvetica", "Arial", sans-serif;
+}
+
+/* Hit banner */
+
+#hit-banner {
+	width: 100%;
+	height: 58px;
+	min-width: 1000px;
+	display: inline-block;
+	background: url(https://baconlover935.github.io/miketheknight.com/Resources/images/sitewide/nav/header-bg-hit.jpg) 0 0 repeat;
+}
+
+	#portal-images {
+		width: 55%;
+		float: left;
+		text-align: right;
+	}
+
+	#portal-text {
+		float: left;
+		margin-left: 100px;
+	}
+
+	#portal-images li, #portal-text li, #portal-images li a, #portal-text li a {
+		display: inline-block;
+		zoom: 1;
+		*display: inline;
+	}
+
+	#portal-text li {
+		background: url(https://baconlover935.github.io/miketheknight.com/Resources/images/sitewide/nav/divider.png) no-repeat 0px;
+	}
+
+	#portal-text li:first-child {
+		background: none;
+	}
+
+	#portal-text li a {
+		color: #646464;
+		font-size: 0.75em;
+		font-weight: bold;
+		text-decoration: none;
+		margin: 22px 5px 22px 10px;
+	}
+/* Hit banner */
+
+/* Non-flash elements */
+
+#header {
+	position: relative;
+	width: 100%;
+	min-width: 1000px;
+	height: 146px;
+	top: 0px;
+	left: 0px;
+	z-index: 5000;
+	overflow: hidden;
+}
+
+	#header a {
+		display: none;
+	}
+
+#fakeBody {
+	position: relative;
+	margin-top: -150px;
+	width: 100%;
+	min-width: 1000px;
+	overflow: hidden;
+}
+	
+	#top-half {
+		width: 100%;
+		position: relative;
+		z-index: 100;
+		background-color: transparent;
+	}
+
+	div#top-half.home {
+		height: 605px;
+	}
+
+	div#top-half.games{
+		height: 805px;
+	}
+
+	div#top-half.videos {
+		height: 695px;	
+	}
+
+	div#top-half.activities {
+		height: 604px;
+	}
+
+	div#top-half.friends {
+		height: 675px;	
+	}
+
+	div#top-half.parents {
+		padding-bottom: 150px; /* make this match the amount that the #content div is pushed down by it's top property, plus a bit */
+	}
+
+		#top-half-background {
+			width:100%;
+			height: 100%;
+			z-index: 0;
+			position: absolute;
+			top: 0px;
+			left: 0px;
+			background-color: transparent;
+		}
+
+		div.parents #top-half-background {
+			background-color: #81BDFC;
+			background-repeat: repeat-x;
+			background-position-x: 0px;
+			background-position-y: 0px;
+			background-image: url('https://baconlover935.github.io/miketheknight.com/Resources/images/parents/background.jpg');
+		}
+
+			#non-flash-container {
+				height: 605px;
+			}
+
+		#top-half-foreground {
+			width: 1000px;
+			margin: auto;
+			position: relative;
+			z-index: 2000;
+		}
+
+		#content {
+			width: 1000px;
+			margin: auto;
+			position: relative;
+			z-index: 1000;
+		}
+
+		div.games #content {
+			position: relative;
+		}
+
+			div.games #content #game {
+				width: 775px;
+				height: 430px;
+				position: absolute;
+				top: 159px;
+				left: 115px;
+			}
+
+		div.videos #content {
+			position: absolute;
+			right: 90px;
+			top: 100px;
+			width: 800px;
+			height: 450px;
+		}
+
+			div.friends  #content #mtkv {
+				left: 397px;
+				top: 206px;
+				display: none;
+			}
+
+			div.friends  #infoBox {
+				position: absolute;
+				top: 135px;
+				left: 395px;
+				width: 580px;
+				height: 490px;
+				background-color: #F2B809;
+			}
+
+			div.friends  .side {
+				position: absolute;
+				top: 0px;
+				left: 0px;
+				width: 100%;
+				height: 100%;
+					
+			}
+
+			div.friends #characterScroller {
+				position: absolute;
+				bottom: 30px;
+				left: 70px;
+				width: 440px;
+				height: 86px;
+				border: 1px solid red;
+				overflow: hidden;
+			}
+
+			div.friends  #characterScrollable {
+				position: relative;
+				width: 3000px;
+			}
+
+			div.friends .characterButton {
+				display: block;
+				float: left;
+				width: 86px;
+				height: 86px;
+				margin-right: 32px;
+				background-color: #C89806;
+			}
+
+			div.friends  .arrow {
+				display: block;
+				position: absolute;
+				width: 40px;
+				height: 40px;
+				background-color: red;
+				bottom: 40px;
+			}
+
+			div.friends  #leftArrow {
+				left: 20px;
+			}
+
+			div.friends  #rightArrow {
+				right: 20px;
+			}
+
+		div.parents #content {
+			width: 1100px;
+			position: relative;
+			top: 150px; /* this matches #top-half's padding-bottom */
+			left: -50px;
+			clear: both;
+		}
+
+		div.parents #content-top {
+			background-image: url('https://baconlover935.github.io/miketheknight.com/Resources/images/parents/bgtop.png');
+			height:32px;
+			width: 100%;
+		}
+		
+		div.parents #content-middle {
+			position: relative;
+			background-image: url('https://baconlover935.github.io/miketheknight.com/Resources/images/parents/bgmiddle.png');
+			width: 1100px;
+		}
+			
+			div.parents #content-middle #content-titles {
+				width: 100%;
+				height: 72px;
+				margin-left: 5px;
+				padding-top: 10px;
+				padding-bottom: 35px;
+			}
+
+			div.parents #content-middle #leftCol {
+				width: 190px;
+				float: left;
+				margin-top: 2px;
+				margin-right: 30px;
+				margin-bottom: 50px;
+				padding-left: 80px;
+			}
+
+				div.parents #content-middle #leftCol a.parentNav {
+					display: block;
+				}
+				div.parents #content-middle #leftCol a.parentNav img {
+					padding-left: 3px;
+				}
+
+				div.parents #content-middle #leftCol a.parentNavChild {
+					display: none;
+				}
+
+				div.parents .audio {
+					margin-left: -30px;
+					margin-right: -10px;
+					margin-top: -10px;
+					float: left;
+				}
+
+				div.parents .scroll {
+					display: block;
+					float: left;
+				}
+
+			div.parents #content-middle .divider {
+				background-image: url('https://baconlover935.github.io/miketheknight.com/Resources/images/parents/divider.gif');
+				width: 62px;
+				height: 331px;
+				float: left;
+				margin-top: -10px;
+				margin-left: -20px;
+				margin-right: 32px;
+				margin-bottom: 50px;
+			}
+
+			div.parents #content-middle #rightCol {
+				position: relative;
+				width: 650px;
+				float: left;
+				margin-bottom: 50px;
+			}
+
+				div.parents #content-middle #rightCol .page-title{
+					position: absolute; 
+					margin-left: -50px; 
+					margin-top: -117px; 
+					padding: 10px 0 30px;
+				}
+
+				div.parents #content-middle #rightCol #title {
+					margin-left: 150px;
+					margin-bottom: 10px;
+				}
+
+				div.parents #content-middle #rightCol p {
+					font-size: 10pt;
+					line-height: 140%;
+				}
+
+					div.parents #content-middle #rightCol p a {
+						color: #296188;
+						text-decoration: none;
+					}
+
+					div.parents #content-middle #rightCol p a:hover {
+						color: #3C8CC1;
+						text-decoration: underline;
+					}
+
+			div.parents #content-middle h1 {
+				font-family: "Helvetica", "Arial", sans-serif;
+				font-size: 16pt;
+			}
+
+			div.parents #content-middle p {
+				font-family: "Helvetica", "Arial", sans-serif;
+				font-size: 11pt;
+				line-height: 130%;
+				padding-bottom: 8px;
+			}
+
+			div.parents #content-middle p.left, #content-middle h1.left {
+				width:51%;
+			}
+
+			div.parents #content-middle p.right, #content-middle h1.right {
+				width:51%;
+				float: right;
+			}
+
+			div.parents p.wallpaper {
+				float:left; 
+				width: 200px; 
+				margin-right: 25px;
+				text-align: center;
+			}
+
+				div.parents img.tiltImage {
+					position: relative;
+					margin-bottom: 10px;
+					box-shadow: 0px 5px 5px rgba(0,0,0,0.3); 
+					-moz-box-shadow: 0px 5px 5px rgba(0,0,0,0.3); 
+					-webkit-transform: rotate(2deg); 
+					-moz-transform: rotate(2deg);
+					top: 0px;
+					-webkit-transition-property: -webkit-transform, box-shadow, top;
+					-webkit-transition-duration: 0.2s, 0.2s, 0.2s;
+					-moz-transition-property: -moz-transform, -moz-box-shadow, top;
+					-moz-transition-duration: 0.2s, 0.2s, 0.2s;
+				}
+
+				div.parents img.tiltImage:hover {
+					box-shadow: 0px 9px 9px rgba(0,0,0,0.5); 
+					-moz-box-shadow: 0px 9px 9px rgba(0,0,0,0.5); 
+					-webkit-transform: rotate(-1deg); 
+					-moz-transform: rotate(-1deg);
+					top: -15px;
+				}
+				/*birthday*/
+				#birthdayWrapper {
+									position:absolute;
+									left:-18px;
+									display:block;
+								}
+
+								#bTitle {
+									font-family: "Helvetica", "Arial", sans-serif;
+									font-size: 18px;
+									color:#af1b24;
+									font-weight:bold;
+									line-height: 130%;
+									padding-bottom: 5px;
+									width:350px;
+									display:block;
+									margin-left:-18px;
+								}
+
+								#bBody {
+									font-family: "Helvetica", "Arial", sans-serif;
+									font-size: 12px;
+									line-height: 130%;
+									padding-bottom: 10px;
+									display:block;
+									margin-left:-4px;
+									width:590px;
+								}
+
+								.bOverlay {
+									position:fixed;
+									top:160px;
+									background-image:url('https://baconlover935.github.io/miketheknight.com/Resources/images/parents/MTK_BirthdaySection_PopUp.gif');
+									background-repeat:no-repeat;
+									width:395px;
+									height:505px;
+									visibility:hidden;
+									z-index:10000;
+								}
+
+								#bInviteIcons {
+									position:relative;
+									top:80px;
+									left:75px;
+								}
+
+								#bActivitiesIcons {
+									position:relative;
+									top:68px;
+									left:75px;
+								}
+
+								#bThankIcons {
+									position:relative;
+									top:68px;
+									left:70px;
+								}
+
+								.bOverlayTitle {
+									position:relative;
+									top:45px;
+									left:140px;
+									text-align:center;
+								}
+
+								#bClose {
+									position:relative;
+									top:70px;
+									left:30px;
+								}
+
+								ul li {list-style-type: disc;}
+
+								#content-middle #rightCol li a {
+									color: #296188;
+									text-decoration: none;
+								}
+								#content-middle #rightCol li a:hover {
+									color: #3C8CC1;
+									text-decoration: underline;
+								}
+								.birthdays #rightCol table{
+								width:auto;
+								margin-left:0px;
+								}
+								.birthdays #rightCol table tr:nth-child(even){
+								background-color:transparent;
+								}
+								.birthdays #rightCol table td{
+								padding:0px;
+								font-size:16px;
+								}
+								.birthdays #rightCol table tr {
+								height:0px;
+								}
+								.birthdays #rightCol table tr:first-child td{
+								padding-top:19px;
+								}
+								.birthdays #rightCol #bActivitiesIcons tr td:first-child + td
+								{
+								padding-left:39px;
+								}
+								/*books,dvd*/
+								td {
+									font-size:12px;
+									text-align:center;
+								}
+								#clearFix{
+									display:block;
+									clear:both;
+								}
+								#product {
+									font-family: "Helvetica", "Arial", sans-serif;
+									font-size: 12px;
+									line-height: 130%;
+									padding-bottom: 10px;
+									display:block;
+								}
+								/*newsletter*/
+								#rightCol {
+										margin-bottom: 50px;
+									}
+									#rightCol table {
+										width: 100%;
+										font-size: 10pt;
+										margin-left: -4px;
+									}
+									#rightCol table tr {
+										height: 24px;
+									}
+									#rightCol table tr:nth-child(even) {
+										background-color: rgba(0,0,0,0.05);
+									}
+									#rightCol table td {
+										padding: 4px;
+									}
+									#rightCol table td.q {
+										padding-right: 60px;
+										width: 250px;
+									}
+									#rightCol table td.a {
+										width: 250px;
+									}
+									#rightCol table td.a input[type="text"] {
+										width: 97%;
+									}
+									#rightCol table td .smaller {
+										font-size: 8pt;
+									}
+									.newsletter td
+									{
+									text-align:left;
+									}
+									/*broadcast*/
+									.playerwrap {
+										position:absolute;
+										top:68px;
+										left:30px;
+									}
+									#mtkv {
+										position:absolute;
+										z-index:999;
+										top:0px;
+									}
+									#player {
+										position:absolute;
+										/*top:52px;
+										left:8px;
+										width: 540px;
+										height: 304px;*/
+									}
+									#mtkReleases {
+										position:absolute;
+										top:400px;
+										left:-19px;
+										width:594px;
+										height:123px;
+										background:url(https://baconlover935.github.io/miketheknight.com/Resources/videoplayer/images/releasebox.png) 0 0 no-repeat;
+										padding:13px 0 0 31px;
+									}
+									.mtkReleaseItem {
+										display:none;
+										width:165px;
+										height:85px;
+										background-color:#000;
+										margin:0 4px 7px 4px;
+										border:2px solid #AF6B40;
+									}
+									.mtkReleaseItem:HOVER {
+										border:2px solid #FC0;
+									}
+									.mtkReleasePlay {
+										display:block;
+										width:36px;
+										height:36px;
+										background:url(https://baconlover935.github.io/miketheknight.com/Resources/Resources/videoplayer/images/playRelease.png) 0 0 no-repeat;
+									}
+									.mtkRelease {
+										position:relative;
+									}
+									.mtkRelease IMG {
+										position:absolute;
+										top:32px;
+										left:68px;
+										width:36px;
+										height:36px;
+									}
+									.mtkReleaseButton {
+										position:absolute;
+										left:617px;
+										display:block;
+										width:93px;
+										z-index:100;
+									}
+									.mtkReleaseButtonTV {
+										position:absolute;
+										display:block;
+										width:28px;
+										z-index:100;
+									}
+									#btnUp {
+										top:20px;
+										height:36px;
+										background-image:url(https://baconlover935.github.io/miketheknight.com/Resources/Resources/videoplayer/images/btnArrowUp.png);
+									}
+									#btnUp:Hover {
+										background-position:0 -63px;
+									}
+									#btnDown {
+										top:348px;
+										height:36px;
+										background-image:url(https://baconlover935.github.io/miketheknight.com/Resources/Resources/videoplayer/images/btnArrowDown.png);
+									}
+									#btnDown:Hover {
+										background-position:0 -64px;
+									}
+									#btnPrev {
+										top:443px;
+										left:-19px;
+										height:36px;
+									}
+									#btnNext {
+										top:443px;
+										left:545px;
+										height:36px;
+									}
+									#videotitle {
+										position:absolute;
+										top:14px;
+										left:13px;
+										z-index:100;
+									}
+									#btnBack {
+										width:56px;
+										height:73px;
+										background-image:url(https://baconlover935.github.io/miketheknight.com/Resources/videoplayer/images/btnBack.png);
+										background-repeat:no-repeat;
+										margin:0 0 0 15px;
+									}
+									#btnPlay {
+										width:67px;
+										height:73px;
+									}
+									#btnForward {
+										width:57px;
+										height:73px;
+										background-image:url(https://baconlover935.github.io/miketheknight.com/Resources/videoplayer/images/btnForward.png);
+										background-repeat:no-repeat;
+									}
+									#btnMute {
+										width:57px;
+										height:73px;
+										background-image:url(https://baconlover935.github.io/miketheknight.com/Resources/videoplayer/images/btnMute.png);
+										background-repeat:no-repeat;
+										margin:0 0 0 15px;
+									}
+									.btnPlay {
+										background-image:url(https://baconlover935.github.io/miketheknight.com/Resources/videoplayer/images/btnPlay.png);
+										background-repeat:no-repeat;
+									}
+									.btnPause {
+										background-image:url(https://baconlover935.github.io/miketheknight.com/Resources/videoplayer/images/btnPause.png);
+										background-repeat:no-repeat;
+									}
+									.videoNavWrapper {
+										background:url(https://baconlover935.github.io/miketheknight.com/Resources/videoplayer/images/navBackground.png) no-repeat scroll 0 0 transparent;
+										height: 73px;
+										left: 140px;
+										position: absolute;
+										top: 210px;
+										width: 278px;
+										z-index: 500;
+									}
+									.videoNav {
+										outline:none;
+										display:inline-block;
+									}
+									.videoNav:Hover {
+										background-position:0 -73px;
+									}
+									.playerControls {
+										display: block;
+										height: 320px;
+										left: 30px;
+										position: absolute;
+										top: 60px;
+										width: 540px;
+										z-index: 1000;
+									}
+									.tv-top {
+										display:table-cell;
+										width:559px;
+										height:54px;
+										background-image:url('https://baconlover935.github.io/miketheknight.com/Resources/videoplayer/images/tv-videoplayer-top.png');
+										background-repeat:no-repeat;
+										background-position:0 0;
+									}
+									.tv-left {
+										display:table-cell;
+										width:13px;
+										height:299px;
+										background-image:url('https://baconlover935.github.io/miketheknight.com/Resources/videoplayer/images/tv-videoplayer-left.png');
+										background-repeat:no-repeat;
+										background-position:0 0;
+									}
+									.tv-right {
+										display:block;
+										width:11px;
+										height:299px;
+										background-image:url('https://baconlover935.github.io/miketheknight.com/Resources/videoplayer/images/tv-videoplayer-right.png');
+										background-repeat:no-repeat;
+										background-position:0 0;
+										position: relative;
+										left: 535px;
+									}
+									.tv-bottom {
+										display:table-cell;
+										width:559px;
+										height:22px;
+										background-image:url('https://baconlover935.github.io/miketheknight.com/Resources/videoplayer/images/tv-videoplayer-bottom.png');
+										background-repeat:no-repeat;
+										background-position:0 0;
+									}
+									.tv-row {
+										display:table-row;
+									}
+									.tv-table {
+										display:table;
+									}
+									/* #content-middle {
+										height:670px;
+									} */
+									#broadcastWrapper {
+										position:relative;
+										top:20px;
+										height:565px;
+									}
+	#bottom-half {
+		width: 100%;
+		margin-top: -35px;
+		padding-top: 60px;
+		background-color: gray;
+		background-position: top center;
+		position: relative;
+		padding-bottom: 30px; /* give the footer a little more breathing room */
+		z-index: 50;
+		background-image: url('https://baconlover935.github.io/miketheknight.com/Resources/images/sitewide/rock.jpg');
+	}
+
+	#bottom-half.parents {
+		width: 100%;
+		z-index: 99;
+		margin-top: 0px;
+	}
+
+		#rock-gradient {
+			position: absolute;
+			top:0px;
+			left:0px;
+			height: 27px;
+			width: 100%;
+			background-image: url('https://baconlover935.github.io/miketheknight.com/Resources/images/sitewide/rock-gradient.png');
+		}
+		
+		#rightCol div#product {
+			width:100%;
+		}
+		
+		div.parents #rightCol div#product span p {
+		line-height:130%;
+		font-size:9pt;
+		}
+
+		#product a.products-btn{
+		text-decoration:none;
+		padding-right: 11px;
+		}
+
+		#product a.products-btn img{
+		text-decoration:none;
+		padding-top: 7px;
+		}
+
+		#footer {
+			position: relative;
+			width: 1000px;
+			margin: auto;
+			top: -28px;
+		}
+
+			.footer-bg {
+				z-index: 1000;
+			}
+
+			.footer-fg {
+				z-index: 2000;
+			}
+
+			.footer-tapestry {
+				position: absolute;
+				width: 1135px;
+				left: -68px;
+				height: 100%;
+				z-index: 1000;
+				overflow-y: hidden;
+				background: url('https://baconlover935.github.io/miketheknight.com/Resources/images/sitewide/tapestry.jpg');
+				background-repeat: no-repeat;
+			}
+
+			#bakdir {
+				position: absolute;
+				width: 500px;
+				height: 66px;
+				top: 5px;
+				left: 249px;
+				z-index: 3000;
+			}
+			
+			.zig-zag {
+				position: absolute;
+				top: 33px;
+				width: 203px;
+				height: 24px;
+				z-index: 3000;
+				background-image: url('https://baconlover935.github.io/miketheknight.com/Resources/images/sitewide/zig-zag.png');
+			}
+			.zig-zag-left {left: 42px;}
+			.zig-zag-right {right: 42px;}
+
+			#footer-content {
+				position: relative;
+				z-index: 2000;
+				top: 20px;
+			}
+
+			#secondary-navigation {
+				text-align: left;
+				padding: 3px;
+				padding-top: 60px;
+				padding-bottom: 12px;
+				margin-left: 25px;
+				text-align: center;
+			}
+
+				#secondary-navigation a {
+					color: white;
+					text-decoration: none;
+					margin-right: 21px;
+				}
+
+			#ad-text {
+				position:absolute;
+				top: 89px;
+				left: 884px;
+				text-align: right;
+				font-size: 7pt;
+				color: white;
+			}
+
+			#ad-space {
+				width: 975px;
+				margin: auto;
+			}
+
+				.ad {
+					float: left;
+					margin-left: 18px;
+					margin-bottom: 18px;
+					background-color: #D4A826;
+				}
+
+				.ad300x250 {
+					width: 300px;
+					height: 250px;
+				}
+				.ad300x125 {
+					width: 300px;
+					height: 125px;
+				}
+
+			#footer-follow {
+				clear: both;
+				text-align: center;
+				margin-top: 0px;
+				color: white;
+				font-weight: bold;
+				font-size: 11pt;
+			}
+
+				#footer-follow a:first-child {
+					margin-left: 4px;
+					text-decoration:none;
+				}
+
+				#footer-follow img {
+					vertical-align: middle;
+					margin: -3px 0px 0px;
+				}
+
+			#legal {
+				clear: both;
+				text-align: center;
+				font-size: 8pt;
+				color: white;
+				width: 80%;
+				margin: auto;
+				line-height: 120%;
+				margin-top: 7px;
+			}
+
+				#legal a {
+					color: white;
+					margin: 0px 5px 0px 4px;
+				}
+
+			#footer-logos {
+				clear: both;
+				text-align: center;
+				margin-top: 12px;
+				padding-left:10px;
+			}
+
+				#footer-logos img {
+					width: 60px;
+					height: 60px;
+					margin: 0px 9px 0px 0px;
+				}
+
+			#footer-extender {
+				clear: both;
+				height: 80px;
+				padding-top:2%;
+			}
+
+			
+			/*non-flash */
+			
+			#swf-cta {
+			display:none;
+			background-color: rgb(248, 241, 187);
+			border: none;
+			color: #000;
+			z-index: 7000;
+			text-align: center;
+			margin: -4px auto 0px auto;
+			position: relative;
+			top: 0px;
+			left:0px;
+			padding: 9px 0px;
+			}
+			#swf-warning-close {
+			position: absolute;
+			right: 0px;
+			top: 56px;
+			background: transparent url(https://baconlover935.github.io/miketheknight.com/Resources/images/sitewide/icon-remove.png) no-repeat;
+			height: 45px;
+			width: 45px;
+			display: block;
+			text-indent: -999em;
+			cursor: pointer;
+			margin-top:-30px;
+			}
+			#swf-cta h3 {
+			font-size: 18px;
+			font-style: italic;
+			line-height: 1.3em;
+			margin-bottom: 10px;
+			}
+			#swf-cta .button
+			{
+			color: #FFF;
+			text-decoration:none;
+			background: rgb(86, 86, 87);
+			padding: 4px 9px 5px 12px;
+			font-size: 12px;
+			letter-spacing: 1px;
+			font-weight: 400;
+			display: inline-block;
+			}
+			#swf-cta p
+			{
+			font: 13px/1.231 arial,helvetica,clean,sans-serif;
+			padding-bottom: 8px;
+			}
+
+
+			#non-flash-container
+			{
+			height:605px;
+			display:none;
+			}
+
+			}
