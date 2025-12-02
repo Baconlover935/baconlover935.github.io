@@ -1,0 +1,31 @@
+div#top_ad {
+  position:absolute;
+  top: 8px;
+  left: 5px;
+  width:770px;
+}
+
+#top_ad div {	position:absolute!important;}
+
+div#right_ad {
+  position:absolute;
+  top: -8px;
+  left: 820px;
+  width:160px;
+  z-index: 10;
+}
+
+
+div#flash_content {
+	position:absolute;
+	top:110px;
+	left:-10px;
+}
+
+div#content
+{
+  position:relative;
+  width: 956px;
+  margin: 0 auto;
+  text-align:left;  
+}
