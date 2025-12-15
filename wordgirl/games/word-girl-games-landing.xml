@@ -13,8 +13,8 @@
 	
 	<game 	position="1" 
 			id="misspower" 
-			imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/wordgirl_face_off.png"
-			soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/wordgirlfaceoff.mp3"
+			imageURL="/enablecdn/wordgirl/cdn_content/images/games/wordgirl_face_off.png"
+			soundURL="site_audio/games_landing/wordgirlfaceoff.mp3"
 			backgroundScale="0.98"
 			backgroundX="81"
 			backgroundY="54"
@@ -24,8 +24,8 @@
 			
 	<game 	position="2" 
 			id="drtwobrains" 
-			imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/dr_two_brains_lair.png"
-			soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/drtwobrainslair.mp3"
+			imageURL="/enablecdn/wordgirl/cdn_content/images/games/dr_two_brains_lair.png"
+			soundURL="site_audio/games_landing/drtwobrainslair.mp3"
 			backgroundScale="0.98"
 			backgroundX="78"
 			backgroundY="180"
@@ -35,8 +35,8 @@
 			
 	<game 	position="3" 
 			id="powerwords" 
-			imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/power_words.png"
-			soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/powerwords.mp3"
+			imageURL="/enablecdn/wordgirl/cdn_content/images/games/power_words.png"
+			soundURL="site_audio/games_landing/powerwords.mp3"
 			backgroundScale="0.63"
 			backgroundX="99"
 			backgroundY="54"
@@ -46,8 +46,8 @@
 			
 	<game	position="4" 
 			id="robotworkshop" 
-			imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/robot_workshop.png" 
-			soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/robotworkshop.mp3"
+			imageURL="/enablecdn/wordgirl/cdn_content/images/games/robot_workshop.png" 
+			soundURL="site_audio/games_landing/robotworkshop.mp3"
 			backgroundScale="0.63"
 			backgroundX="99"
 			backgroundY="108"
@@ -57,8 +57,8 @@
 			
 	<game 	position="5" 
 			id="chuckgame" 
-			imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/chucks_extreme_crusher.png" 
-			soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/chuckgame.mp3"
+			imageURL="/enablecdn/wordgirl/cdn_content/images/games/chucks_extreme_crusher.png" 
+			soundURL="site_audio/games_landing/chuckgame.mp3"
 			backgroundScale="1.01"
 			backgroundX="83"
 			backgroundY="49"
@@ -68,8 +68,8 @@
 			
 	<game 	position="6" 
 			id="buildalair" 
-			imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/build_a_lair.png"
-			soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/buildalair.mp3"
+			imageURL="/enablecdn/wordgirl/cdn_content/images/games/build_a_lair.png"
+			soundURL="site_audio/games_landing/buildalair.mp3"
 			backgroundScale="0.53"
 			backgroundX="106"
 			backgroundY="140"
@@ -79,8 +79,8 @@
 			
 	<game 	position="7" 
 			id="prettyprincess" 
-			imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/pretty_princess.png" 
-			soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/sparkletopia.mp3"
+			imageURL="/enablecdn/wordgirl/cdn_content/images/games/pretty_princess.png" 
+			soundURL="site_audio/games_landing/sparkletopia.mp3"
 			backgroundScale="0.85"
 			backgroundX="177"
 			backgroundY="145"
@@ -92,8 +92,8 @@
 	<game 	position="8" 
 			id="storybookadventures"
             link="http://pbskids.org/wordgirl/games/storybookadventure/"
-			imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/storybook_adventures.png" 
-			soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/story_title.mp3"
+			imageURL="/enablecdn/wordgirl/cdn_content/images/games/storybook_adventures.png" 
+			soundURL="site_audio/games_landing/story_title.mp3"
 			backgroundScale="0.63"
 			backgroundX="80"
 			backgroundY="67"
@@ -104,8 +104,8 @@
 	<game 	position="9" 
 			link="http://pbskids.org/go/studio/characters/" 
 			linkWindow="_self" 
-			imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/build_a_character.png"
-			soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/buildacharacter.mp3"
+			imageURL="/enablecdn/wordgirl/cdn_content/images/games/build_a_character.png"
+			soundURL="site_audio/games_landing/buildacharacter.mp3"
 			backgroundScale="0.63"
 			backgroundX="91"
 			backgroundY="116"
@@ -115,8 +115,8 @@
 	
 	<scroller>
 		<game 	id="favoriteword" 
-				imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/whats_your_favorite_word.png" 
-				soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/favoriteword.mp3"
+				imageURL="/enablecdn/wordgirl/cdn_content/images/games/whats_your_favorite_word.png" 
+				soundURL="site_audio/games_landing/favoriteword.mp3"
 				backgroundScale="0.63"
 				backgroundX="136"
 				backgroundY="58"
@@ -125,8 +125,8 @@
 				strokeColor="FB9F1A" />
 				
 		<game 	id="mazemania" 
-				imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/maze_mania.png"
-				soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/mazemania.mp3"
+				imageURL="/enablecdn/wordgirl/cdn_content/images/games/maze_mania.png"
+				soundURL="site_audio/games_landing/mazemania.mp3"
 				backgroundScale="0.63"
 				backgroundX="123"
 				backgroundY="46"
@@ -135,8 +135,8 @@
 				strokeColor="FB9F1A" />
 				
 		<game 	id="comicstripcapers"
-				imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/comic_strip_capers.png" 
-				soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/comicstripcapers.mp3"
+				imageURL="/enablecdn/wordgirl/cdn_content/images/games/comic_strip_capers.png" 
+				soundURL="site_audio/games_landing/comicstripcapers.mp3"
 				backgroundScale="0.63"
 				backgroundX="119"
 				backgroundY="35"
@@ -145,8 +145,8 @@
 				strokeColor="FB9F1A" />
 
 		<game 	id="freezeframe" 
-				imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/huggy_faces_freeze_frame.png" 
-				soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/freezeframe.mp3"
+				imageURL="/enablecdn/wordgirl/cdn_content/images/games/huggy_faces_freeze_frame.png" 
+				soundURL="site_audio/games_landing/freezeframe.mp3"
 				backgroundScale="1.00"
 				backgroundX="39"
 				backgroundY="58"
@@ -155,8 +155,8 @@
 				strokeColor="FB9F1A" />
 											
 		<game 	id="huggydance" 
-				imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/huggy_dance.png"
-				soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/huggydance.mp3"
+				imageURL="/enablecdn/wordgirl/cdn_content/images/games/huggy_dance.png"
+				soundURL="site_audio/games_landing/huggydance.mp3"
 				backgroundScale="0.84"
 				backgroundX="116"
 				backgroundY="54"
@@ -165,8 +165,8 @@
 				strokeColor="FB9F1A" />
 				
 		<game 	id="comicbook" 
-				imageURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/images/games/comic_book.png"
-				soundURL="https://baconlover935.github.io/enablecdn/wordgirl/cdn_content/site_audio/games_landing/comicbook.mp3"
+				imageURL="/enablecdn/wordgirl/cdn_content/images/games/comic_book.png"
+				soundURL="site_audio/games_landing/comicbook.mp3"
 				backgroundScale="1.00"
 				backgroundX="128"
 				backgroundY="44"
