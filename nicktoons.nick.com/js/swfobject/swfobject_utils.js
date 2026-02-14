@@ -172,3 +172,4 @@ function doRegisterSwf(id, src, div, version, height, width, flashvars, delayEmb
 function doLaunchSwf(swfId) {
 	if(swfId == null || swfObjHash == null || swfObjHash[swfId] == null) return;
 	swfObjHash[swfId].launchSwf();
+}
