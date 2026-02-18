@@ -1,0 +1,78 @@
+<configuration xmlns:esi="http://www.akamai.com">
+<fluxAccountDomain>community.nicktoons.com</fluxAccountDomain>
+<mshr>false</mshr>
+<formFactorID/>
+<player>
+<feed> http://www.nick.com/dynamo/video/data/mrssGen.jhtml?type={type}&hub=videos&loc=default&mode=clip&dartSite=nick.nol&mgid={uri}&demo=bob&block=false </feed>
+<config>
+<playerSettings>
+<clickableVideoEnabled>false</clickableVideoEnabled>
+<qos>
+<convivaEnabledContent>false</convivaEnabledContent>
+<convivaEnabledAd>false</convivaEnabledAd>
+<convivaPrecision>false</convivaPrecision>
+<AMAEnabledAds>false</AMAEnabledAds>
+<AMAEnabledContent>false</AMAEnabledContent>
+</qos>
+<defaultLanguage/>
+<hideScrubberThumbnail>false</hideScrubberThumbnail>
+<enableDynamicThumbnails>false</enableDynamicThumbnails>
+</playerSettings>
+<adSettings>
+<freeWheel enabled="true"/>
+<adServer>freewheel</adServer>
+<timeSinceLastAd>120000</timeSinceLastAd>
+<adExpression>
+<term type="op" name="gt">
+<term type="var" name="timeSinceLastAd"/>
+<term type="literal" value="0"/>
+</term>
+</adExpression>
+<freewheelSiteSectionPathParsing>false</freewheelSiteSectionPathParsing>
+<useActualDuration>false</useActualDuration>
+<amazonEnabled>false</amazonEnabled>
+</adSettings>
+<reportSettings>
+<demdex enabled="false">
+<videoEndCall enabled="false"/>
+</demdex>
+<playerInfo>
+<viralPlayerName>nicktoonsplayer</viralPlayerName>
+<partnerPlayerName>nicktoonsplayer</partnerPlayerName>
+<networkPlayerName>NicktoonsClip</networkPlayerName>
+</playerInfo>
+<videoReporter visitorNamespace="false" enabled="true">
+<mediaTracking heartbeatsDisabled="true" enabled="true"/>
+<omnitureTrackingServer/>
+<partnerAccount>viaviralkids</partnerAccount>
+<networkAccount>nickvia</networkAccount>
+<viralAccount>viaviralkids</viralAccount>
+<devAccount>nickvia</devAccount>
+<dataCenter>112</dataCenter>
+<charSet>ISO-8859-1</charSet>
+<customFields>
+<item name="prop18" value="clip"/>
+<item name="eVar35" value="clip"/>
+</customFields>
+</videoReporter>
+<comScore enabled="true">
+<adTracking enabled="true"/>
+<primaryId>6059063</primaryId>
+<locationId/>
+</comScore>
+<nielsenReporter enabled="true" dprEnabled="false">
+<applicationId/>
+<sfCode>us</sfCode>
+<clientId>us-300231</clientId>
+<videoCensusId>c02</videoCensusId>
+</nielsenReporter>
+</reportSettings>
+</config>
+</player>
+<relatedFeed> http://www.nick.com/dynamo/video/data/primeEndSlateFeed.jhtml?uri={uri} </relatedFeed>
+<brightcove_version/>
+<brightcove_mediagenRootURL/>
+<freewheelAppendSIDSuffix>false</freewheelAppendSIDSuffix>
+<freewheelSharedMGIDEnabled>false</freewheelSharedMGIDEnabled>
+<!-- publish_time:2016-03-23T04:07:38.417-04:00 -->
+</configuration>
