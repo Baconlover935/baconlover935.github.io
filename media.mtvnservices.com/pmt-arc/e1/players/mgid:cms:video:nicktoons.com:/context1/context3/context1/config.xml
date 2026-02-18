@@ -6,13 +6,13 @@
 <feed> http://www.nick.com/dynamo/video/data/mrssGen.jhtml?type={type}&hub=videos&loc=default&mode=clip&dartSite=nick.nol&mgid={uri}&demo=bob&block=false </feed>
 <config>
 <playerSettings>
-<clickableVideoEnabled>false</clickableVideoEnabled>
+<clickableVideoEnabled>true</clickableVideoEnabled>
 <qos>
-<convivaEnabledContent>false</convivaEnabledContent>
-<convivaEnabledAd>false</convivaEnabledAd>
-<convivaPrecision>false</convivaPrecision>
-<AMAEnabledAds>false</AMAEnabledAds>
-<AMAEnabledContent>false</AMAEnabledContent>
+<convivaEnabledContent>true</convivaEnabledContent>
+<convivaEnabledAd>true</convivaEnabledAd>
+<convivaPrecision>true</convivaPrecision>
+<AMAEnabledAds>true</AMAEnabledAds>
+<AMAEnabledContent>true</AMAEnabledContent>
 </qos>
 <defaultLanguage/>
 <hideScrubberThumbnail>false</hideScrubberThumbnail>
