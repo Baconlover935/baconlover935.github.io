@@ -41,7 +41,7 @@ NICK.prime.Player = function (_config) {
 			'onStateChange': this.playerEvent(),
 			'onUIStateChange': this.playerEvent()
 		},
-		'templateURL': '/media.mtvnservices.com/{uri}'
+		'templateURL': 'https://baconlover935.github.io/media.mtvnservices.com/{uri}'
 	};
 	
 	// Merge the two objects recursively without changing the defaults.
