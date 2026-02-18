@@ -1,6 +1,6 @@
 <configuration xmlns:esi="http://www.akamai.com">
 <fluxAccountDomain>community.nicktoons.com</fluxAccountDomain>
-<mshr>false</mshr>
+<mshr>true</mshr>
 <formFactorID/>
 <player>
 <feed> http://www.nick.com/dynamo/video/data/mrssGen.jhtml?type={type}&hub=videos&loc=default&mode=clip&dartSite=nick.nol&mgid={uri}&demo=bob&block=false </feed>
