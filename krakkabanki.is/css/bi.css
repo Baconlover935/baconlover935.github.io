@@ -1,0 +1,187 @@
+BODY,TD,.frettaFyrirsogn,.lisaMeginmal
+{   
+    COLOR: black;
+    FONT-FAMILY: Arial, Helvetica, sans-serif; 
+    FONT-SIZE: 12px;
+}
+
+p{ margin-top : 0px;  }
+
+/* Skilgreiningar á linkum */
+A, A:hover, A:visited { COLOR: #336633; }
+A:visited{  COLOR: #668066;}
+A:hover{  COLOR: #669966;}
+
+A.noscore
+{
+ text-decoration: none;
+ align: left;
+}
+
+A.tegund, A.tegund:hover, A.tegund:visited, A.tegund:link
+{
+    COLOR: #000000;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none
+}
+A.tegund:hover{  COLOR: #44542f;}
+
+A.audkenni,A.audkenni:hover,  A.audkenni:link,A.audkenni:visited{  COLOR: #000000;    TEXT-DECORATION: none;}
+A.audkenni:hover{    COLOR: #0000cc}
+
+A.dagatal,A.dagatal:link,A.dagatal:hover,
+{
+    COLOR: #000000;
+    TEXT-DECORATION: underline
+}
+A.dagatal:hover{   COLOR: #336633;}
+
+A.headlines, A.headlines:visited, A.headlines:hover{  COLOR: #000000;   FONT-SIZE: 11px;    TEXT-DECORATION: none;}
+A.headlines:hover{ TEXT-DECORATION: underline;}
+
+A.prent, A.prent:hover, A.prent:visited{font-size: 11px; font-family:  Helvetica, sans-serif; COLOR: #668066;}
+A.prent:hover{COLOR: #669966;}
+
+/*Notað í heimilisbankanum*/
+TABLE.alm
+{
+    BORDER-BOTTOM: 0px;
+    BORDER-COLLAPSE: collapse;
+    BORDER-LEFT: 0px;
+    BORDER-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    PADDING-BOTTOM: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 0px;
+    WIDTH: 550px
+}
+
+TH.small
+{
+    BACKGROUND-COLOR: #afc393;
+    COLOR: #000000;
+    FONT: 11px Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none;
+    VERTICAL-ALIGN: top
+}
+TH.haus1
+{
+    BACKGROUND: #afc393;
+    BORDER-BOTTOM: 0px;
+    BORDER-LEFT: 0px;
+    BORDER-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    COLOR: #000000;
+    FONT: bold 13px Arial, Helvetica, sans-serif;
+    PADDING-BOTTOM: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-RIGHT: 0px;
+    PADDING-TOP: 0px;  
+    FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+    VERTICAL-ALIGN: top
+}
+TD.hvitur {
+	BACKGROUND: #ffffff;
+	COLOR: #000000;
+	FONT-SIZE: 11px;
+	font-family : Arial, Helvetica, sans-serif;
+}
+TABLE.valmynd {
+	background : #DDE5D1;
+	border : 1pt ridge #DDE5D1;
+	font-SIZE : 11px;
+	font-family : Arial, Helvetica, sans-serif;
+	text-align : center;
+}
+.lina1, .lina2, .lina3, .lina4, .lina1b, .lina2b
+{
+    BACKGROUND-COLOR: #ffffff;
+    COLOR: #000000;
+	FONT-SIZE: 11px ;
+	font-family:  Arial, Helvetica, sans-serif;
+    VERTICAL-ALIGN: top
+}
+.lina2{   BACKGROUND-COLOR: #E7EFDE;}
+.lina3 {    BACKGROUND-COLOR: #dde5d1;}
+.lina4{	BACKGROUND-COLOR: #afc393;	font-size : 11px;}
+.lina1b{ font-size : 10pt;  background-color : transparent; }
+.lina2b{  BACKGROUND-COLOR: transparent;  font-size : 13px;}
+
+.graenn{    COLOR: #008000}
+.raudur{    COLOR: #ff0000}
+.size8pt, a.size8pt:hover, a.size8pt:visited{ FONT-SIZE: 10px; COLOR: 000000; TEXT-DECORATION: none;}
+
+.vbrHaus
+{ 
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    background-color :#7B9E5A;
+    COLOR:  #FFFFFF;
+    font-weight : bold;
+	FONT-size: 12px;
+}
+
+/* Lisu-linkar sem voru teknir yfir í þetta skjal til að létta síður */
+A.lisaMenuLevel1, A.lisaMenuLevel1:visited,  A.lisaMenuLevel1:hover, A.lisaMenuLevel1b, A.lisaMenuLevel1b:visited,  A.lisaMenuLevel1b:hover
+{
+	COLOR: #000000;
+    FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none;
+}
+A.lisaMenuLevel1b, A.lisaMenuLevel1b:visited,  A.lisaMenuLevel1b:hover{ COLOR: #FFFFFF; }
+.skil, A.skil, A.skil:hover, A.skil:visited.skil, A.skil, A.skil:hover, A.skil:visited{ FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif; COLOR: #FFFFFF; font-size: 11px;  TEXT-DECORATION: none;  background-color : #7B9E5A;  }
+
+
+A.lisaMenuLevel2, A.lisaMenuLevel2:hover, A.lisaMenuLevel2:visited
+{
+    COLOR: black;
+   FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 12px;
+    TEXT-DECORATION: none;
+}
+A.lisaMenuLevel2:hover{   COLOR: #336633;  }
+
+A.lisaMenuLevel3, A.lisaMenuLevel3:hover, A.lisaMenuLevel3:visited, A.lisaMenuLevel4, A.lisaMenuLevel4:hover, A.lisaMenuLevel4:visited
+{
+    COLOR: black;
+     FONT-FAMILY: Arial, Helvetica, sans-serif;
+    FONT-SIZE: 11px;
+    TEXT-DECORATION: none;
+}
+A.lisaMenuLevel3:hover, A.lisaMenuLevel4:hover{  COLOR: #336633;}
+
+a.clsMenu, a.clsMenu:visited  { text-decoration: none; }
+
+.lisaForsidufyrirsogn, 	.lisaFyrirsogn,  .lisaUndirfyrirsogn, .frettaFyrirsogn 
+{font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 12px;  color: #336633;}
+
+.lisaHeitiSidu  { font-weight: bold; font-size: 15px;  color : #004F00;  font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;  line-height : 12px;    }
+.lisaForsidufyrirsogn{font-size: 15px; }
+.lisaFyrirsogn{font-weight : bold; }
+.lisaSmattletur, small {font-size: 10px; font-family:  Helvetica, sans-serif;}
+.lisaMeginmal, .lisaSmattletur { color: Black;}
+.frettaFyrirsogn { font-weight: bold; }
+
+a.lisaDictionaryLink, a.lisaDictionaryLink:hover 
+{
+	 text-decoration: none; 
+	 color: #336633; 
+	 font-weight: normal; 
+}
+a.lisaDictionaryLink:hover{color: #669966; }
+
+.forsiduFrett{font-size: 12px; font-family: Arial, Helvetica, sans-serif;}
+.forsiduDags{font-size: 10px; font-family: Arial, Helvetica, sans-serif; color: #696969;}
+
+ul { list-style: outside url('/images/greenbullet.gif') }
+
+.kassarhaegri{ COLOR: #2F6726;   VERTICAL-ALIGN: top ; FONT-SIZE: 10px;    TEXT-DECORATION: none; BACKGROUND-COLOR:#EAECDF ; font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;}
+
+
+input.front, select.front, input.frontButton
+{    
+	font-size: smaller;	
+	color : #2F6726;	
+}
