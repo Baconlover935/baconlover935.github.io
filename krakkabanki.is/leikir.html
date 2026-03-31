@@ -1,0 +1,167 @@
+<title>Krakkabanki Æskulínunnar</title>
+</head>
+<body bgcolor="#000000">
+<map name="b-buttons">
+<area shape="poly" coords="90,50,98,56,104,58,118,58,132,56,140,50,136,44,126,40,116,38,108,38,96,42,92,50" href="#" onclick="javascript:window.open('navi/hjalp.html','Hjalp','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=463,height=340');" target="" alt="Hjálp">
+<area shape="poly" coords="154,50,164,56,180,58,194,56,204,48,196,42,188,38,172,38,160,42,154,50" href="#" onclick="javascript:window.open('utvarp/utvarp.swf','Utvarp','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=504,height=507');" target="" alt="Útvarp">
+<area shape="poly" coords="238,44,238,50,250,54,264,56,278,56,296,54,308,48,312,44,302,34,292,28,272,26,254,30,246,32,236,42" href="default.html" target="" alt="Æskulínan">
+<area shape="poly" coords="324,32,340,40,358,42,380,40,396,34,392,24,380,16,368,14,356,14,342,16,332,22,326,28" href="lato.html" target="" alt="Latibær">
+<area shape="poly" coords="408,44,414,52,424,54,438,56,454,56,470,54,480,50,484,44,478,34,464,28,456,26,440,24,430,28,416,36,408,44" href="leikir.html" target="" alt="Leikjaplánetan">
+<area shape="poly" coords="528,50,534,56,548,58,564,56,576,52,576,48,566,40,554,36,542,40,530,48" href="lato-index.html" target="" alt="Sólkerfið">
+</map>
+<map name="header">
+<area shape="rect" coords="30,1,156,27" href="lato-index.html" target="">
+<area shape="rect" coords="208,1,355,27" href="https://web.archive.org/web/20011217153900/http://www.bi.is/" target="_new">
+</map>
+<script language="JavaScript">
+
+
+
+var InternetExplorer = navigator.appName.indexOf("Microsoft") != -1;
+// Handle all the the FSCommand messages in a Flash movie
+function leikjo_DoFSCommand(command, args) {
+  var leikjoObj = InternetExplorer ? leikjo : document.leikjo;
+
+	if (command == "opna_leik") {
+		opna_leik(args);
+	}
+
+}
+// Hook for Internet Explorer
+if (navigator.appName && navigator.appName.indexOf("Microsoft") != -1 &&
+	  navigator.userAgent.indexOf("Windows") != -1 && navigator.userAgent.indexOf("Windows 3.1") == -1) {
+	document.write('<SCRIPT LANGUAGE=VBScript\> \n');
+	document.write('on error resume next \n');
+	document.write('Sub leikjo_FSCommand(ByVal command, ByVal args)\n');
+	document.write('  call leikjo_DoFSCommand(command, args)\n');
+	document.write('end sub\n');
+	document.write('</SCRIPT\> \n');
+}
+
+
+
+function opna_leik(l) {
+	if (l == 1) {
+			window.open('leikir/tetris.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=429,height=519');
+	} else if (l == 2) {
+			window.open('leikir/form.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=563,height=507');
+	} else if (l == 3) {
+			window.open('leikir/reiknileikur.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=596,height=504');
+	} else if (l == 4) {
+			window.open('leikir/ormur.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=418,height=464');
+	} else if (l == 5) {
+			window.open('leikir/minnisleikur.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=563,height=475');
+	} else if (l == 6) {
+			window.open('leikir/kapall.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=684,height=612');
+	} else if (l == 7) {
+			window.open('leikir/bolti.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=565,height=464');
+	} else if (l == 8) {
+			window.open('leikir/pacman.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=665,height=530');
+	}
+}
+</script>
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+ <tr>
+  <td valign="middle" align="middle">
+          <!-- Console Grid -->
+          <table border="0" cellpadding="0" cellspacing="0" valign="middle" align="center">
+           <!-- Header -->
+           <tr height="6">
+            <td><img src="img/spacer.gif" alt="" border="0" width="1" height="1"></td>
+            <td><img src="img/spacer.gif" alt="" border="0" width="1" height="1"></td>
+            <td><img src="img/header-lefttop.gif" alt="" border="0" width="23" height="6"></td>
+            <td><img src="img/header-topstretch.gif" width="393" height="6" alt="" border="0"></td>
+            <td><img src="img/header-righttop.gif" alt="" border="0" width="24" height="6"></td>
+            <td><img src="img/spacer.gif" alt="" border="0" width="1" height="1"></td>
+            <td><img src="img/spacer.gif" alt="" border="0" width="1" height="1"></td>
+           </tr>
+           <tr>
+            <td><img src="img/spacer.gif" alt="" border="0" width="1" height="1"></td>
+            <td><img src="img/spacer.gif" alt="" border="0" width="1" height="1"></td>
+            <td><img src="img/header-left.gif" alt="" border="0" width="23" height="33"></td>
+            <td><img src="img/header-dummy.gif" usemap="#header" alt="" border="0" width="367" height="29"></td>
+            <td><img src="img/header-right.gif" alt="" border="0" width="24" height="33"></td>
+            <td><img src="img/spacer.gif" alt="" border="0" width="1" height="1"></td>
+            <td><img src="img/spacer.gif" alt="" border="0" width="1" height="1"></td>
+           </tr>
+           <!-- /Header -->
+           <!-- Content Top -->
+           <tr>
+            <td><img src="img/left-topcorner.gif" alt="" border="0" width="15" height="16"></td>
+            <td width="140"><img src="img/topstretch.gif" alt="" border="0" width="140" height="16"></td>
+            <td><img src="img/header-leftbase.gif" alt="" border="0" width="23" height="16"></td>
+            <td width="140"><img src="img/topstretch.gif" alt="" border="0" width="393" height="16"></td>
+            <td><img src="img/header-rightbase.gif" alt="" border="0" width="24" height="16"></td>
+            <td width="140"><img src="img/topstretch.gif" alt="" border="0" width="140" height="16"></td>
+            <td><img src="img/right-topcorner.gif" alt="" border="0" width="15" height="16"></td>
+           </tr>
+           <!-- /Content Top -->
+           <!-- Content Middle -->
+           <tr height="360">
+            <td><img src="/web/20011217153900im_/http://krakkabanki.is/img/leftstretch.gif" alt="" border="0" width="15" height="360"></td>
+            <td colspan="5" valign="top">
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://web.archive.org/web/20011217153900oe_/http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" id="leikjo" width="720" height="360">
+ <param name="movie" value="navi/leikjo.swf"> <param name="quality" value="high"> <param name="bgcolor" value="#000000"> <embed src="navi/leikjo.swf" quality="high" bgcolor="#000000" width="720" height="360" swliveconnect="true" name="leikjo" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+</object>
+              <!-- iframe name="content" width="720" height="360" border="0" frameborder="0" scrolling="yes" src="navi/leikjo.swf" marginwidth="0" marginheight="0"></iframe -->
+
+            </td>
+            <td><img src="img/rightstretch.gif" alt="" border="0" width="15" height="360"></td>
+           </tr>
+           <!-- /Content Middle -->
+           <!-- Content Topbuttons -->
+           <tr>
+            <td><img src="img/left-middleend.gif" alt="" border="0" width="15" height="69"></td>
+            <td colspan="5"><!--webbot bot="ImageMap" startspan
+              polygon=" (238,44) (238,50) (250,54) (264,56) (278,56) (296,54) (308,48) (312,44) (302,34) (292,28) (272,26) (254,30) (246,32) (236,42) /default.asp"
+              polygon=" (324,32) (340,40) (358,42) (380,40) (396,34) (392,24) (380,16) (368,14) (356,14) (342,16) (332,22) (326,28) lato.html"
+              polygon=" (408,44) (414,52) (424,54) (438,56) (454,56) (470,54) (480,50) (484,44) (478,34) (464,28) (456,26) (440,24) (430,28) (416,36) (408,44) leikir.html"
+              polygon=" (528,50) (534,56) (548,58) (564,56) (576,52) (576,48) (566,40) (554,36) (542,40) (530,48) lato-index.html"
+              src="img/b-buttons.jpg" alt border="0" --><img src="img/b-buttons.jpg" alt border="0" ismap width="720" height="69" usemap="#b-buttons"><!--webbot
+              bot="ImageMap" i-checksum="55363" endspan --></td>
+            <td><img src="img/right-middleend.gif" alt="" border="0" width="15" height="69"></td>
+           </tr>
+           <!-- /Content Topbuttons -->
+           <!-- Characterbuttons -->
+           <tr>
+            <td><img src="img/left-bottomend.gif" alt="" border="0" width="15" height="65"></td>
+            
+          <td colspan="5" background="img/button-background.gif" align="middle"> 
+            <img src="img/buttons/leftend.gif" alt="" border="0" width="2" height="54"><a href="#" onclick="javascript:window.open('leikir/tetris.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=429,height=519');"><img src="img/buttons/y.gif" border="0" alt="Tetris" width="50" height="54"></a><a href="#" onclick="javascript:window.open('leikir/form.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=563,height=507');"><img src="img/buttons/c.gif" border="0" alt="Form" width="50" height="54"></a><a href="#" onclick="javascript:window.open('leikir/reiknileikur.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=596,height=504');"><img src="img/buttons/plus.gif" border="0" alt="Reiknileikur" width="50" height="54"></a><a href="#" onclick="javascript:window.open('leikir/ormur.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=418,height=464');"><img src="img/buttons/s.gif" border="0" alt="Ormur" width="50" height="54"></a><a href="#" onclick="javascript:window.open('leikir/minnisleikur.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=563,height=475');"><img src="img/buttons/qa.gif" border="0" alt="Minnisleikur" width="50" height="54"></a><a href="#" onclick="javascript:window.open('leikir/kapall.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=694,height=641');"><img src="img/buttons/kapall.gif" border="0" alt="Kapall" width="50" height="54"></a><a href="#" onclick="javascript:window.open('leikir/bolti.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=565,height=464');"><img src="img/buttons/ball.gif" border="0" alt="Bolti" width="50" height="54"></a><a href="#" onclick="javascript:window.open('leikir/pacman.html','Leikir','toolbar=no,menubar=no,resizable=no,scrollbars=no,status=no,location=no,width=665,height=530');"><img src="img/buttons/pac.gif" border="0" alt="PacMan" width="50" height="54"></a><img src="img/buttons/rightend.gif" alt="" border="0" width="2" height="54"> 
+          </td>
+            <td><img src="img/right-bottomend.gif" alt="" border="0" width="15" height="65"></td>
+           </tr>
+           <!-- /Characterbuttons -->
+          </table>
+
+      </td>
+     </tr>
+    </table>
+
+
+<!-- Virk vefmæling byrjar -->
+<script language="javascript"><!--
+  var javas=0;
+//--></script>
+<script language="javascript1.1"><!--
+  var javas=1;
+//--></script>
+<script language="javascript"><!--
+  eigandi = "1054"
+  sida = "fosida+leikir"
+  if(javas) {
+    run = "1"
+  } else {
+    document.write("<img width=1 height=1 src=https://web.archive.org/web/20011217153900/http://krakkabanki.teljari.is/teljari.php?eigandi="+eigandi+"&sida="+sida+"&java=10>");
+  }
+//--></script>
+<script language="javascript1.1" src="https://web.archive.org/web/20011217153900js_/http://krakkabanki.teljari.is/kodi.js"></script>
+<noscript>
+<img width="1" height="1" src="https://web.archive.org/web/20011217153900im_/http://krakkabanki.teljari.is/teljari.php?eigandi=1054&amp;sida=fosida+leikir" border="0">
+</noscript>
+<!-- Virk vefmæling endar  -->
+
+
+</body>
+</html>
