@@ -72,6 +72,12 @@
 		<background>true</background>
 	</item>
 
+	<item property="koala_brothers">
+		<text size="20"><![CDATA[Watch The Koala Brothers everyday at 10:30am/9:30c inside Playhouse Disney!]]></text>
+		<background>true</background>
+		<vanity size="16"/>
+	</item>
+	
 	<item property="letsplaymusic">
 		<text size="20"><![CDATA[Tune in to Playhouse Disney every morning at 6/5c!]]></text>
 		<background>true</background>
