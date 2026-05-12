@@ -1,0 +1,637 @@
+/* 
+========================================================================
+Filename:		styles.css
+
+Date Created:	2007-03-13
+Description:	Global CSS stylesheet
+Site:			Site Name
+========================================================================
+*/
+/*
+* { outline: 2px dotted red }
+* * { outline: 2px dotted green }
+* * * { outline: 2px dotted orange }
+* * * * { outline: 2px dotted blue }
+* * * * * { outline: 1px solid red }
+* * * * * * { outline: 1px solid green }
+* * * * * * * { outline: 1px solid orange }
+* * * * * * * * { outline: 1px solid blue }
+-------------- Global Styles -------------- */
+/* =General
+-----------------------------------------------------------------------------*/
+
+/* Remove padding and margin */
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-image:url("/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/bg.gif");
+	/*background-color:#66ccff;*/
+	background-color: #84B73E;
+	background-repeat:no-repeat;
+	background-position:top center;
+	font-family:Arial, Helvetica, serif;
+}
+#educators 
+{background-image:url("/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/bg_edu.gif");
+}
+#schedule
+{background-image:url("/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/bg_sch.gif");
+}
+#mickey
+{background-image:url("/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/bg_mickey.gif");
+}
+.increaseheight {
+	background-image:url("/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/bg_home.gif");
+	/*background-color:#66ccff;*/
+	background-color: #84B73E;
+	background-repeat:no-repeat;
+	background-position:top center;
+	font-family:Arial, Helvetica, serif;
+}
+img {
+	border: 0;
+}
+.float_left 
+{float:left;
+}
+.float_right 
+{float:right;
+}
+img.left_marg
+{margin-left:-31px;
+}
+.frame .bg_white,
+.frame .bg_purple,
+.frame .bg_green,
+.handymanny #flash_content
+{position:relative;
+}
+.frame .bg_white #col2 div.flashpluginmessage,
+.frame .bg_purple #col2 div.flashpluginmessage,
+.frame .bg_green #col2 div.flashpluginmessage,
+.handymanny #flash_content #rightcontent div.flashpluginmessage
+{position:absolute;
+    top:0;
+    left:0;
+}
+    
+/* =Typography
+-----------------------------------------------------------------------------*/
+h1 {font-size: 1.8em;	font-weight: normal;}
+h2 {font-size: 1.0em;	}
+h3 {font-size: 0.80em;	}
+h4 {font-size: 0.75em	}
+p {font-size: 0.75em; }
+/* =Links
+-----------------------------------------------------------------------------*/
+
+/* =Lists
+-----------------------------------------------------------------------------*/
+
+/* =Wrapper
+-----------------------------------------------------------------------------*/
+#wrapper 
+{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper.gif);
+    width:894px;
+    margin:auto;
+    min-height:974px;
+    background-repeat:no-repeat;
+}
+#educators #wrapper 
+{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_edu.gif);
+    min-height:1374px;
+}
+#schedule #wrapper 
+{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_sch.gif);
+    min-height:898px;
+}
+#mickey #wrapper 
+{
+	background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_mickey.gif);
+   min-height:898px;
+}
+.increaseheight #wrapper 
+{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_home.gif);
+    width:894px;
+    margin:auto;
+    min-height:1014px;
+    background-repeat:no-repeat;
+}
+
+/* =Header
+-----------------------------------------------------------------------------*/
+#header 
+{
+     width:894px;
+    /*background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/cloud.gif);*/
+    background-repeat:no-repeat;
+}
+#header #flashsearch 
+{margin-left:67px;
+    width:760px;
+    min-height:37px;
+}
+/* =Main Navigation
+-----------------------------------------------------------------------------*/
+#top_nav 
+{min-height:158px;
+}
+/* =Main Content Area
+-----------------------------------------------------------------------------*/
+#main_content 
+{min-height:448px;
+}
+.increaseheight #main_content
+{min-height:488px!important;
+   
+}
+#main_content .frame 
+{
+	background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/frame.gif);
+	background-repeat: no-repeat;
+    height:440px; 
+    padding-top:8px;
+    
+}
+#educators #main_content .frame 
+{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/frame_edu.gif);
+    height:1020px;
+}
+#schedule #main_content .frame 
+{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/frame_sch.gif);
+    height:365px;
+}
+#schedule #main_content .frame div#flash_content 
+{height:304px;
+}
+#schedule #main_content
+{min-height:320px;
+}
+#educators #main_content .frame div#flash_content 
+{height:960px;
+}
+#main_content .frame div#flash_content 
+{
+    /*margin-left: 34px;*/
+    margin-left: 67px;
+    padding-left: 0px;
+    width: 760px;   
+    height: 382px;
+    
+}
+#main_content .frame div img.spacerimage {
+	margin-left: 67px;
+}
+#main_content .frame .bg_white
+{background-color:#fff;
+}
+#main_content .frame .bg_purple
+{background-color:#670065;
+}
+#little_einsteins #main_content .frame .bg_white
+{padding-left:0!important;
+    margin-left:67px!important;
+}
+#little_einsteins #main_content .frame .bg_white #col1,
+#little_einsteins #main_content .frame .bg_white #col3
+{margin-left:3px;
+}
+#little_einsteins #main_content .frame .bg_white #col1,
+#little_einsteins #main_content .frame .bg_white #col2
+{margin-top:11px;
+}
+#little_einsteins #main_content .frame .bg_white #col3
+{margin-top:8px;
+}
+#main_content .frame #flash_content div.flashpluginmessage 
+{
+	margin-left: -67px;
+	margin-top: -8px;
+}
+/*
+#small_content #main_content .frame {
+	padding-top:42px;
+    padding-left:100px;
+    background-repeat:no-repeat;
+    height:398px;
+}
+*/
+#small_content #main_content .frame #flash_content {
+	width:560px;
+	height:287px;
+	/*margin-left:100px;
+	margin-top:42px;*/
+	padding-left:100px;
+	padding-top:42px;
+}
+body.bop #main_content .frame #flash_content 
+{
+	padding-left:130px !important;
+}
+body.bop #main_content .frame #flash_content 
+{
+	padding-top:48px !important;
+}
+body.shanna #main_content .frame #flash_content 
+{
+	padding-top:30px !important;
+	margin-left:65px !important;
+}
+body.bbh #main_content .frame #flash_content 
+{
+	padding-top:9px !important;
+	padding-left:130px !important;
+}
+#small_content #main_content .frame #flash_content div.flashpluginmessage 
+{
+	margin-left: -134px;
+	margin-top: -50px;
+}
+#small_content #main_content .frame .spacerimage {
+	margin-top:52px;
+}
+.higgly #main_content .frame #flash_content {
+    margin-left:65px;
+}
+#johnnysprites #main_content .frame #flash_content {
+	padding-left:60px;
+    width:700px!important;
+    padding-top:10px;
+    height:372px;
+}
+.bear #main_content .frame #flash_content {
+    width:600px!important;
+    padding-left:90px!important;
+}
+
+#main_content .frame #flash_content #col1,
+#main_content .frame #flash_content #col2,
+#main_content .frame #flash_content #col3,
+#small_content #main_content .frame #flash_content #col1,
+#small_content #main_content .frame #flash_content #col2
+{
+	float:left;
+}
+
+#flash_content #leftmenu {
+	float: left;
+	clear: right;
+	width: 145px;
+}
+#flash_content #rightcontent {
+	float: left;
+	clear: right;
+	width: 615px;
+}
+.handymanny .bg_white {	
+	/*padding-top:40px;*/
+    height: 342px!important;
+}
+.handymanny #flash_content #leftmenu {
+	float: left;
+	clear: right;
+	width: 162px;
+	border-top: solid 4px white;
+	border-bottom: solid 4px white;
+}
+.handymanny #flash_content #rightcontent {
+	float: left;
+	clear: right;
+	width: 485px;
+	border-right: solid 4px white;
+	border-top: solid 8px white;
+	border-bottom: solid 8px white;
+}
+.handymanny #flash_content #rightad {
+	float: left;
+	clear: right;
+	width: 109px;
+	border-top: solid 8px white;
+	border-bottom: solid 8px white;
+}
+.bedtime #flash_content #leftmenu {
+	background-color: #16498D;
+	width: 146px;
+	height: 236px;
+	padding: 73px 18px;
+}
+.bedtime #flash_content #rightcontent {
+	background-color: #16498D;
+	width: 560px;
+	height: 287px;
+	padding: 47px 18px 48px 0;
+}
+.bedtime #flash_content img.flash_alt {
+	position: relative;
+	top: -390px;
+	left: -67px;
+}
+.artplay #flash_content #leftmenu {
+	background-color: #3D9623;
+	width: 146px;
+	height: 236px;
+	padding: 73px 18px;
+}
+.artplay #flash_content #rightcontent {
+	background-color: #3D9623;
+	width: 560px;
+	height: 287px;
+	padding: 47px 18px 48px 0;
+}
+#flash_content #rightcontent div.twocolumn img {
+	margin-left: 67px;
+}
+#small_content #flash_content div.leftmenu div.twocolumn {
+	width: 145px !important;
+}
+#small_content #flash_content div.rightcontent div.twocolumn {
+	width: 615px !important;
+}
+#small_content #flash_content div.leftmenu div.twocolumn img {
+	margin-left: -31px;
+}
+#small_content #flash_content div.rightcontent div.twocolumn img {
+	margin-left: 170px;
+}
+#friendship #col1
+{margin-left:5px;
+    
+}
+#friendship #col1,
+#friendship #col2 
+{margin-top:50px;
+}
+#main_content div.backbutton {
+	width: 100%;
+	margin-left: 199px;
+}
+
+
+/* =Crumbtrail
+-----------------------------------------------------------------------------*/
+/* =Secondary Content
+-----------------------------------------------------------------------------*/
+#secondary_content 
+{
+    width:767px;
+    min-height:155px;
+    margin-left:67px;
+}
+#secondary_content #nav 
+{width:481px;
+    float:left;
+    
+    
+}
+#secondary_content #ad
+{width:279px;
+    float:left;
+     
+} 
+/* =Footer
+-----------------------------------------------------------------------------*/
+#footer 
+{clear:both;
+    background-color:#094B00;
+    width:720px;
+    margin-left:67px;
+    min-height:20px;
+    padding:10px 20px;
+}
+#footer p,
+#footer a,
+#footer li 
+{color:#fff;
+    
+   text-decoration:none;
+  
+}
+#footer p
+{font-size:0.6em;
+}
+#footer p.float_right
+{clear:right;
+}
+#footer ul
+{list-style-type:none;
+    clear:left;
+}
+#footer ul li 
+{float:left;
+    padding-right:5px;
+}
+#footer ul li a
+{padding-right:5px;
+}
+#footer ul.float_right
+{list-style-type:none;
+    clear:right;
+    margin-right:-10px;
+}
+#footer ul.float_right li 
+{float:left;
+    
+    padding-right:5px;
+}
+#footer ul.float_right li a
+{
+    padding-right:5px;
+}
+
+/* =Banner Content
+-----------------------------------------------------------------------------*/
+#banner_content 
+{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg.gif);
+    background-repeat:no-repeat;
+    width:760px;
+    min-height:130px;
+    margin-left:67px;
+    padding-top:6px;
+}
+#mickey #banner_content 
+{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg_mickey.gif);
+}
+#educators #banner_content 
+{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg_edu.gif);
+}
+.increaseheight #banner_content 
+{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg_home.gif);
+    background-repeat:no-repeat;
+    width:760px;
+    min-height:130px;
+    margin-left:67px;
+    padding-top:6px;
+}
+#banner_content #flash  
+{margin-left:11px;
+    width:728px;
+    height:90px;
+}
+#banner_content iframe  
+{margin-left:24px;
+}
+
+/* =Flash Plugin Message
+-----------------------------------------------------------------------------*/
+div.flashpluginmessage {
+	background-color: Transparent;
+	color: #FFF;
+}
+div.flashpluginmessage p {
+	padding: 2px 15px 0 15px;
+}
+div.flashpluginmessage p a {
+	background-color: Transparent;
+	color: #FFF;
+	font-weight: bold;
+}
+div.flashpluginmessage area {
+	display: block;
+}
+#banner_content div.flashpluginmessage img {
+	margin-left: 12px;
+}
+/* =Terms and Conditions Pop Up
+-----------------------------------------------------------------------------*/
+body#tnc 
+{background-color:#46A035;
+    background-image:none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:62.5%;
+    width:100%;
+    color:#ffffff;
+}
+#tnc #content 
+{width:443px;
+    margin:20px;
+}
+#tnc h1,
+#tnc p span,
+#tnc h2,
+#tnc h3,
+#tnc h4
+{color:#FFFF00;
+}
+#tnc h1
+{font-size:2.4em;
+    padding-bottom:5px!important;
+    font-weight:bold;
+}
+#tnc h2,
+#tnc h3,
+#tnc h4,
+#tnc p
+{font-size:1.1em;
+}
+#tnc hr 
+{   margin-top:12px;
+    margin-bottom:12px;
+    border:none;
+    border-bottom:1px solid white;
+}
+#tnc a
+{color:#ffffff;
+  
+}
+#tnc .neg_margin 
+{margin-top:-20px;
+}
+#tnc p.float_right 
+{font-size:1em;
+}
+#tnc h2
+{padding-bottom:5px;
+}
+#tnc ul 
+{list-style-type:none;
+}
+#tnc ul li 
+{padding-bottom:20px;
+}
+#tnc ul li ul,
+#tnc ul li ul li ul
+{margin-top:20px;
+}
+#tnc ul li ul li ul li
+{list-style-type:disc;
+    margin-left:27px;
+    padding-bottom:5px;
+}
+/*facebook bar*/
+#facebook_bar
+{
+	background: url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/facebook.png) left top no-repeat;
+	width:832px;
+	height:116px;
+	margin-left:36px;
+	clear:both;
+	position: relative;
+}
+#facebook_bar .like_btn
+{
+	width:50px;
+	position: absolute;
+}
+#facebook_bar .like_btn.left
+{
+	top:78px;
+	left:185px;
+}
+#facebook_bar .like_btn.right
+{
+	top:78px;
+	right:55px;
+} 
+#facebook_bar #facebook_ticker
+{
+	width:375px;
+ 	position: absolute;
+	left:265px;
+	top:10px;
+ 	overflow: hidden;
+}
+#facebook_bar #facebook_ticker li.msg
+{
+	width:375px;
+	height:86px;
+}
+#facebook_bar #facebook_ticker h4
+{
+	width:375px;
+	font-size:0.70em;
+	color:#052E6E;
+	height:72px;
+}
+#facebook_bar #facebook_ticker h4 a
+{
+  color:#052E6E;
+}
+#facebook_bar #facebook_ticker h4 span
+{
+ color:#CB354E;	
+}
+#facebook_bar #facebook_ticker .date
+{
+	color:#383836;
+	font-size:0.70em;
+}
+#facebook_bar .facebook_link
+{
+  position: absolute;
+}
+#facebook_bar .facebook_link.left
+{
+  width:172px;	
+  height:92px;
+  top:8px;
+  left:8px;
+}
+#facebook_bar .facebook_link.right
+{
+  width:133px;	
+  height:43px;
+  top:8px;
+  right:29px;	
+}
