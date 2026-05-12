@@ -1,0 +1,149 @@
+/* 
+========================================================================
+Filename:		ie.css
+Date Created:	2007-03-13
+Description:	Internet Explorer CSS stylesheet
+Site:			Site Name
+========================================================================
+*/
+/*
+* { outline: 2px dotted red }
+* * { outline: 2px dotted green }
+* * * { outline: 2px dotted orange }
+* * * * { outline: 2px dotted blue }
+* * * * * { outline: 1px solid red }
+* * * * * * { outline: 1px solid green }
+* * * * * * * { outline: 1px solid orange }
+* * * * * * * * { outline: 1px solid blue }
+-------------- Global Styles -------------- */
+/* =General
+-----------------------------------------------------------------------------*/
+img {
+	display: block;
+}
+img.left_marg
+{
+	margin-left:-31px;
+	position: relative;
+}
+/* =Typography
+-----------------------------------------------------------------------------*/
+/* =Links
+-----------------------------------------------------------------------------*/
+/* =Lists
+-----------------------------------------------------------------------------*/
+/* =Wrapper
+-----------------------------------------------------------------------------*/
+#schedule #wrapper 
+{
+    height:898px;
+}
+#wrapper
+{height:974px;
+}
+/* =Header
+-----------------------------------------------------------------------------*/
+#header 
+{height:37px;
+  
+}
+#header #flashsearch 
+{height:37px;
+   
+}
+/* =Main Navigation
+-----------------------------------------------------------------------------*/
+#top_nav 
+{height:158px;
+}
+/* =Main Content Area
+-----------------------------------------------------------------------------*/
+#main_content 
+{height:448px;
+}
+.increaseheight #main_content
+{height:488px!important;
+}
+div.flashpluginmessage img {
+	position: relative;
+}
+#little_einsteins #main_content .frame .bg_white #col3 
+{margin-left:2px;
+}
+#small_content #main_content .frame .spacerimage
+{margin-top:52px;
+}
+.bedtime #flash_content img.flash_alt {
+	position: relative;
+	top: 0px;
+	left: 0px;
+} 
+.bedtime #flash_content #no-script { 
+	position: static;
+}
+.bedtime #flash_content #no-script img.flash_alt {
+	margin-top: -390px;
+	margin-left: -67px;
+}
+*:first-child+html .bedtime #flash_content #no-script { /* IE 7 */
+	position: static;
+}
+*:first-child+html .bedtime #flash_content #no-script img.flash_alt { /* IE 7 */
+	margin-top: -390px;
+	margin-left: -67px;
+}
+#small_content #flash_content div.leftmenu div.twocolumn, 
+#small_content #flash_content div.rightcontent div.twocolumn {
+	position: static;
+}
+#small_content #flash_content div.leftmenu div.twocolumn img {
+	position: relative;
+}
+#small_content #flash_content div.rightcontent div.twocolumn img {
+	position: relative;
+	left: 11px;
+	top: -398px;
+	margin-bottom: -400px;
+}
+*:first-child+html #small_content #flash_content div.rightcontent div.twocolumn img { /* IE 7 */
+	position: relative;
+	left: 0px;
+	margin-top: 398px;
+	
+}
+
+#schedule #main_content
+{height:320px;
+}
+*:first-child+html #schedule #main_content
+{height:373px;
+}
+*:first-child+html #educators #main_content
+{height:auto;
+}
+/* =Crumbtrail
+-----------------------------------------------------------------------------*/
+/* =Secondary Content
+-----------------------------------------------------------------------------*/
+#secondary_content
+{height:155px;
+}
+/* =Footer
+-------*/
+#footer 
+{height:20px;
+   padding-top:7px;
+   padding-bottom:7px;
+   clear:both;
+}
+*:first-child+html #footer
+{height:30px;
+}
+/* =Banner Content
+-----------------------------------------------------------------------------*/
+#banner_content
+{height:130px;
+}
+#banner_content .flash
+{height:90px;
+}
