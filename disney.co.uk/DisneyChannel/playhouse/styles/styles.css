@@ -26,7 +26,7 @@ Site:			Site Name
 	padding: 0;
 }
 body {
-	background-image:url("/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/bg.gif");
+	background-image:url("https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/bg.gif");
 	/*background-color:#66ccff;*/
 	background-color: #84B73E;
 	background-repeat:no-repeat;
@@ -34,16 +34,16 @@ body {
 	font-family:Arial, Helvetica, serif;
 }
 #educators 
-{background-image:url("/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/bg_edu.gif");
+{background-image:url("https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/bg_edu.gif");
 }
 #schedule
-{background-image:url("/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/bg_sch.gif");
+{background-image:url("https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/bg_sch.gif");
 }
 #mickey
-{background-image:url("/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/bg_mickey.gif");
+{background-image:url("https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/bg_mickey.gif");
 }
 .increaseheight {
-	background-image:url("/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/bg_home.gif");
+	background-image:url("https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/bg_home.gif");
 	/*background-color:#66ccff;*/
 	background-color: #84B73E;
 	background-repeat:no-repeat;
@@ -93,27 +93,27 @@ p {font-size: 0.75em; }
 /* =Wrapper
 -----------------------------------------------------------------------------*/
 #wrapper 
-{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper.gif);
+{background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper.gif);
     width:894px;
     margin:auto;
     min-height:974px;
     background-repeat:no-repeat;
 }
 #educators #wrapper 
-{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_edu.gif);
+{background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_edu.gif);
     min-height:1374px;
 }
 #schedule #wrapper 
-{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_sch.gif);
+{background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_sch.gif);
     min-height:898px;
 }
 #mickey #wrapper 
 {
-	background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_mickey.gif);
+	background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_mickey.gif);
    min-height:898px;
 }
 .increaseheight #wrapper 
-{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_home.gif);
+{background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/wrapper_home.gif);
     width:894px;
     margin:auto;
     min-height:1014px;
@@ -125,7 +125,7 @@ p {font-size: 0.75em; }
 #header 
 {
      width:894px;
-    /*background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/cloud.gif);*/
+    /*background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/cloud.gif);*/
     background-repeat:no-repeat;
 }
 #header #flashsearch 
@@ -149,18 +149,18 @@ p {font-size: 0.75em; }
 }
 #main_content .frame 
 {
-	background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/frame.gif);
+	background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/frame.gif);
 	background-repeat: no-repeat;
     height:440px; 
     padding-top:8px;
     
 }
 #educators #main_content .frame 
-{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/frame_edu.gif);
+{background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/frame_edu.gif);
     height:1020px;
 }
 #schedule #main_content .frame 
-{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/frame_sch.gif);
+{background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/frame_sch.gif);
     height:365px;
 }
 #schedule #main_content .frame div#flash_content 
@@ -443,7 +443,7 @@ body.bbh #main_content .frame #flash_content
 /* =Banner Content
 -----------------------------------------------------------------------------*/
 #banner_content 
-{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg.gif);
+{background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg.gif);
     background-repeat:no-repeat;
     width:760px;
     min-height:130px;
@@ -451,13 +451,13 @@ body.bbh #main_content .frame #flash_content
     padding-top:6px;
 }
 #mickey #banner_content 
-{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg_mickey.gif);
+{background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg_mickey.gif);
 }
 #educators #banner_content 
-{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg_edu.gif);
+{background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg_edu.gif);
 }
 .increaseheight #banner_content 
-{background-image:url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg_home.gif);
+{background-image:url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/stripad_bg_home.gif);
     background-repeat:no-repeat;
     width:760px;
     min-height:130px;
@@ -562,7 +562,7 @@ body#tnc
 /*facebook bar*/
 #facebook_bar
 {
-	background: url(/web/20110415143015im_/http://www.disney.co.uk/DisneyChannel/playhouse/images/generic/facebook.png) left top no-repeat;
+	background: url(https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/images/generic/facebook.png) left top no-repeat;
 	width:832px;
 	height:116px;
 	margin-left:36px;
