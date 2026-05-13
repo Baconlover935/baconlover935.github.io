@@ -1,0 +1,18 @@
+<links>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<link id="1">
+<title>Disney Channel</title>
+<image>dsny_channel.png</image>
+<url>http://www.disney.co.uk/DisneyChannel/</url>
+</link>
+<link id="2">
+<title>Disney Cinemagic</title>
+<image>dsny_cinemagic1.png</image>
+<url>http://www.disney.co.uk/DisneyChannel/cinemagic/</url>
+</link>
+<link id="3">
+<title>Get Playhouse Disney</title>
+<image>dsny_subscribe.png</image>
+<url>http://www.disney.co.uk/DisneyChannel/playhouse/subscribe/</url>
+</link>
+</links>
