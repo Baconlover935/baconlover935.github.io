@@ -1,0 +1,83 @@
+<shows>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<!-- show>
+		<title>Playhouse Disney^Homepage</title>
+		<image>flitter.png</image>
+		<url></url>
+	</show -->
+<show>
+<title>Mickey Mouse^Clubhouse</title>
+<image>mickeymouse.png</image>
+<url>mickeymouseclubhouse/index.html</url>
+</show>
+<show>
+<title>My Friends^Tigger & Pooh</title>
+<image>myfriends.png</image>
+<url>tiggerandpooh/index.html</url>
+</show>
+<show>
+<title>Little^Einsteins</title>
+<image>littleeinsteins.png</image>
+<url>littleeinsteins/index.html</url>
+</show>
+<show>
+<title>Bunnytown</title>
+<image>bunnytown.png</image>
+<url>bunnytown/</url>
+</show>
+<show>
+<title>Johnny & the Sprites</title>
+<image>johnny.png</image>
+<url>johnnyandthesprites/index.html</url>
+</show>
+<show>
+<title>Handy Manny</title>
+<image>handymanny.png</image>
+<url>handymanny/index.html</url>
+</show>
+<show>
+<title>Ooh & Aah</title>
+<image>oohandaah.png</image>
+<url>oohaahandyou/index.html</url>
+</show>
+<show>
+<title>Higglytown^Heroes</title>
+<image>higgly.png</image>
+<url>friends/higgly/index.html</url>
+</show>
+<show>
+<title>JoJo's Circus</title>
+<image>jojos.png</image>
+<url>friends/jojo/index.html</url>
+</show>
+<show>
+<title>Play With Me^Sesame</title>
+<image>playwithmesesame.png</image>
+<url>friends/sesame/index.html</url>
+</show>
+<show>
+<title>Bear in the^Big Blue House</title>
+<image>bear.png</image>
+<url>friends/bear/index.html</url>
+</show>
+<show>
+<title>Rolie Polie^Olie</title>
+<image>roliepolieolie.png</image>
+<url>friends/roliepolieolie/home_page.html</url>
+</show>
+<show>
+<title>Stanley</title>
+<image>stanley.png</image>
+<url>friends/stanley/index.html</url>
+</show>
+<show>
+<title>PB & J Otter</title>
+<image>pbandj.png</image>
+<url>friends/pbandj/index.html</url>
+</show>
+<show>
+<title>Go, Baby!</title>
+<image>gobaby.png</image>
+<url>clickandlearn/gobaby/index.html</url>
+</show>
+</shows>
