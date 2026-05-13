@@ -2,38 +2,38 @@
 <script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
 <category>
 <name>Home</name>
-<button>/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/home.swf</button>
-<url>/disney.co.uk/DisneyChannel/playhouse/index.htm</url>
+<button>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/home.swf</button>
+<url>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/index.htm</url>
 <cleardata>current_scene</cleardata>
 </category>
 <category>
 <name>What's On</name>
-<button>/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/whatson.swf</button>
-<url>/disney.co.uk/DisneyChannel/playhouse/schedule/index.html</url>
+<button>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/whatson.swf</button>
+<url>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/schedule/index.html</url>
 </category>
 <category>
 <name>Games</name>
-<button>/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/games.swf</button>
-<url>/disney.co.uk/DisneyChannel/playhouse/index_games.htm</url>
+<button>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/games.swf</button>
+<url>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/index_games.htm</url>
 </category>
 <category>
 <name>Activities</name>
-<button>/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/activities.swf</button>
-<url>/disney.co.uk/DisneyChannel/playhouse/index_activities.htm</url>
+<button>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/activities.swf</button>
+<url>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/index_activities.htm</url>
 </category>
 <category>
 <name>Stories, Music & Video</name>
-<button>/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/storiesmusicvideo.swf</button>
-<url>/disney.co.uk/DisneyChannel/playhouse/index_stories.htm</url>
+<button>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/storiesmusicvideo.swf</button>
+<url>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/index_stories.htm</url>
 </category>
 <category>
 <name>Grown Ups</name>
-<button>/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/grownups.swf</button>
-<url>/disney.co.uk/DisneyChannel/playhouse/grownups/index.html</url>
+<button>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/grownups.swf</button>
+<url>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/grownups/index.html</url>
 </category>
 <category>
 <name>Email Us</name>
-<button>/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/emailus.swf</button>
-<url>/disney.co.uk/DisneyChannel/playhouse/email.html</url>
+<button>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/flash/navigation/assets/categories/emailus.swf</button>
+<url>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/email.html</url>
 </category>
 </categories>
