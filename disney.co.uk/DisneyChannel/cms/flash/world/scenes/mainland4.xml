@@ -1,0 +1,21 @@
+<data>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<audio>
+<background>mainland_theme.mp3</background>
+</audio>
+<links>
+<link id="0">
+<title>Opening soon</title>
+</link>
+<link id="1">
+<title>PB & J Otter</title>
+<image>shopfront10.png</image>
+<url>friends/pbandj/</url>
+</link>
+<link id="2">
+<title>Go Baby!</title>
+<image>shopfront11.png</image>
+<url>clickandlearn/gobaby/</url>
+</link>
+</links>
+</data>
