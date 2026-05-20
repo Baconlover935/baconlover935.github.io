@@ -1,0 +1,42 @@
+<data>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<splashscreen>
+<location>playhouse</location>
+<music>splashscreen_theme.mp3</music>
+</splashscreen>
+<playlist location="playhouse">
+<item pos="1" type="flythru" id="intro" loader="mickey"/>
+<item pos="2" type="flythru" id="mickey" loader="mickey"/>
+<item pos="3" type="flythru" id="mickey1" loader="mickey"/>
+<item pos="4" type="flythru" id="mickey2" loader="mickey"/>
+<item pos="5" type="flythru" id="mickey3" loader="mickey"/>
+<item pos="6" type="flythru" id="pooh" loader="pooh"/>
+<item pos="7" type="flythru" id="pooh1" loader="pooh"/>
+<item pos="8" type="flythru" id="pooh2" loader="pooh"/>
+<item pos="9" type="flythru" id="pooh3" loader="pooh"/>
+<item pos="10" type="flythru" id="einsteins" loader="einsteins"/>
+<item pos="11" type="flythru" id="einsteins1" loader="einsteins"/>
+<item pos="12" type="flythru" id="einsteins2" loader="einsteins"/>
+<item pos="13" type="flythru" id="einsteins3" loader="einsteins"/>
+<item pos="14" type="flythru" id="bunnytown1" loader="bunnytown"/>
+<item pos="15" type="flythru" id="bunnytown2" loader="bunnytown"/>
+<item pos="16" type="flythru" id="mainland1" loader="mainland"/>
+<item pos="17" type="flythru" id="mainland2" loader="mainland"/>
+<item pos="18" type="flythru" id="mainland3" loader="mainland"/>
+<item pos="19" type="flythru" id="mainland4" loader="mainland"/>
+<item pos="20" type="flythru" id="mainland5" loader="mainland"/>
+<item pos="21" type="flythru" id="clouds" loader="none"/>
+</playlist>
+<copy>
+<item id="map" copy="Map"/>
+<item id="close" copy="Close"/>
+<item id="lets_go" copy="Let’s Go!"/>
+</copy>
+<map count="5">
+<item pos="1" id="mickey" link="mickey" name="Mickey's^Clubhouse"/>
+<item pos="2" id="pooh" link="pooh" name="My Friends^Tigger & Pooh"/>
+<item pos="3" id="einsteins" link="einsteins1" name="The Little^Einsteins"/>
+<item pos="4" id="bunnytown" link="bunnytown1" name="Bunnytown"/>
+<item pos="5" id="mainland" link="mainland1" name="The^Mainland"/>
+</map>
+</data>
