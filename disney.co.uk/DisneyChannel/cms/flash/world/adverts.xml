@@ -1,0 +1,17 @@
+<adverts>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<advert>
+<delay>10</delay>
+<type>rocket.swf</type>
+<layer>front</layer>
+<label_title>Jungle Junction!</label_title>
+<label_desc>Zip along to Jungle Junction!</label_desc>
+</advert>
+<advert>
+<delay>10</delay>
+<type>parachute.swf</type>
+<layer>front</layer>
+<label_title>Agent Oso!</label_title>
+<label_desc>Visit agent Oso now!</label_desc>
+</advert>
+</adverts>
