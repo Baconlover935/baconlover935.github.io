@@ -1,0 +1,12 @@
+<data>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<audio>
+<background>bunnytown_theme.mp3</background>
+</audio>
+<links>
+<link id="1">
+<title>Bunnytown</title>
+<url>bunnytown/index.html</url>
+</link>
+</links>
+</data>
