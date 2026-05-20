@@ -1,0 +1,24 @@
+<data>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<audio>
+<background>mickey_theme.mp3</background>
+</audio>
+<links>
+<link id="1">
+<title>Goofy's Silly Slide</title>
+<url>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/mickeymouseclubhouse/sillyslide.html</url>
+</link>
+<link id="2">
+<title>Mystery Picture Count Up</title>
+<url>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/mickeymouseclubhouse/mysterypiccountup.html</url>
+</link>
+<link id="3">
+<title>Print & Play</title>
+<url>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/mickeymouseclubhouse/printandplay.html</url>
+</link>
+<link id="4">
+<title>Watch a Clip</title>
+<url>https://baconlover935.github.io/disney.co.uk/DisneyChannel/playhouse/mickeymouseclubhouse/videos.html</url>
+</link>
+</links>
+</data>
