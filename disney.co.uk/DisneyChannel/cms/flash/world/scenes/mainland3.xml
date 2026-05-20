@@ -1,0 +1,26 @@
+<data>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<audio>
+<background>mainland_theme.mp3</background>
+</audio>
+<links>
+<link id="0">
+<title>Opening soon</title>
+</link>
+<link id="1">
+<title>Bear In The Big Blue House</title>
+<image>shopfront07.png</image>
+<url>friends/bear/</url>
+</link>
+<link id="2">
+<title>Rolie Polie Olie</title>
+<image>shopfront08.png</image>
+<url>friends/roliepolieolie/</url>
+</link>
+<link id="3">
+<title>Stanley</title>
+<image>shopfront09.png</image>
+<url>friends/stanley/</url>
+</link>
+</links>
+</data>
