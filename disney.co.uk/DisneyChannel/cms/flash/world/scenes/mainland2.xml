@@ -1,0 +1,26 @@
+<data>
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<audio>
+<background>mainland_theme.mp3</background>
+</audio>
+<links>
+<link id="0">
+<title>Opening soon</title>
+</link>
+<link id="1">
+<title>Higglytown Heroes</title>
+<image>shopfront04.png</image>
+<url>friends/higgly/</url>
+</link>
+<link id="2">
+<title>JoJo's Circus</title>
+<image>shopfront05.png</image>
+<url>friends/jojo/</url>
+</link>
+<link id="3">
+<title>Play with Me Sesame</title>
+<image>shopfront06.png</image>
+<url>friends/sesame/</url>
+</link>
+</links>
+</data>
