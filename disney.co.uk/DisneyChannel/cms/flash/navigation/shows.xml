@@ -1,0 +1,83 @@
+<shows moretext="More^shows">
+<script src="chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/static/js/contentInt.js"/>
+<show>
+<title>Mickey Mouse^Clubhouse</title>
+<image>mickeymouse.png</image>
+<url>mickeymouseclubhouse/index.html</url>
+</show>
+<show>
+<title>Handy Manny</title>
+<image>handymanny.png</image>
+<url>handymanny/index.html</url>
+</show>
+<show>
+<title>Search Now!</title>
+<image>WSWDT_icon.png</image>
+<url>wswdt/index.html</url>
+</show>
+<show>
+<title>Jungle^Junction</title>
+<image>junglejunction.png</image>
+<url>/junglejunction/index.html</url>
+</show>
+<show>
+<title>Special Agent^Oso</title>
+<image>oso_nav.png</image>
+<url>specialagentoso</url>
+</show>
+<show>
+<title>Little^Einsteins</title>
+<image>littleeinsteins.png</image>
+<url>littleeinsteins/index.html</url>
+</show>
+<show>
+<title>Imagination^Movers</title>
+<image>/imovers.png</image>
+<url>imaginationmovers/index.html</url>
+</show>
+<show>
+<title>My Friends^Tigger & Pooh</title>
+<image>myfriends.png</image>
+<url>tiggerandpooh/index.html</url>
+</show>
+<show>
+<title>Happy Monster ^ Band</title>
+<image>happymonsterband_icon.png</image>
+<url>happymonsterband/index.html</url>
+</show>
+<show>
+<title>Johnny & the Sprites</title>
+<image>johnny.png</image>
+<url>johnnyandthesprites/index.html</url>
+</show>
+<show>
+<title>Higglytown^Heroes</title>
+<image>higgly.png</image>
+<url>friends/higgly/index.html</url>
+</show>
+<show>
+<title>Bunnytown</title>
+<image>bunnytown.png</image>
+<url>bunnytown/index.html</url>
+</show>
+<show>
+<title>Ooh & Aah</title>
+<image>oohandaah.png</image>
+<url>oohaahandyou/index.html</url>
+</show>
+<show>
+<title>Bear in the^Big Blue House</title>
+<image>bear.png</image>
+<url>friends/bear/index.html</url>
+</show>
+<show>
+<title>JoJo's Circus</title>
+<image>jojos.png</image>
+<url>friends/jojo/index.html</url>
+</show>
+<show>
+<title>Stanley</title>
+<image>stanley.png</image>
+<url>friends/stanley/index.html</url>
+</show>
+</shows>
