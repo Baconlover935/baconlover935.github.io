@@ -52,18 +52,18 @@
 	</item>
 
 	<item property="higgly_town_heroes">
-		<text size="20"><![CDATA[Watch Higglytown Heroes everyday at 7:30am/6:30c inside Playhouse Disney!]]></text>
+		<text size="20"><![CDATA[Watch Higglytown Heroes everyday at 7:30am/6:30c on Playhouse Disney!]]></text>
 		<background>true</background>
 		<vanity size="16"/>
 	</item>
 
 	<item property="imagination_movers">
-		<text size="20"><![CDATA[Watch the Imagination Movers weekday mornings at 10/9c inside Playhouse Disney!]]></text>
+		<text size="20"><![CDATA[Watch the Imagination Movers weekday mornings at 10/9c on Playhouse Disney!]]></text>
 		<background>true</background>
 	</item>
 
 	<item property="jojos_circus">
-		<text size="20"><![CDATA[Get up and go with JoJo's Circus everyday at 6:30am/5:30c inside Playhouse Disney!]]></text>
+		<text size="20"><![CDATA[Get up and go with JoJo's Circus everyday at 6am/5c on Playhouse Disney!]]></text>
 		<background>true</background>
 	</item>
 
@@ -73,7 +73,7 @@
 	</item>
 
 	<item property="koala_brothers">
-		<text size="20"><![CDATA[Watch The Koala Brothers everyday at 10:30am/9:30c inside Playhouse Disney!]]></text>
+		<text size="20"><![CDATA[The Koala Brothers are here to help weekdays at 10:30am/9:30c on Playhouse Disney!]]></text>
 		<background>true</background>
 		<vanity size="16"/>
 	</item>
